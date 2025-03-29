@@ -1,0 +1,1533 @@
+{
+    "101": {
+        "0": {
+            "itemId": 27,
+            "itemName": "蜂蜜",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 66,
+            "itemName": "蓝蘑菇",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 25,
+            "itemName": "药草",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 52,
+            "itemName": "铁矿石",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 57,
+            "itemName": "谜之骨",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 12,
+            "itemName": "生肉",
+            "itemNum": 1
+        }
+    },
+    "102": {
+        "0": {
+            "itemId": 25,
+            "itemName": "药草",
+            "itemNum": 2
+        },
+        "1": {
+            "itemId": 66,
+            "itemName": "蓝蘑菇",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 56,
+            "itemName": "大地结晶",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 57,
+            "itemName": "谜之骨",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 12,
+            "itemName": "生肉",
+            "itemNum": 1
+        }
+    },
+    "103": {
+        "0": {
+            "itemId": 658,
+            "itemName": "历战狩猎之证Ⅰ",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 664,
+            "itemName": "护龙的上等毛皮",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 607,
+            "itemName": "护龙的净血",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 2
+        },
+        "4": {
+            "itemId": 619,
+            "itemName": "发光宝珠·剑",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 156,
+            "itemName": "发光宝珠·铠",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 597,
+            "itemName": "",
+            "itemNum": 1
+        }
+    },
+    "110": {
+        "0": {
+            "itemId": 622,
+            "itemName": "上铠玉",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 621,
+            "itemName": "铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 621,
+            "itemName": "铠玉",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 2,
+            "itemName": "回复药G",
+            "itemNum": 2
+        },
+        "4": {
+            "itemId": 126,
+            "itemName": "忍耐种子",
+            "itemNum": 1
+        }
+    },
+    "111": {
+        "0": {
+            "itemId": 579,
+            "itemName": "红莲石",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 53,
+            "itemName": "燕雀石",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 54,
+            "itemName": "辉龙石",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 58,
+            "itemName": "硬质骨头",
+            "itemNum": 2
+        },
+        "4": {
+            "itemId": 585,
+            "itemName": "漆黑的油骨",
+            "itemNum": 1
+        }
+    },
+    "150": {
+        "0": {
+            "itemId": 212,
+            "itemName": "库纳法奶酪",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 213,
+            "itemName": "浓郁库纳法奶酪",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 222,
+            "itemName": "狂野香草",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 226,
+            "itemName": "野生植物籽油",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 225,
+            "itemName": "宝石乌鱼子",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "7": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        }
+    },
+    "151": {
+        "0": {
+            "itemId": 214,
+            "itemName": "垂涎蘑菇",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 215,
+            "itemName": "盛宴蘑菇",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 223,
+            "itemName": "东部蜂蜜",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 226,
+            "itemName": "野生植物籽油",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 227,
+            "itemName": "桃毛兽王松露",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "7": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        }
+    },
+    "156": {
+        "0": {
+            "itemId": 624,
+            "itemName": "坚铠玉",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 619,
+            "itemName": "发光宝珠·剑",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 156,
+            "itemName": "发光宝珠·铠",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 158,
+            "itemName": "受损的武器碎片",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 658,
+            "itemName": "历战狩猎之证Ⅰ",
+            "itemNum": 1
+        }
+    },
+    "159": {
+        "0": {
+            "itemId": 619,
+            "itemName": "发光宝珠·剑",
+            "itemNum": 2
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 2
+        },
+        "4": {
+            "itemId": 619,
+            "itemName": "发光宝珠·剑",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 158,
+            "itemName": "受损的武器碎片",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 658,
+            "itemName": "历战狩猎之证Ⅰ",
+            "itemNum": 1
+        }
+    },
+    "161": {
+        "0": {
+            "itemId": 156,
+            "itemName": "发光宝珠·铠",
+            "itemNum": 2
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 2
+        },
+        "4": {
+            "itemId": 156,
+            "itemName": "发光宝珠·铠",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 657,
+            "itemName": "坚固的巨骨",
+            "itemNum": 1
+        }
+    },
+    "201": {
+        "0": {
+            "itemId": 621,
+            "itemName": "铠玉",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 66,
+            "itemName": "蓝蘑菇",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 25,
+            "itemName": "药草",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 53,
+            "itemName": "燕雀石",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 58,
+            "itemName": "硬质骨头",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 27,
+            "itemName": "蜂蜜",
+            "itemNum": 2
+        }
+    },
+    "301": {
+        "0": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 622,
+            "itemName": "上铠玉",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 53,
+            "itemName": "燕雀石",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 54,
+            "itemName": "辉龙石",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 58,
+            "itemName": "硬质骨头",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 27,
+            "itemName": "蜂蜜",
+            "itemNum": 2
+        }
+    },
+    "302": {
+        "0": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 622,
+            "itemName": "上铠玉",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 663,
+            "itemName": "护龙的毛皮",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 606,
+            "itemName": "护龙的血",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 438,
+            "itemName": "滋养精华",
+            "itemNum": 1
+        }
+    },
+    "303": {
+        "0": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 622,
+            "itemName": "上铠玉",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 453,
+            "itemName": "",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 606,
+            "itemName": "护龙的血",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 438,
+            "itemName": "滋养精华",
+            "itemNum": 1
+        }
+    },
+    "311": {
+        "0": {
+            "itemId": 622,
+            "itemName": "上铠玉",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 453,
+            "itemName": "",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 663,
+            "itemName": "护龙的毛皮",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 606,
+            "itemName": "护龙的血",
+            "itemNum": 1
+        }
+    },
+    "400": {
+        "0": {
+            "itemId": 417,
+            "itemName": "狂龙结晶碎片",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        }
+    },
+    "401": {
+        "0": {
+            "itemId": 654,
+            "itemName": "尖龙骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 54,
+            "itemName": "辉龙石",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 58,
+            "itemName": "硬质骨头",
+            "itemNum": 1
+        }
+    },
+    "402": {
+        "0": {
+            "itemId": 656,
+            "itemName": "坚固的骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 54,
+            "itemName": "辉龙石",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 58,
+            "itemName": "硬质骨头",
+            "itemNum": 1
+        }
+    },
+    "403": {
+        "0": {
+            "itemId": 489,
+            "itemName": "怪物浓液",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 54,
+            "itemName": "辉龙石",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 58,
+            "itemName": "硬质骨头",
+            "itemNum": 1
+        }
+    },
+    "404": {
+        "0": {
+            "itemId": 654,
+            "itemName": "尖龙骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 601,
+            "itemName": "猛毒袋",
+            "itemNum": 1
+        }
+    },
+    "405": {
+        "0": {
+            "itemId": 534,
+            "itemName": "狂奔精华",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 601,
+            "itemName": "猛毒袋",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 654,
+            "itemName": "尖龙骨",
+            "itemNum": 1
+        }
+    },
+    "406": {
+        "0": {
+            "itemId": 654,
+            "itemName": "尖龙骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 593,
+            "itemName": "爆炎袋",
+            "itemNum": 1
+        }
+    },
+    "407": {
+        "0": {
+            "itemId": 654,
+            "itemName": "尖龙骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 599,
+            "itemName": "冻结袋",
+            "itemNum": 1
+        }
+    },
+    "408": {
+        "0": {
+            "itemId": 489,
+            "itemName": "怪物浓液",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 605,
+            "itemName": "昏睡袋",
+            "itemNum": 1
+        }
+    },
+    "409": {
+        "0": {
+            "itemId": 654,
+            "itemName": "尖龙骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 595,
+            "itemName": "大水袋",
+            "itemNum": 1
+        }
+    },
+    "420": {
+        "0": {
+            "itemId": 658,
+            "itemName": "历战狩猎之证Ⅰ",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "发光宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "发光宝珠·铠",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 158,
+            "itemName": "受损的武器碎片",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 55,
+            "itemName": "灵鹤石",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 588,
+            "itemName": "良质硬骨",
+            "itemNum": 1
+        }
+    },
+    "450": {
+        "0": {
+            "itemId": 622,
+            "itemName": "上铠玉",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 54,
+            "itemName": "辉龙石",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 58,
+            "itemName": "硬质骨头",
+            "itemNum": 1
+        }
+    },
+    "500": {
+        "0": {
+            "itemId": 417,
+            "itemName": "狂龙结晶碎片",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 569,
+            "itemName": "狂龙结晶",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 619,
+            "itemName": "发光宝珠·剑",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 156,
+            "itemName": "发光宝珠·铠",
+            "itemNum": 1
+        }
+    },
+    "501": {
+        "0": {
+            "itemId": 657,
+            "itemName": "坚固的巨骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "发光宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "发光宝珠·铠",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "灵鹤石",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "良质硬骨",
+            "itemNum": 1
+        }
+    },
+    "502": {
+        "0": {
+            "itemId": 489,
+            "itemName": "怪物浓液",
+            "itemNum": 2
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "发光宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "发光宝珠·铠",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "灵鹤石",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "良质硬骨",
+            "itemNum": 1
+        }
+    },
+    "503": {
+        "0": {
+            "itemId": 654,
+            "itemName": "尖龙骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "发光宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "发光宝珠·铠",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 593,
+            "itemName": "爆炎袋",
+            "itemNum": 1
+        }
+    },
+    "504": {
+        "0": {
+            "itemId": 654,
+            "itemName": "尖龙骨",
+            "itemNum": 2
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "发光宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "发光宝珠·铠",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 593,
+            "itemName": "爆炎袋",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 605,
+            "itemName": "昏睡袋",
+            "itemNum": 1
+        }
+    },
+    "505": {
+        "0": {
+            "itemId": 664,
+            "itemName": "护龙的上等毛皮",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 607,
+            "itemName": "护龙的净血",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 619,
+            "itemName": "发光宝珠·剑",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 156,
+            "itemName": "发光宝珠·铠",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 438,
+            "itemName": "滋养精华",
+            "itemNum": 2
+        }
+    },
+    "506": {
+        "0": {
+            "itemId": 664,
+            "itemName": "护龙的上等毛皮",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 607,
+            "itemName": "护龙的净血",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 619,
+            "itemName": "发光宝珠·剑",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 156,
+            "itemName": "发光宝珠·铠",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 597,
+            "itemName": "",
+            "itemNum": 1
+        }
+    },
+    "507": {
+        "0": {
+            "itemId": 454,
+            "itemName": "护龙的上等鳞",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 607,
+            "itemName": "护龙的净血",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 619,
+            "itemName": "发光宝珠·剑",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 156,
+            "itemName": "发光宝珠·铠",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 438,
+            "itemName": "滋养精华",
+            "itemNum": 2
+        }
+    },
+    "508": {
+        "0": {
+            "itemId": 454,
+            "itemName": "护龙的上等鳞",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 607,
+            "itemName": "护龙的净血",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 619,
+            "itemName": "发光宝珠·剑",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 156,
+            "itemName": "发光宝珠·铠",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 438,
+            "itemName": "滋养精华",
+            "itemNum": 2
+        }
+    },
+    "520": {
+        "0": {
+            "itemId": 659,
+            "itemName": "历战狩猎之证Ⅱ",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "坚铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 620,
+            "itemName": "老旧宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "老旧宝珠·剑",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 158,
+            "itemName": "受损的武器碎片",
+            "itemNum": 2
+        },
+        "5": {
+            "itemId": 159,
+            "itemName": "生锈的武器碎片",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 578,
+            "itemName": "璀璨水晶",
+            "itemNum": 1
+        },
+        "7": {
+            "itemId": 61,
+            "itemName": "古老龙骨",
+            "itemNum": 1
+        }
+    },
+    "600": {
+        "0": {
+            "itemId": 569,
+            "itemName": "狂龙结晶",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "坚铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 620,
+            "itemName": "老旧宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "老旧宝珠·剑",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 417,
+            "itemName": "狂龙结晶碎片",
+            "itemNum": 2
+        },
+        "5": {
+            "itemId": 655,
+            "itemName": "坚龙骨",
+            "itemNum": 1
+        }
+    },
+    "601": {
+        "0": {
+            "itemId": 655,
+            "itemName": "坚龙骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "坚铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 620,
+            "itemName": "老旧宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "老旧宝珠·剑",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 578,
+            "itemName": "璀璨水晶",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 61,
+            "itemName": "古老龙骨",
+            "itemNum": 1
+        }
+    },
+    "602": {
+        "0": {
+            "itemId": 489,
+            "itemName": "怪物浓液",
+            "itemNum": 3
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "坚铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 620,
+            "itemName": "老旧宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "老旧宝珠·剑",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 578,
+            "itemName": "璀璨水晶",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 61,
+            "itemName": "古老龙骨",
+            "itemNum": 1
+        }
+    },
+    "603": {
+        "0": {
+            "itemId": 655,
+            "itemName": "坚龙骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "坚铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 620,
+            "itemName": "老旧宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "老旧宝珠·剑",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 595,
+            "itemName": "大水袋",
+            "itemNum": 2
+        }
+    },
+    "604": {
+        "0": {
+            "itemId": 655,
+            "itemName": "坚龙骨",
+            "itemNum": 2
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "坚铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 620,
+            "itemName": "老旧宝珠·剑",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "老旧宝珠·剑",
+            "itemNum": 2
+        },
+        "4": {
+            "itemId": 599,
+            "itemName": "冻结袋",
+            "itemNum": 2
+        }
+    },
+    "606": {
+        "0": {
+            "itemId": 569,
+            "itemName": "狂龙结晶",
+            "itemNum": 2
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "坚铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 620,
+            "itemName": "老旧宝珠·剑",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "老旧宝珠·剑",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 569,
+            "itemName": "狂龙结晶",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 655,
+            "itemName": "坚龙骨",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 657,
+            "itemName": "坚固的巨骨",
+            "itemNum": 1
+        }
+    },
+    "620": {
+        "0": {
+            "itemId": 660,
+            "itemName": "历战狩猎之证Ⅲ",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "坚铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 653,
+            "itemName": "重铠玉",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "老旧宝珠·剑",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 157,
+            "itemName": "老旧宝珠·铠",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 478,
+            "itemName": "老旧武器碎片",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 578,
+            "itemName": "璀璨水晶",
+            "itemNum": 1
+        },
+        "7": {
+            "itemId": 61,
+            "itemName": "古老龙骨",
+            "itemNum": 1
+        }
+    },
+    "621": {
+        "0": {
+            "itemId": 660,
+            "itemName": "历战狩猎之证Ⅲ",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "坚铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 653,
+            "itemName": "重铠玉",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "老旧宝珠·剑",
+            "itemNum": 2
+        },
+        "4": {
+            "itemId": 157,
+            "itemName": "老旧宝珠·铠",
+            "itemNum": 2
+        },
+        "5": {
+            "itemId": 478,
+            "itemName": "老旧武器碎片",
+            "itemNum": 2
+        }
+    },
+    "630": {
+        "0": {
+            "itemId": 660,
+            "itemName": "历战狩猎之证Ⅲ",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "坚铠玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 653,
+            "itemName": "重铠玉",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "老旧宝珠·剑",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 157,
+            "itemName": "老旧宝珠·铠",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 478,
+            "itemName": "老旧武器碎片",
+            "itemNum": 1
+        }
+    },
+    "701": {
+        "0": {
+            "itemId": 617,
+            "itemName": "",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 654,
+            "itemName": "尖龙骨",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 593,
+            "itemName": "爆炎袋",
+            "itemNum": 2
+        }
+    },
+    "702": {
+        "0": {
+            "itemId": 707,
+            "itemName": "调查队耳饰票",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 654,
+            "itemName": "尖龙骨",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "尖铠玉",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 618,
+            "itemName": "谜之宝珠·剑",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 155,
+            "itemName": "谜之宝珠·铠",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 593,
+            "itemName": "爆炎袋",
+            "itemNum": 2
+        }
+    }
+}

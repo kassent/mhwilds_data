@@ -1,0 +1,1533 @@
+{
+    "101": {
+        "0": {
+            "itemId": 27,
+            "itemName": "ハチミツ",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 66,
+            "itemName": "アオキノコ",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 25,
+            "itemName": "薬草",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 52,
+            "itemName": "鉄鉱石",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 57,
+            "itemName": "なぞの骨",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 12,
+            "itemName": "生肉",
+            "itemNum": 1
+        }
+    },
+    "102": {
+        "0": {
+            "itemId": 25,
+            "itemName": "薬草",
+            "itemNum": 2
+        },
+        "1": {
+            "itemId": 66,
+            "itemName": "アオキノコ",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 56,
+            "itemName": "大地の結晶",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 57,
+            "itemName": "なぞの骨",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 12,
+            "itemName": "生肉",
+            "itemNum": 1
+        }
+    },
+    "103": {
+        "0": {
+            "itemId": 658,
+            "itemName": "歴戦狩猟の証Ⅰ",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 664,
+            "itemName": "護竜の上毛皮",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 607,
+            "itemName": "護竜の浄血",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 2
+        },
+        "4": {
+            "itemId": 619,
+            "itemName": "光る珠・剣",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 156,
+            "itemName": "光る珠・鎧",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 597,
+            "itemName": "",
+            "itemNum": 1
+        }
+    },
+    "110": {
+        "0": {
+            "itemId": 622,
+            "itemName": "上鎧玉",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 621,
+            "itemName": "鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 621,
+            "itemName": "鎧玉",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 2,
+            "itemName": "回復薬グレート",
+            "itemNum": 2
+        },
+        "4": {
+            "itemId": 126,
+            "itemName": "忍耐の種",
+            "itemNum": 1
+        }
+    },
+    "111": {
+        "0": {
+            "itemId": 579,
+            "itemName": "紅蓮石",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 53,
+            "itemName": "マカライト鉱石",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 54,
+            "itemName": "ドラグライト鉱石",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 58,
+            "itemName": "頑丈な骨",
+            "itemNum": 2
+        },
+        "4": {
+            "itemId": 585,
+            "itemName": "黒ずんだ油骨",
+            "itemNum": 1
+        }
+    },
+    "150": {
+        "0": {
+            "itemId": 212,
+            "itemName": "クナファチーズ",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 213,
+            "itemName": "濃厚クナファチーズ",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 222,
+            "itemName": "ワイルドハーブ",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 226,
+            "itemName": "ワイルドシードオイル",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 225,
+            "itemName": "ジュエルカラスミ",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "7": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        }
+    },
+    "151": {
+        "0": {
+            "itemId": 214,
+            "itemName": "ヨダレダケ",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 215,
+            "itemName": "ゴチソウダケ",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 223,
+            "itemName": "イーストハニー",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 226,
+            "itemName": "ワイルドシードオイル",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 227,
+            "itemName": "トリュフ・ド・コンガ",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "7": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        }
+    },
+    "156": {
+        "0": {
+            "itemId": 624,
+            "itemName": "堅鎧玉",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 619,
+            "itemName": "光る珠・剣",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 156,
+            "itemName": "光る珠・鎧",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 158,
+            "itemName": "傷ついた武器片",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 658,
+            "itemName": "歴戦狩猟の証Ⅰ",
+            "itemNum": 1
+        }
+    },
+    "159": {
+        "0": {
+            "itemId": 619,
+            "itemName": "光る珠・剣",
+            "itemNum": 2
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 2
+        },
+        "4": {
+            "itemId": 619,
+            "itemName": "光る珠・剣",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 158,
+            "itemName": "傷ついた武器片",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 658,
+            "itemName": "歴戦狩猟の証Ⅰ",
+            "itemNum": 1
+        }
+    },
+    "161": {
+        "0": {
+            "itemId": 156,
+            "itemName": "光る珠・鎧",
+            "itemNum": 2
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 2
+        },
+        "4": {
+            "itemId": 156,
+            "itemName": "光る珠・鎧",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 657,
+            "itemName": "堅牢な巨骨",
+            "itemNum": 1
+        }
+    },
+    "201": {
+        "0": {
+            "itemId": 621,
+            "itemName": "鎧玉",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 66,
+            "itemName": "アオキノコ",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 25,
+            "itemName": "薬草",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 53,
+            "itemName": "マカライト鉱石",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 58,
+            "itemName": "頑丈な骨",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 27,
+            "itemName": "ハチミツ",
+            "itemNum": 2
+        }
+    },
+    "301": {
+        "0": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 622,
+            "itemName": "上鎧玉",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 53,
+            "itemName": "マカライト鉱石",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 54,
+            "itemName": "ドラグライト鉱石",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 58,
+            "itemName": "頑丈な骨",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 27,
+            "itemName": "ハチミツ",
+            "itemNum": 2
+        }
+    },
+    "302": {
+        "0": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 622,
+            "itemName": "上鎧玉",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 663,
+            "itemName": "護竜の毛皮",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 606,
+            "itemName": "護竜の血",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 438,
+            "itemName": "滋養エキス",
+            "itemNum": 1
+        }
+    },
+    "303": {
+        "0": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 622,
+            "itemName": "上鎧玉",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 453,
+            "itemName": "",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 606,
+            "itemName": "護竜の血",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 438,
+            "itemName": "滋養エキス",
+            "itemNum": 1
+        }
+    },
+    "311": {
+        "0": {
+            "itemId": 622,
+            "itemName": "上鎧玉",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 453,
+            "itemName": "",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 663,
+            "itemName": "護竜の毛皮",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 606,
+            "itemName": "護竜の血",
+            "itemNum": 1
+        }
+    },
+    "400": {
+        "0": {
+            "itemId": 417,
+            "itemName": "狂竜結晶の欠片",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        }
+    },
+    "401": {
+        "0": {
+            "itemId": 654,
+            "itemName": "尖竜骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 54,
+            "itemName": "ドラグライト鉱石",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 58,
+            "itemName": "頑丈な骨",
+            "itemNum": 1
+        }
+    },
+    "402": {
+        "0": {
+            "itemId": 656,
+            "itemName": "堅牢な骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 54,
+            "itemName": "ドラグライト鉱石",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 58,
+            "itemName": "頑丈な骨",
+            "itemNum": 1
+        }
+    },
+    "403": {
+        "0": {
+            "itemId": 489,
+            "itemName": "モンスターの濃汁",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 54,
+            "itemName": "ドラグライト鉱石",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 58,
+            "itemName": "頑丈な骨",
+            "itemNum": 1
+        }
+    },
+    "404": {
+        "0": {
+            "itemId": 654,
+            "itemName": "尖竜骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 601,
+            "itemName": "猛毒袋",
+            "itemNum": 1
+        }
+    },
+    "405": {
+        "0": {
+            "itemId": 534,
+            "itemName": "狂走エキス",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 601,
+            "itemName": "猛毒袋",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 654,
+            "itemName": "尖竜骨",
+            "itemNum": 1
+        }
+    },
+    "406": {
+        "0": {
+            "itemId": 654,
+            "itemName": "尖竜骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 593,
+            "itemName": "爆炎袋",
+            "itemNum": 1
+        }
+    },
+    "407": {
+        "0": {
+            "itemId": 654,
+            "itemName": "尖竜骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 599,
+            "itemName": "凍結袋",
+            "itemNum": 1
+        }
+    },
+    "408": {
+        "0": {
+            "itemId": 489,
+            "itemName": "モンスターの濃汁",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 605,
+            "itemName": "昏睡袋",
+            "itemNum": 1
+        }
+    },
+    "409": {
+        "0": {
+            "itemId": 654,
+            "itemName": "尖竜骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 595,
+            "itemName": "大水袋",
+            "itemNum": 1
+        }
+    },
+    "420": {
+        "0": {
+            "itemId": 658,
+            "itemName": "歴戦狩猟の証Ⅰ",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "光る珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "光る珠・鎧",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 158,
+            "itemName": "傷ついた武器片",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 55,
+            "itemName": "カブレライト鉱石",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 588,
+            "itemName": "上質な堅骨",
+            "itemNum": 1
+        }
+    },
+    "450": {
+        "0": {
+            "itemId": 622,
+            "itemName": "上鎧玉",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 54,
+            "itemName": "ドラグライト鉱石",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 58,
+            "itemName": "頑丈な骨",
+            "itemNum": 1
+        }
+    },
+    "500": {
+        "0": {
+            "itemId": 417,
+            "itemName": "狂竜結晶の欠片",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 569,
+            "itemName": "狂竜結晶",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 619,
+            "itemName": "光る珠・剣",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 156,
+            "itemName": "光る珠・鎧",
+            "itemNum": 1
+        }
+    },
+    "501": {
+        "0": {
+            "itemId": 657,
+            "itemName": "堅牢な巨骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "光る珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "光る珠・鎧",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "カブレライト鉱石",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "上質な堅骨",
+            "itemNum": 1
+        }
+    },
+    "502": {
+        "0": {
+            "itemId": 489,
+            "itemName": "モンスターの濃汁",
+            "itemNum": 2
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "光る珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "光る珠・鎧",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "カブレライト鉱石",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "上質な堅骨",
+            "itemNum": 1
+        }
+    },
+    "503": {
+        "0": {
+            "itemId": 654,
+            "itemName": "尖竜骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "光る珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "光る珠・鎧",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 593,
+            "itemName": "爆炎袋",
+            "itemNum": 1
+        }
+    },
+    "504": {
+        "0": {
+            "itemId": 654,
+            "itemName": "尖竜骨",
+            "itemNum": 2
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "光る珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "光る珠・鎧",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 593,
+            "itemName": "爆炎袋",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 605,
+            "itemName": "昏睡袋",
+            "itemNum": 1
+        }
+    },
+    "505": {
+        "0": {
+            "itemId": 664,
+            "itemName": "護竜の上毛皮",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 607,
+            "itemName": "護竜の浄血",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 619,
+            "itemName": "光る珠・剣",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 156,
+            "itemName": "光る珠・鎧",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 438,
+            "itemName": "滋養エキス",
+            "itemNum": 2
+        }
+    },
+    "506": {
+        "0": {
+            "itemId": 664,
+            "itemName": "護竜の上毛皮",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 607,
+            "itemName": "護竜の浄血",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 619,
+            "itemName": "光る珠・剣",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 156,
+            "itemName": "光る珠・鎧",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 597,
+            "itemName": "",
+            "itemNum": 1
+        }
+    },
+    "507": {
+        "0": {
+            "itemId": 454,
+            "itemName": "護竜の上鱗",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 607,
+            "itemName": "護竜の浄血",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 619,
+            "itemName": "光る珠・剣",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 156,
+            "itemName": "光る珠・鎧",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 438,
+            "itemName": "滋養エキス",
+            "itemNum": 2
+        }
+    },
+    "508": {
+        "0": {
+            "itemId": 454,
+            "itemName": "護竜の上鱗",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 607,
+            "itemName": "護竜の浄血",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 619,
+            "itemName": "光る珠・剣",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 156,
+            "itemName": "光る珠・鎧",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 438,
+            "itemName": "滋養エキス",
+            "itemNum": 2
+        }
+    },
+    "520": {
+        "0": {
+            "itemId": 659,
+            "itemName": "歴戦狩猟の証Ⅱ",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "堅鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 620,
+            "itemName": "古びた珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "古びた珠・剣",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 158,
+            "itemName": "傷ついた武器片",
+            "itemNum": 2
+        },
+        "5": {
+            "itemId": 159,
+            "itemName": "さびた武器片",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 578,
+            "itemName": "ノヴァクリスタル",
+            "itemNum": 1
+        },
+        "7": {
+            "itemId": 61,
+            "itemName": "いにしえの龍骨",
+            "itemNum": 1
+        }
+    },
+    "600": {
+        "0": {
+            "itemId": 569,
+            "itemName": "狂竜結晶",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "堅鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 620,
+            "itemName": "古びた珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "古びた珠・剣",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 417,
+            "itemName": "狂竜結晶の欠片",
+            "itemNum": 2
+        },
+        "5": {
+            "itemId": 655,
+            "itemName": "堅竜骨",
+            "itemNum": 1
+        }
+    },
+    "601": {
+        "0": {
+            "itemId": 655,
+            "itemName": "堅竜骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "堅鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 620,
+            "itemName": "古びた珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "古びた珠・剣",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 578,
+            "itemName": "ノヴァクリスタル",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 61,
+            "itemName": "いにしえの龍骨",
+            "itemNum": 1
+        }
+    },
+    "602": {
+        "0": {
+            "itemId": 489,
+            "itemName": "モンスターの濃汁",
+            "itemNum": 3
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "堅鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 620,
+            "itemName": "古びた珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "古びた珠・剣",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 578,
+            "itemName": "ノヴァクリスタル",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 61,
+            "itemName": "いにしえの龍骨",
+            "itemNum": 1
+        }
+    },
+    "603": {
+        "0": {
+            "itemId": 655,
+            "itemName": "堅竜骨",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "堅鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 620,
+            "itemName": "古びた珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "古びた珠・剣",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 595,
+            "itemName": "大水袋",
+            "itemNum": 2
+        }
+    },
+    "604": {
+        "0": {
+            "itemId": 655,
+            "itemName": "堅竜骨",
+            "itemNum": 2
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "堅鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 620,
+            "itemName": "古びた珠・剣",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "古びた珠・剣",
+            "itemNum": 2
+        },
+        "4": {
+            "itemId": 599,
+            "itemName": "凍結袋",
+            "itemNum": 2
+        }
+    },
+    "606": {
+        "0": {
+            "itemId": 569,
+            "itemName": "狂竜結晶",
+            "itemNum": 2
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "堅鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 620,
+            "itemName": "古びた珠・剣",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "古びた珠・剣",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 569,
+            "itemName": "狂竜結晶",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 655,
+            "itemName": "堅竜骨",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 657,
+            "itemName": "堅牢な巨骨",
+            "itemNum": 1
+        }
+    },
+    "620": {
+        "0": {
+            "itemId": 660,
+            "itemName": "歴戦狩猟の証Ⅲ",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "堅鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 653,
+            "itemName": "重鎧玉",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "古びた珠・剣",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 157,
+            "itemName": "古びた珠・鎧",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 478,
+            "itemName": "古びた武器片",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 578,
+            "itemName": "ノヴァクリスタル",
+            "itemNum": 1
+        },
+        "7": {
+            "itemId": 61,
+            "itemName": "いにしえの龍骨",
+            "itemNum": 1
+        }
+    },
+    "621": {
+        "0": {
+            "itemId": 660,
+            "itemName": "歴戦狩猟の証Ⅲ",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "堅鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 653,
+            "itemName": "重鎧玉",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "古びた珠・剣",
+            "itemNum": 2
+        },
+        "4": {
+            "itemId": 157,
+            "itemName": "古びた珠・鎧",
+            "itemNum": 2
+        },
+        "5": {
+            "itemId": 478,
+            "itemName": "古びた武器片",
+            "itemNum": 2
+        }
+    },
+    "630": {
+        "0": {
+            "itemId": 660,
+            "itemName": "歴戦狩猟の証Ⅲ",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "堅鎧玉",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 653,
+            "itemName": "重鎧玉",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "古びた珠・剣",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 157,
+            "itemName": "古びた珠・鎧",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 478,
+            "itemName": "古びた武器片",
+            "itemNum": 1
+        }
+    },
+    "701": {
+        "0": {
+            "itemId": 617,
+            "itemName": "",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 654,
+            "itemName": "尖竜骨",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 593,
+            "itemName": "爆炎袋",
+            "itemNum": 2
+        }
+    },
+    "702": {
+        "0": {
+            "itemId": 707,
+            "itemName": "調査隊耳飾りチケット",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 654,
+            "itemName": "尖竜骨",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "尖鎧玉",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 618,
+            "itemName": "なぞの珠・剣",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 155,
+            "itemName": "なぞの珠・鎧",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 593,
+            "itemName": "爆炎袋",
+            "itemNum": 2
+        }
+    }
+}

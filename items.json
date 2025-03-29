@@ -1,0 +1,6522 @@
+[
+    {
+        "id": 0,
+        "fixedId": 1,
+        "label": "NONE",
+        "name": {
+            "cn": "---",
+            "en": "---",
+            "jp": "---"
+        }
+    },
+    {
+        "id": 1,
+        "fixedId": 2,
+        "label": "ITEM_0000",
+        "name": {
+            "cn": "回复药",
+            "en": "Potion",
+            "jp": "回復薬"
+        }
+    },
+    {
+        "id": 2,
+        "fixedId": 3,
+        "label": "ITEM_0001",
+        "name": {
+            "cn": "回复药G",
+            "en": "Mega Potion",
+            "jp": "回復薬グレート"
+        }
+    },
+    {
+        "id": 3,
+        "fixedId": 4,
+        "label": "ITEM_0002",
+        "name": {
+            "cn": "解毒药",
+            "en": "Antidote",
+            "jp": "解毒薬"
+        }
+    },
+    {
+        "id": 4,
+        "fixedId": 5,
+        "label": "ITEM_0003",
+        "name": {
+            "cn": "秘药",
+            "en": "Max Potion",
+            "jp": "秘薬"
+        }
+    },
+    {
+        "id": 5,
+        "fixedId": 6,
+        "label": "ITEM_0004",
+        "name": {
+            "cn": "远古秘药",
+            "en": "Ancient Potion",
+            "jp": "いにしえの秘薬"
+        }
+    },
+    {
+        "id": 6,
+        "fixedId": 7,
+        "label": "ITEM_0005",
+        "name": {
+            "cn": "打消果实",
+            "en": "Nulberry",
+            "jp": "ウチケシの実"
+        }
+    },
+    {
+        "id": 7,
+        "fixedId": 8,
+        "label": "ITEM_0006",
+        "name": {
+            "cn": "携带食料",
+            "en": "Ration",
+            "jp": "携帯食料"
+        }
+    },
+    {
+        "id": 8,
+        "fixedId": 9,
+        "label": "ITEM_0007",
+        "name": {
+            "cn": "烤熟的肉",
+            "en": "Well-done Steak",
+            "jp": "こんがり肉"
+        }
+    },
+    {
+        "id": 9,
+        "fixedId": 10,
+        "label": "ITEM_0008",
+        "name": {
+            "cn": "半生肉",
+            "en": "Rare Steak",
+            "jp": "生焼け肉"
+        }
+    },
+    {
+        "id": 10,
+        "fixedId": 11,
+        "label": "ITEM_0009",
+        "name": {
+            "cn": "烤焦的肉",
+            "en": "Burnt Meat",
+            "jp": "コゲ肉"
+        }
+    },
+    {
+        "id": 11,
+        "fixedId": 12,
+        "label": "ITEM_0010",
+        "name": {
+            "cn": "生命粉尘",
+            "en": "Lifepowder",
+            "jp": "生命の粉塵"
+        }
+    },
+    {
+        "id": 12,
+        "fixedId": 13,
+        "label": "ITEM_0011",
+        "name": {
+            "cn": "生肉",
+            "en": "Raw Meat",
+            "jp": "生肉"
+        }
+    },
+    {
+        "id": 13,
+        "fixedId": 14,
+        "label": "ITEM_0012",
+        "name": {
+            "cn": "小桶爆弹",
+            "en": "Barrel Bomb",
+            "jp": "小タル爆弾"
+        }
+    },
+    {
+        "id": 14,
+        "fixedId": 15,
+        "label": "ITEM_0013",
+        "name": {
+            "cn": "大桶爆弹",
+            "en": "Large Barrel Bomb",
+            "jp": "大タル爆弾"
+        }
+    },
+    {
+        "id": 15,
+        "fixedId": 16,
+        "label": "ITEM_0014",
+        "name": {
+            "cn": "投射器闪光弹",
+            "en": "Flash Pod",
+            "jp": "スリンガー閃光弾"
+        }
+    },
+    {
+        "id": 16,
+        "fixedId": 17,
+        "label": "ITEM_0015",
+        "name": {
+            "cn": "石块",
+            "en": "Stone",
+            "jp": "石ころ"
+        }
+    },
+    {
+        "id": 17,
+        "fixedId": 18,
+        "label": "ITEM_0016",
+        "name": {
+            "cn": "捕获用网子",
+            "en": "Capture Net",
+            "jp": "捕獲用ネット"
+        }
+    },
+    {
+        "id": 18,
+        "fixedId": 19,
+        "label": "ITEM_0017",
+        "name": {
+            "cn": "落穴陷阱",
+            "en": "Pitfall Trap",
+            "jp": "落とし穴"
+        }
+    },
+    {
+        "id": 19,
+        "fixedId": 20,
+        "label": "ITEM_0018",
+        "name": {
+            "cn": "麻痹陷阱",
+            "en": "Shock Trap",
+            "jp": "シビレ罠"
+        }
+    },
+    {
+        "id": 20,
+        "fixedId": 21,
+        "label": "ITEM_0019",
+        "name": {
+            "cn": "砥石",
+            "en": "Whetstone",
+            "jp": "砥石"
+        }
+    },
+    {
+        "id": 22,
+        "fixedId": 23,
+        "label": "ITEM_0021",
+        "name": {
+            "cn": "望远镜",
+            "en": "Binoculars",
+            "jp": "双眼鏡"
+        }
+    },
+    {
+        "id": 23,
+        "fixedId": 24,
+        "label": "ITEM_0022",
+        "name": {
+            "cn": "设营工具",
+            "en": "Camping Kit",
+            "jp": "キャンプ設営キット"
+        }
+    },
+    {
+        "id": 24,
+        "fixedId": 25,
+        "label": "ITEM_0023",
+        "name": {
+            "cn": "便携营火炉",
+            "en": "Portable BBQ Grill",
+            "jp": "携帯焚き火台"
+        }
+    },
+    {
+        "id": 25,
+        "fixedId": 26,
+        "label": "ITEM_0025",
+        "name": {
+            "cn": "药草",
+            "en": "Herb",
+            "jp": "薬草"
+        }
+    },
+    {
+        "id": 26,
+        "fixedId": 27,
+        "label": "ITEM_0026",
+        "name": {
+            "cn": "解毒草",
+            "en": "Antidote Herb",
+            "jp": "げどく草"
+        }
+    },
+    {
+        "id": 27,
+        "fixedId": 28,
+        "label": "ITEM_0027",
+        "name": {
+            "cn": "蜂蜜",
+            "en": "Honey",
+            "jp": "ハチミツ"
+        }
+    },
+    {
+        "id": 28,
+        "fixedId": 29,
+        "label": "ITEM_0028",
+        "name": {
+            "cn": "苦虫汁",
+            "en": "Bitterbug Broth",
+            "jp": "にが虫の苦汁"
+        }
+    },
+    {
+        "id": 29,
+        "fixedId": 30,
+        "label": "ITEM_0029",
+        "name": {
+            "cn": "光虫荧光素",
+            "en": "Flashbug Phosphor",
+            "jp": "光蟲の発光素"
+        }
+    },
+    {
+        "id": 30,
+        "fixedId": 31,
+        "label": "ITEM_0030",
+        "name": {
+            "cn": "不死虫精华",
+            "en": "Godbug Essence",
+            "jp": "不死虫のエキス"
+        }
+    },
+    {
+        "id": 31,
+        "fixedId": 32,
+        "label": "ITEM_0031",
+        "name": {
+            "cn": "雷光虫蓄电素",
+            "en": "Thunderbug Capacitor",
+            "jp": "雷光虫の蓄電素"
+        }
+    },
+    {
+        "id": 32,
+        "fixedId": 33,
+        "label": "ITEM_0032",
+        "name": {
+            "cn": "辟兽的皮",
+            "en": "Doshaguma Hide",
+            "jp": "闢獣の皮"
+        }
+    },
+    {
+        "id": 33,
+        "fixedId": 34,
+        "label": "ITEM_0033",
+        "name": {
+            "cn": "辟兽的毛",
+            "en": "Doshaguma Fur",
+            "jp": "闢獣の毛"
+        }
+    },
+    {
+        "id": 34,
+        "fixedId": 35,
+        "label": "ITEM_0034",
+        "name": {
+            "cn": "辟兽的爪",
+            "en": "Doshaguma Claw",
+            "jp": "闢獣の爪"
+        }
+    },
+    {
+        "id": 35,
+        "fixedId": 36,
+        "label": "ITEM_0035",
+        "name": {
+            "cn": "辟兽的牙",
+            "en": "Doshaguma Fang",
+            "jp": "闢獣の牙"
+        }
+    },
+    {
+        "id": 36,
+        "fixedId": 37,
+        "label": "ITEM_0036",
+        "name": {
+            "cn": "兽玉",
+            "en": "Beast Gem",
+            "jp": "獣玉"
+        }
+    },
+    {
+        "id": 37,
+        "fixedId": 38,
+        "label": "ITEM_0037",
+        "name": {
+            "cn": "通常弹",
+            "en": "Normal Ammo",
+            "jp": "通常弾"
+        }
+    },
+    {
+        "id": 38,
+        "fixedId": 39,
+        "label": "ITEM_0040",
+        "name": {
+            "cn": "贯穿弹",
+            "en": "Pierce Ammo",
+            "jp": "貫通弾"
+        }
+    },
+    {
+        "id": 39,
+        "fixedId": 40,
+        "label": "ITEM_0043",
+        "name": {
+            "cn": "散弹",
+            "en": "Spread Ammo",
+            "jp": "散弾"
+        }
+    },
+    {
+        "id": 40,
+        "fixedId": 41,
+        "label": "ITEM_0046",
+        "name": {
+            "cn": "穿甲榴弹",
+            "en": "Sticky Ammo",
+            "jp": "徹甲榴弾"
+        }
+    },
+    {
+        "id": 41,
+        "fixedId": 42,
+        "label": "ITEM_0049",
+        "name": {
+            "cn": "扩散弹",
+            "en": "Cluster Bomb",
+            "jp": "拡散弾"
+        }
+    },
+    {
+        "id": 42,
+        "fixedId": 43,
+        "label": "ITEM_0052",
+        "name": {
+            "cn": "火炎弹",
+            "en": "Flaming Ammo",
+            "jp": "火炎弾"
+        }
+    },
+    {
+        "id": 43,
+        "fixedId": 44,
+        "label": "ITEM_0053",
+        "name": {
+            "cn": "水冷弹",
+            "en": "Water Ammo",
+            "jp": "水冷弾"
+        }
+    },
+    {
+        "id": 44,
+        "fixedId": 45,
+        "label": "ITEM_0054",
+        "name": {
+            "cn": "电击弹",
+            "en": "Thunder Ammo",
+            "jp": "電撃弾"
+        }
+    },
+    {
+        "id": 45,
+        "fixedId": 46,
+        "label": "ITEM_0055",
+        "name": {
+            "cn": "冰结弹",
+            "en": "Freeze Ammo",
+            "jp": "氷結弾"
+        }
+    },
+    {
+        "id": 46,
+        "fixedId": 47,
+        "label": "ITEM_0056",
+        "name": {
+            "cn": "灭龙弹",
+            "en": "Dragon Ammo",
+            "jp": "滅龍弾"
+        }
+    },
+    {
+        "id": 47,
+        "fixedId": 48,
+        "label": "ITEM_0057",
+        "name": {
+            "cn": "毒弹",
+            "en": "Poison Ammo",
+            "jp": "毒弾"
+        }
+    },
+    {
+        "id": 48,
+        "fixedId": 49,
+        "label": "ITEM_0059",
+        "name": {
+            "cn": "麻痹弹",
+            "en": "Paralysis Ammo",
+            "jp": "麻痺弾"
+        }
+    },
+    {
+        "id": 49,
+        "fixedId": 50,
+        "label": "ITEM_0061",
+        "name": {
+            "cn": "睡眠弹",
+            "en": "Sleep Ammo",
+            "jp": "睡眠弾"
+        }
+    },
+    {
+        "id": 50,
+        "fixedId": 51,
+        "label": "ITEM_0068",
+        "name": {
+            "cn": "斩裂弹",
+            "en": "Slicing Ammo",
+            "jp": "斬裂弾"
+        }
+    },
+    {
+        "id": 51,
+        "fixedId": 52,
+        "label": "ITEM_0072",
+        "name": {
+            "cn": "棘草果实",
+            "en": "Thorngrass Pod",
+            "jp": "トゲ草の実"
+        }
+    },
+    {
+        "id": 52,
+        "fixedId": 53,
+        "label": "ITEM_0074",
+        "name": {
+            "cn": "铁矿石",
+            "en": "Iron Ore",
+            "jp": "鉄鉱石"
+        }
+    },
+    {
+        "id": 53,
+        "fixedId": 54,
+        "label": "ITEM_0075",
+        "name": {
+            "cn": "燕雀石",
+            "en": "Machalite Ore",
+            "jp": "マカライト鉱石"
+        }
+    },
+    {
+        "id": 54,
+        "fixedId": 55,
+        "label": "ITEM_0076",
+        "name": {
+            "cn": "辉龙石",
+            "en": "Dragonite Ore",
+            "jp": "ドラグライト鉱石"
+        }
+    },
+    {
+        "id": 55,
+        "fixedId": 56,
+        "label": "ITEM_0077",
+        "name": {
+            "cn": "灵鹤石",
+            "en": "Carbalite Ore",
+            "jp": "カブレライト鉱石"
+        }
+    },
+    {
+        "id": 56,
+        "fixedId": 57,
+        "label": "ITEM_0078",
+        "name": {
+            "cn": "大地结晶",
+            "en": "Earth Crystal",
+            "jp": "大地の結晶"
+        }
+    },
+    {
+        "id": 57,
+        "fixedId": 58,
+        "label": "ITEM_0079",
+        "name": {
+            "cn": "谜之骨",
+            "en": "Mystery Bone",
+            "jp": "なぞの骨"
+        }
+    },
+    {
+        "id": 58,
+        "fixedId": 59,
+        "label": "ITEM_0080",
+        "name": {
+            "cn": "硬质骨头",
+            "en": "Sturdy Bone",
+            "jp": "頑丈な骨"
+        }
+    },
+    {
+        "id": 59,
+        "fixedId": 60,
+        "label": "ITEM_0081",
+        "name": {
+            "cn": "兽骨",
+            "en": "Brute Bone",
+            "jp": "獣骨"
+        }
+    },
+    {
+        "id": 60,
+        "fixedId": 61,
+        "label": "ITEM_0082",
+        "name": {
+            "cn": "粗兽骨",
+            "en": "Colossal Bone",
+            "jp": "太い獣骨"
+        }
+    },
+    {
+        "id": 61,
+        "fixedId": 62,
+        "label": "ITEM_0083",
+        "name": {
+            "cn": "古老龙骨",
+            "en": "Dragonbone Relic",
+            "jp": "いにしえの龍骨"
+        }
+    },
+    {
+        "id": 65,
+        "fixedId": 66,
+        "label": "ITEM_0087",
+        "name": {
+            "cn": "曼陀罗",
+            "en": "Mandragora",
+            "jp": "マンドラゴラ"
+        }
+    },
+    {
+        "id": 66,
+        "fixedId": 67,
+        "label": "ITEM_0088",
+        "name": {
+            "cn": "蓝蘑菇",
+            "en": "Blue Mushroom",
+            "jp": "アオキノコ"
+        }
+    },
+    {
+        "id": 68,
+        "fixedId": 69,
+        "label": "ITEM_0090",
+        "name": {
+            "cn": "投射器爆裂石",
+            "en": "Burst Pod",
+            "jp": "スリンガーハジケ石"
+        }
+    },
+    {
+        "id": 69,
+        "fixedId": 70,
+        "label": "ITEM_0091",
+        "name": {
+            "cn": "投射器音爆弹",
+            "en": "Screamer Pod",
+            "jp": "スリンガー音爆弾"
+        }
+    },
+    {
+        "id": 70,
+        "fixedId": 71,
+        "label": "ITEM_0092",
+        "name": {
+            "cn": "投射器裂伤弹",
+            "en": "Bleeding Pod",
+            "jp": "スリンガー裂傷弾"
+        }
+    },
+    {
+        "id": 71,
+        "fixedId": 72,
+        "label": "ITEM_0093",
+        "name": {
+            "cn": "投射器异臭弹",
+            "en": "Dung Pod",
+            "jp": "スリンガーこやし弾"
+        }
+    },
+    {
+        "id": 72,
+        "fixedId": 73,
+        "label": "ITEM_0096",
+        "name": {
+            "cn": "陷阱工具",
+            "en": "Trap Tool",
+            "jp": "トラップツール"
+        }
+    },
+    {
+        "id": 73,
+        "fixedId": 74,
+        "label": "ITEM_0097",
+        "name": {
+            "cn": "心跳加速菇",
+            "en": "Exciteshroom",
+            "jp": "ドキドキノコ"
+        }
+    },
+    {
+        "id": 74,
+        "fixedId": 75,
+        "label": "ITEM_0098",
+        "name": {
+            "cn": "烟果实",
+            "en": "Smokenut",
+            "jp": "ケムリの実"
+        }
+    },
+    {
+        "id": 75,
+        "fixedId": 76,
+        "label": "ITEM_0099",
+        "name": {
+            "cn": "常春藤叶",
+            "en": "Ivy",
+            "jp": "ツタの葉"
+        }
+    },
+    {
+        "id": 76,
+        "fixedId": 77,
+        "label": "ITEM_0100",
+        "name": {
+            "cn": "回归球",
+            "en": "Farcaster",
+            "jp": "モドリ玉"
+        }
+    },
+    {
+        "id": 79,
+        "fixedId": 80,
+        "label": "ITEM_0103",
+        "name": {
+            "cn": "沙海龙的甲壳",
+            "en": "Balahara Shell",
+            "jp": "沙海竜の甲殻"
+        }
+    },
+    {
+        "id": 80,
+        "fixedId": 81,
+        "label": "ITEM_0104",
+        "name": {
+            "cn": "沙海龙的鳞",
+            "en": "Balahara Scale",
+            "jp": "沙海竜の鱗"
+        }
+    },
+    {
+        "id": 81,
+        "fixedId": 82,
+        "label": "ITEM_0105",
+        "name": {
+            "cn": "沙海龙的头壳",
+            "en": "Balahara Skull",
+            "jp": "沙海竜の頭殻"
+        }
+    },
+    {
+        "id": 82,
+        "fixedId": 83,
+        "label": "ITEM_0106",
+        "name": {
+            "cn": "沙海龙的尾巴",
+            "en": "Balahara Tail",
+            "jp": "沙海竜の尻尾"
+        }
+    },
+    {
+        "id": 83,
+        "fixedId": 84,
+        "label": "ITEM_0107",
+        "name": {
+            "cn": "缠蛙的颚",
+            "en": "Chatacabra Jaw",
+            "jp": "纏蛙の顎"
+        }
+    },
+    {
+        "id": 84,
+        "fixedId": 85,
+        "label": "ITEM_0108",
+        "name": {
+            "cn": "缠蛙的皮",
+            "en": "Chatacabra Hide",
+            "jp": "纏蛙の皮"
+        }
+    },
+    {
+        "id": 85,
+        "fixedId": 86,
+        "label": "ITEM_0109",
+        "name": {
+            "cn": "缠蛙的缠甲",
+            "en": "Chatacabra Shell",
+            "jp": "纏蛙の纏甲"
+        }
+    },
+    {
+        "id": 86,
+        "fixedId": 87,
+        "label": "ITEM_0110",
+        "name": {
+            "cn": "缠蛙的鳞",
+            "en": "Chatacabra Scale",
+            "jp": "纏蛙の鱗"
+        }
+    },
+    {
+        "id": 87,
+        "fixedId": 88,
+        "label": "ITEM_0111",
+        "name": {
+            "cn": "炎尾龙的鳞",
+            "en": "Quematrice Scale",
+            "jp": "炎尾竜の鱗"
+        }
+    },
+    {
+        "id": 88,
+        "fixedId": 89,
+        "label": "ITEM_0112",
+        "name": {
+            "cn": "炎尾龙的皮",
+            "en": "Quematrice Hide",
+            "jp": "炎尾竜の皮"
+        }
+    },
+    {
+        "id": 89,
+        "fixedId": 90,
+        "label": "ITEM_0113",
+        "name": {
+            "cn": "炎尾龙的头冠",
+            "en": "Quematrice Crest",
+            "jp": "炎尾竜のトサカ"
+        }
+    },
+    {
+        "id": 90,
+        "fixedId": 91,
+        "label": "ITEM_0114",
+        "name": {
+            "cn": "炎尾龙的尾巴",
+            "en": "Quematrice Tail",
+            "jp": "炎尾竜の尻尾"
+        }
+    },
+    {
+        "id": 91,
+        "fixedId": 92,
+        "label": "ITEM_0115",
+        "name": {
+            "cn": "龙玉",
+            "en": "Wyvern Gem",
+            "jp": "竜玉"
+        }
+    },
+    {
+        "id": 92,
+        "fixedId": 93,
+        "label": "ITEM_0116",
+        "name": {
+            "cn": "草食种的甲壳",
+            "en": "Herbivore Shell",
+            "jp": "草食種の甲殻"
+        }
+    },
+    {
+        "id": 93,
+        "fixedId": 94,
+        "label": "ITEM_0117",
+        "name": {
+            "cn": "血盗虫的甲壳",
+            "en": "Bulaqchi Shell",
+            "jp": "ブブラチカの甲殻"
+        }
+    },
+    {
+        "id": 94,
+        "fixedId": 95,
+        "label": "ITEM_0118",
+        "name": {
+            "cn": "钳速龙的鳞",
+            "en": "Talioth Scale",
+            "jp": "タリオスの鱗"
+        }
+    },
+    {
+        "id": 95,
+        "fixedId": 96,
+        "label": "ITEM_0119",
+        "name": {
+            "cn": "尖牙",
+            "en": "Sharp Fang",
+            "jp": "とがった牙"
+        }
+    },
+    {
+        "id": 96,
+        "fixedId": 97,
+        "label": "ITEM_0120",
+        "name": {
+            "cn": "翼龙的皮",
+            "en": "Wingdrake Hide",
+            "jp": "翼竜の皮"
+        }
+    },
+    {
+        "id": 97,
+        "fixedId": 98,
+        "label": "ITEM_0121",
+        "name": {
+            "cn": "锐利的牙",
+            "en": "Acute Fang",
+            "jp": "鋭利な牙"
+        }
+    },
+    {
+        "id": 98,
+        "fixedId": 99,
+        "label": "ITEM_0122",
+        "name": {
+            "cn": "怪物的粪",
+            "en": "Dung",
+            "jp": "モンスターのフン"
+        }
+    },
+    {
+        "id": 99,
+        "fixedId": 100,
+        "label": "ITEM_0123",
+        "name": {
+            "cn": "<COLOR FF0000>#Rejected#</COLOR> Item_IT_100",
+            "en": "<COLOR FF0000>#Rejected#</COLOR> Item_IT_100",
+            "jp": "<COLOR FF0000>#Rejected#</COLOR> Item_IT_100"
+        }
+    },
+    {
+        "id": 100,
+        "fixedId": 101,
+        "label": "ITEM_0124",
+        "name": {
+            "cn": "滚成球的粪",
+            "en": "Rolled-up Dung",
+            "jp": "ころがされたフン"
+        }
+    },
+    {
+        "id": 101,
+        "fixedId": 102,
+        "label": "ITEM_0125",
+        "name": {
+            "cn": "雌火龙的上等鳞",
+            "en": "Rathian Scale+",
+            "jp": "雌火竜の上鱗"
+        }
+    },
+    {
+        "id": 102,
+        "fixedId": 103,
+        "label": "ITEM_0126",
+        "name": {
+            "cn": "雌火龙的坚壳",
+            "en": "Rathian Carapace",
+            "jp": "雌火竜の堅殻"
+        }
+    },
+    {
+        "id": 103,
+        "fixedId": 104,
+        "label": "ITEM_0127",
+        "name": {
+            "cn": "雌火龙的翼膜",
+            "en": "Rathian Webbing",
+            "jp": "雌火竜の翼膜"
+        }
+    },
+    {
+        "id": 104,
+        "fixedId": 105,
+        "label": "ITEM_0128",
+        "name": {
+            "cn": "雌火龙的上等棘",
+            "en": "Rathian Spike+",
+            "jp": "雌火竜の上棘"
+        }
+    },
+    {
+        "id": 105,
+        "fixedId": 106,
+        "label": "ITEM_0129",
+        "name": {
+            "cn": "雌火龙的红玉",
+            "en": "Rathian Ruby",
+            "jp": "雌火竜の紅玉"
+        }
+    },
+    {
+        "id": 112,
+        "fixedId": 113,
+        "label": "ITEM_0139",
+        "name": {
+            "cn": "毒菇",
+            "en": "Toadstool",
+            "jp": "毒テングダケ"
+        }
+    },
+    {
+        "id": 113,
+        "fixedId": 114,
+        "label": "ITEM_0140",
+        "name": {
+            "cn": "麻痹菇",
+            "en": "Parashroom",
+            "jp": "マヒダケ"
+        }
+    },
+    {
+        "id": 114,
+        "fixedId": 115,
+        "label": "ITEM_0141",
+        "name": {
+            "cn": "眠草",
+            "en": "Sleep Herb",
+            "jp": "ネムリ草"
+        }
+    },
+    {
+        "id": 115,
+        "fixedId": 116,
+        "label": "ITEM_0142",
+        "name": {
+            "cn": "火药草",
+            "en": "Fire Herb",
+            "jp": "火薬草"
+        }
+    },
+    {
+        "id": 116,
+        "fixedId": 117,
+        "label": "ITEM_0143",
+        "name": {
+            "cn": "流水草",
+            "en": "Flowfern",
+            "jp": "流水草"
+        }
+    },
+    {
+        "id": 117,
+        "fixedId": 118,
+        "label": "ITEM_0144",
+        "name": {
+            "cn": "霜降草",
+            "en": "Snow Herb",
+            "jp": "霜ふり草"
+        }
+    },
+    {
+        "id": 118,
+        "fixedId": 119,
+        "label": "ITEM_0145",
+        "name": {
+            "cn": "屠龙果实",
+            "en": "Dragonfell Berry",
+            "jp": "龍殺しの実"
+        }
+    },
+    {
+        "id": 119,
+        "fixedId": 120,
+        "label": "ITEM_0146",
+        "name": {
+            "cn": "应急药",
+            "en": "First-aid Med",
+            "jp": "応急薬"
+        }
+    },
+    {
+        "id": 120,
+        "fixedId": 121,
+        "label": "ITEM_0147",
+        "name": {
+            "cn": "补给专用携带食料",
+            "en": "EZ Ration",
+            "jp": "支給用携帯食料"
+        }
+    },
+    {
+        "id": 121,
+        "fixedId": 122,
+        "label": "ITEM_0148",
+        "name": {
+            "cn": "补给专用闪光弹",
+            "en": "EZ Flash Bomb",
+            "jp": "支給用閃光弾"
+        }
+    },
+    {
+        "id": 122,
+        "fixedId": 123,
+        "label": "ITEM_0149",
+        "name": {
+            "cn": "补给专用麻痹陷阱",
+            "en": "EZ Shock Trap",
+            "jp": "支給用シビレ罠"
+        }
+    },
+    {
+        "id": 123,
+        "fixedId": 124,
+        "label": "ITEM_0150",
+        "name": {
+            "cn": "补给专用落穴陷阱",
+            "en": "EZ Pitfall Trap",
+            "jp": "支給用落とし穴"
+        }
+    },
+    {
+        "id": 124,
+        "fixedId": 125,
+        "label": "ITEM_0151",
+        "name": {
+            "cn": "落阳草的花",
+            "en": "Gloamgrass Bud",
+            "jp": "落陽草の花"
+        }
+    },
+    {
+        "id": 125,
+        "fixedId": 126,
+        "label": "ITEM_0152",
+        "name": {
+            "cn": "怪力种子",
+            "en": "Might Seed",
+            "jp": "怪力の種"
+        }
+    },
+    {
+        "id": 126,
+        "fixedId": 127,
+        "label": "ITEM_0153",
+        "name": {
+            "cn": "忍耐种子",
+            "en": "Adamant Seed",
+            "jp": "忍耐の種"
+        }
+    },
+    {
+        "id": 127,
+        "fixedId": 128,
+        "label": "ITEM_0154",
+        "name": {
+            "cn": "硝化伞菇",
+            "en": "Nitroshroom",
+            "jp": "ニトロダケ"
+        }
+    },
+    {
+        "id": 128,
+        "fixedId": 129,
+        "label": "ITEM_0155",
+        "name": {
+            "cn": "鬼硝化伞菇",
+            "en": "Devil's Blight",
+            "jp": "鬼ニトロダケ"
+        }
+    },
+    {
+        "id": 129,
+        "fixedId": 130,
+        "label": "ITEM_0156",
+        "name": {
+            "cn": "爆裂果实",
+            "en": "Blastnut",
+            "jp": "バクレツの実"
+        }
+    },
+    {
+        "id": 130,
+        "fixedId": 131,
+        "label": "ITEM_0157",
+        "name": {
+            "cn": "斩裂果实",
+            "en": "Slashberry",
+            "jp": "ザンレツの実"
+        }
+    },
+    {
+        "id": 138,
+        "fixedId": 139,
+        "label": "ITEM_0165",
+        "name": {
+            "cn": "煌雷龙的鳞",
+            "en": "Rey Dau Scale",
+            "jp": "煌雷竜の鱗"
+        }
+    },
+    {
+        "id": 139,
+        "fixedId": 140,
+        "label": "ITEM_0166",
+        "name": {
+            "cn": "煌雷龙的甲壳",
+            "en": "Rey Dau Shell",
+            "jp": "煌雷竜の甲殻"
+        }
+    },
+    {
+        "id": 140,
+        "fixedId": 141,
+        "label": "ITEM_0167",
+        "name": {
+            "cn": "煌雷龙的电角",
+            "en": "Rey Dau Thunderhorn",
+            "jp": "煌雷竜の電角"
+        }
+    },
+    {
+        "id": 141,
+        "fixedId": 142,
+        "label": "ITEM_0168",
+        "name": {
+            "cn": "煌雷龙的雷晶爪",
+            "en": "Rey Dau Wingtalon",
+            "jp": "煌雷竜の雷晶爪"
+        }
+    },
+    {
+        "id": 142,
+        "fixedId": 143,
+        "label": "ITEM_0169",
+        "name": {
+            "cn": "煌雷龙的尾巴",
+            "en": "Rey Dau Tail",
+            "jp": "煌雷竜の尻尾"
+        }
+    },
+    {
+        "id": 143,
+        "fixedId": 144,
+        "label": "ITEM_0170",
+        "name": {
+            "cn": "煌雷龙的逆鳞",
+            "en": "Rey Dau Plate",
+            "jp": "煌雷竜の逆鱗"
+        }
+    },
+    {
+        "id": 144,
+        "fixedId": 145,
+        "label": "ITEM_0171",
+        "name": {
+            "cn": "捕获用麻醉飞刀",
+            "en": "Tranq Blade",
+            "jp": "捕獲用麻酔投げナイフ"
+        }
+    },
+    {
+        "id": 150,
+        "fixedId": 151,
+        "label": "ITEM_0177",
+        "name": {
+            "cn": "烟雾球",
+            "en": "Smoke Bomb",
+            "jp": "けむり玉"
+        }
+    },
+    {
+        "id": 151,
+        "fixedId": 152,
+        "label": "ITEM_0178",
+        "name": {
+            "cn": "力量之护符",
+            "en": "Powercharm",
+            "jp": "力の護符"
+        }
+    },
+    {
+        "id": 152,
+        "fixedId": 153,
+        "label": "ITEM_0179",
+        "name": {
+            "cn": "守护之护符",
+            "en": "Armorcharm",
+            "jp": "守りの護符"
+        }
+    },
+    {
+        "id": 153,
+        "fixedId": 154,
+        "label": "ITEM_0180",
+        "name": {
+            "cn": "龙击弹",
+            "en": "Wyvern Ammo",
+            "jp": "竜撃弾"
+        }
+    },
+    {
+        "id": 154,
+        "fixedId": 155,
+        "label": "ITEM_0181",
+        "name": {
+            "cn": "投射器引雷弹",
+            "en": "Grounding Pod",
+            "jp": "スリンガー吸雷弾"
+        }
+    },
+    {
+        "id": 155,
+        "fixedId": 156,
+        "label": "ITEM_0182",
+        "name": {
+            "cn": "谜之宝珠·铠",
+            "en": "Mystery Orb - Armor",
+            "jp": "なぞの珠・鎧"
+        }
+    },
+    {
+        "id": 156,
+        "fixedId": 157,
+        "label": "ITEM_0183",
+        "name": {
+            "cn": "发光宝珠·铠",
+            "en": "Glowing Orb - Armor",
+            "jp": "光る珠・鎧"
+        }
+    },
+    {
+        "id": 157,
+        "fixedId": 158,
+        "label": "ITEM_0184",
+        "name": {
+            "cn": "老旧宝珠·铠",
+            "en": "Ancient Orb - Armor",
+            "jp": "古びた珠・鎧"
+        }
+    },
+    {
+        "id": 158,
+        "fixedId": 159,
+        "label": "ITEM_0185",
+        "name": {
+            "cn": "受损的武器碎片",
+            "en": "Damaged Weapon Shard",
+            "jp": "傷ついた武器片"
+        }
+    },
+    {
+        "id": 159,
+        "fixedId": 160,
+        "label": "ITEM_0186",
+        "name": {
+            "cn": "生锈的武器碎片",
+            "en": "Rusted Weapon Shard",
+            "jp": "さびた武器片"
+        }
+    },
+    {
+        "id": 160,
+        "fixedId": 161,
+        "label": "ITEM_0187",
+        "name": {
+            "cn": "隐身衣装",
+            "en": "Ghillie Mantle",
+            "jp": "隠れ身の装衣"
+        }
+    },
+    {
+        "id": 161,
+        "fixedId": 162,
+        "label": "ITEM_0188",
+        "name": {
+            "cn": "钓竿",
+            "en": "Fishing Rod",
+            "jp": "釣り竿"
+        }
+    },
+    {
+        "id": 162,
+        "fixedId": 163,
+        "label": "ITEM_0189",
+        "name": {
+            "cn": "元气饮料",
+            "en": "Energy Drink",
+            "jp": "元気ドリンコ"
+        }
+    },
+    {
+        "id": 163,
+        "fixedId": 164,
+        "label": "ITEM_0190",
+        "name": {
+            "cn": "强走药",
+            "en": "Dash Juice",
+            "jp": "強走薬"
+        }
+    },
+    {
+        "id": 164,
+        "fixedId": 165,
+        "label": "ITEM_0191",
+        "name": {
+            "cn": "活力剂",
+            "en": "Immunizer",
+            "jp": "活力剤"
+        }
+    },
+    {
+        "id": 165,
+        "fixedId": 166,
+        "label": "ITEM_0192",
+        "name": {
+            "cn": "冷饮",
+            "en": "Cool Drink",
+            "jp": "クーラードリンク"
+        }
+    },
+    {
+        "id": 166,
+        "fixedId": 167,
+        "label": "ITEM_0193",
+        "name": {
+            "cn": "热饮",
+            "en": "Hot Drink",
+            "jp": "ホットドリンク"
+        }
+    },
+    {
+        "id": 167,
+        "fixedId": 168,
+        "label": "ITEM_0194",
+        "name": {
+            "cn": "鬼人药",
+            "en": "Demondrug",
+            "jp": "鬼人薬"
+        }
+    },
+    {
+        "id": 168,
+        "fixedId": 169,
+        "label": "ITEM_0195",
+        "name": {
+            "cn": "怪力药丸",
+            "en": "Might Pill",
+            "jp": "怪力の丸薬"
+        }
+    },
+    {
+        "id": 169,
+        "fixedId": 170,
+        "label": "ITEM_0196",
+        "name": {
+            "cn": "鬼人药G",
+            "en": "Mega Demondrug",
+            "jp": "鬼人薬グレート"
+        }
+    },
+    {
+        "id": 170,
+        "fixedId": 171,
+        "label": "ITEM_0197",
+        "name": {
+            "cn": "硬化药",
+            "en": "Armorskin",
+            "jp": "硬化薬"
+        }
+    },
+    {
+        "id": 171,
+        "fixedId": 172,
+        "label": "ITEM_0198",
+        "name": {
+            "cn": "忍耐药丸",
+            "en": "Adamant Pill",
+            "jp": "忍耐の丸薬"
+        }
+    },
+    {
+        "id": 172,
+        "fixedId": 173,
+        "label": "ITEM_0199",
+        "name": {
+            "cn": "硬化药G",
+            "en": "Mega Armorskin",
+            "jp": "硬化薬グレート"
+        }
+    },
+    {
+        "id": 173,
+        "fixedId": 174,
+        "label": "ITEM_0200",
+        "name": {
+            "cn": "汉方药",
+            "en": "Herbal Medicine",
+            "jp": "漢方薬"
+        }
+    },
+    {
+        "id": 174,
+        "fixedId": 175,
+        "label": "ITEM_0201",
+        "name": {
+            "cn": "汉方粉尘",
+            "en": "Herbal Powder",
+            "jp": "漢方の粉塵"
+        }
+    },
+    {
+        "id": 175,
+        "fixedId": 176,
+        "label": "ITEM_0202",
+        "name": {
+            "cn": "鬼人粉尘",
+            "en": "Demon Powder",
+            "jp": "鬼人の粉塵"
+        }
+    },
+    {
+        "id": 176,
+        "fixedId": 177,
+        "label": "ITEM_0203",
+        "name": {
+            "cn": "硬化粉尘",
+            "en": "Hardshell Powder",
+            "jp": "硬化の粉塵"
+        }
+    },
+    {
+        "id": 177,
+        "fixedId": 178,
+        "label": "ITEM_0204",
+        "name": {
+            "cn": "生命大粉尘",
+            "en": "Dust of Life",
+            "jp": "生命の大粉塵"
+        }
+    },
+    {
+        "id": 178,
+        "fixedId": 179,
+        "label": "ITEM_0205",
+        "name": {
+            "cn": "消散剂",
+            "en": "Cleanser",
+            "jp": "消散剤"
+        }
+    },
+    {
+        "id": 179,
+        "fixedId": 180,
+        "label": "ITEM_0206",
+        "name": {
+            "cn": "毒烟雾球",
+            "en": "Poison Smoke Bomb",
+            "jp": "毒けむり玉"
+        }
+    },
+    {
+        "id": 180,
+        "fixedId": 181,
+        "label": "ITEM_0207",
+        "name": {
+            "cn": "捕获用麻醉球",
+            "en": "Tranq Bomb",
+            "jp": "捕獲用麻酔玉"
+        }
+    },
+    {
+        "id": 181,
+        "fixedId": 182,
+        "label": "ITEM_0208",
+        "name": {
+            "cn": "飞刀",
+            "en": "Throwing Knife",
+            "jp": "投げナイフ"
+        }
+    },
+    {
+        "id": 182,
+        "fixedId": 183,
+        "label": "ITEM_0209",
+        "name": {
+            "cn": "投射器毒弹",
+            "en": "Poison Pod",
+            "jp": "スリンガー毒弾"
+        }
+    },
+    {
+        "id": 183,
+        "fixedId": 184,
+        "label": "ITEM_0210",
+        "name": {
+            "cn": "投射器麻痹弹",
+            "en": "Para Pod",
+            "jp": "スリンガー麻痺弾"
+        }
+    },
+    {
+        "id": 185,
+        "fixedId": 186,
+        "label": "ITEM_0212",
+        "name": {
+            "cn": "睡眠生肉",
+            "en": "Drugged Meat",
+            "jp": "眠り生肉"
+        }
+    },
+    {
+        "id": 187,
+        "fixedId": 188,
+        "label": "ITEM_0214",
+        "name": {
+            "cn": "光苔",
+            "en": "Brightmoss",
+            "jp": "ヒカリゴケ"
+        }
+    },
+    {
+        "id": 188,
+        "fixedId": 189,
+        "label": "ITEM_0215",
+        "name": {
+            "cn": "投射器火炎弹",
+            "en": "Torch Pod",
+            "jp": "スリンガー火炎弾"
+        }
+    },
+    {
+        "id": 189,
+        "fixedId": 190,
+        "label": "ITEM_0216",
+        "name": {
+            "cn": "投射器水流弹",
+            "en": "Puddle Pod",
+            "jp": "スリンガー水流弾"
+        }
+    },
+    {
+        "id": 190,
+        "fixedId": 191,
+        "label": "ITEM_0217",
+        "name": {
+            "cn": "投射器爆炸弹",
+            "en": "Bomb Pod",
+            "jp": "スリンガー爆発弾"
+        }
+    },
+    {
+        "id": 191,
+        "fixedId": 192,
+        "label": "ITEM_0218",
+        "name": {
+            "cn": "投射器贯穿弹",
+            "en": "Piercing Pod",
+            "jp": "スリンガー貫通弾"
+        }
+    },
+    {
+        "id": 194,
+        "fixedId": 195,
+        "label": "ITEM_0221",
+        "name": {
+            "cn": "投射器染色弹",
+            "en": "Paint Pod",
+            "jp": "スリンガーペイント弾"
+        }
+    },
+    {
+        "id": 195,
+        "fixedId": 196,
+        "label": "ITEM_0222",
+        "name": {
+            "cn": "投射器诱导弹",
+            "en": "Luring Pod",
+            "jp": "スリンガー誘導弾"
+        }
+    },
+    {
+        "id": 196,
+        "fixedId": 197,
+        "label": "ITEM_0223",
+        "name": {
+            "cn": "大桶爆弹G",
+            "en": "Mega Barrel Bomb",
+            "jp": "大タル爆弾Ｇ"
+        }
+    },
+    {
+        "id": 197,
+        "fixedId": 198,
+        "label": "ITEM_0224",
+        "name": {
+            "cn": "应急药G",
+            "en": "First-aid Med+",
+            "jp": "応急薬グレート"
+        }
+    },
+    {
+        "id": 198,
+        "fixedId": 199,
+        "label": "ITEM_0225",
+        "name": {
+            "cn": "补给专用秘药",
+            "en": "EZ Max Potion",
+            "jp": "支給用秘薬"
+        }
+    },
+    {
+        "id": 199,
+        "fixedId": 200,
+        "label": "ITEM_0226",
+        "name": {
+            "cn": "补给专用生命粉尘",
+            "en": "EZ Lifepowder",
+            "jp": "支給用生命の粉塵"
+        }
+    },
+    {
+        "id": 200,
+        "fixedId": 201,
+        "label": "ITEM_0227",
+        "name": {
+            "cn": "补给专用汉方粉尘",
+            "en": "EZ Herbal Powder",
+            "jp": "支給用漢方の粉塵"
+        }
+    },
+    {
+        "id": 201,
+        "fixedId": 202,
+        "label": "ITEM_0228",
+        "name": {
+            "cn": "补给专用鬼人粉尘",
+            "en": "EZ Demon Powder",
+            "jp": "支給用鬼人の粉塵"
+        }
+    },
+    {
+        "id": 202,
+        "fixedId": 203,
+        "label": "ITEM_0229",
+        "name": {
+            "cn": "补给专用硬化粉尘",
+            "en": "EZ Hardshell Powder",
+            "jp": "支給用硬化の粉塵"
+        }
+    },
+    {
+        "id": 203,
+        "fixedId": 204,
+        "label": "ITEM_0230",
+        "name": {
+            "cn": "补给专用生命大粉尘",
+            "en": "EZ Dust of Life",
+            "jp": "支給用生命の大粉塵"
+        }
+    },
+    {
+        "id": 204,
+        "fixedId": 205,
+        "label": "ITEM_0231",
+        "name": {
+            "cn": "补给专用麻醉球",
+            "en": "EZ Tranq Bomb",
+            "jp": "支給用麻酔玉"
+        }
+    },
+    {
+        "id": 205,
+        "fixedId": 206,
+        "label": "ITEM_0232",
+        "name": {
+            "cn": "补给专用异臭弹",
+            "en": "EZ Dung Pod",
+            "jp": "支給用こやし弾"
+        }
+    },
+    {
+        "id": 206,
+        "fixedId": 207,
+        "label": "ITEM_0233",
+        "name": {
+            "cn": "补给专用音爆弹",
+            "en": "EZ Sonic Bomb",
+            "jp": "支給用音爆弾"
+        }
+    },
+    {
+        "id": 207,
+        "fixedId": 208,
+        "label": "ITEM_0234",
+        "name": {
+            "cn": "麻痹生肉",
+            "en": "Tinged Meat",
+            "jp": "シビレ生肉"
+        }
+    },
+    {
+        "id": 208,
+        "fixedId": 209,
+        "label": "ITEM_0235",
+        "name": {
+            "cn": "补给专用大桶爆弹",
+            "en": "EZ Large Barrel Bomb",
+            "jp": "支給用大タル爆弾"
+        }
+    },
+    {
+        "id": 209,
+        "fixedId": 210,
+        "label": "ITEM_0236",
+        "name": {
+            "cn": "补给专用回归球",
+            "en": "EZ Farcaster",
+            "jp": "支給用モドリ玉"
+        }
+    },
+    {
+        "id": 210,
+        "fixedId": 211,
+        "label": "ITEM_0237",
+        "name": {
+            "cn": "毒生肉",
+            "en": "Poisoned Meat",
+            "jp": "毒生肉"
+        }
+    },
+    {
+        "id": 211,
+        "fixedId": 212,
+        "label": "ITEM_0238",
+        "name": {
+            "cn": "除臭球",
+            "en": "Deodorant",
+            "jp": "消臭玉"
+        }
+    },
+    {
+        "id": 212,
+        "fixedId": 213,
+        "label": "ITEM_0239",
+        "name": {
+            "cn": "库纳法奶酪",
+            "en": "Kunafa Cheese",
+            "jp": "クナファチーズ"
+        }
+    },
+    {
+        "id": 213,
+        "fixedId": 214,
+        "label": "ITEM_0240",
+        "name": {
+            "cn": "浓郁库纳法奶酪",
+            "en": "Sharp Kunafa Cheese",
+            "jp": "濃厚クナファチーズ"
+        }
+    },
+    {
+        "id": 214,
+        "fixedId": 215,
+        "label": "ITEM_0241",
+        "name": {
+            "cn": "垂涎蘑菇",
+            "en": "Droolshroom",
+            "jp": "ヨダレダケ"
+        }
+    },
+    {
+        "id": 215,
+        "fixedId": 216,
+        "label": "ITEM_0242",
+        "name": {
+            "cn": "盛宴蘑菇",
+            "en": "Delishroom",
+            "jp": "ゴチソウダケ"
+        }
+    },
+    {
+        "id": 216,
+        "fixedId": 217,
+        "label": "ITEM_0243",
+        "name": {
+            "cn": "泥虾",
+            "en": "Mud Shrimp",
+            "jp": "マッドシュリンプ"
+        }
+    },
+    {
+        "id": 217,
+        "fixedId": 218,
+        "label": "ITEM_0244",
+        "name": {
+            "cn": "大泥虾",
+            "en": "Turbid Shrimp",
+            "jp": "ドスマッドシュリンプ"
+        }
+    },
+    {
+        "id": 218,
+        "fixedId": 219,
+        "label": "ITEM_0245",
+        "name": {
+            "cn": "绵绵蛋",
+            "en": "Fluffy Egg",
+            "jp": "フワフワ卵"
+        }
+    },
+    {
+        "id": 219,
+        "fixedId": 220,
+        "label": "ITEM_0246",
+        "name": {
+            "cn": "柔柔绵绵蛋",
+            "en": "Airy Egg",
+            "jp": "フワンフワン卵"
+        }
+    },
+    {
+        "id": 220,
+        "fixedId": 221,
+        "label": "ITEM_0247",
+        "name": {
+            "cn": "西尔德大蒜",
+            "en": "Sild Garlic",
+            "jp": "シルドニンニク"
+        }
+    },
+    {
+        "id": 221,
+        "fixedId": 222,
+        "label": "ITEM_0248",
+        "name": {
+            "cn": "特级西尔德大蒜",
+            "en": "Specialty Sild Garlic",
+            "jp": "シルドニンニク・特秀"
+        }
+    },
+    {
+        "id": 222,
+        "fixedId": 223,
+        "label": "ITEM_0249",
+        "name": {
+            "cn": "狂野香草",
+            "en": "Wild Herb",
+            "jp": "ワイルドハーブ"
+        }
+    },
+    {
+        "id": 223,
+        "fixedId": 224,
+        "label": "ITEM_0250",
+        "name": {
+            "cn": "东部蜂蜜",
+            "en": "Eastern Honey",
+            "jp": "イーストハニー"
+        }
+    },
+    {
+        "id": 224,
+        "fixedId": 225,
+        "label": "ITEM_0251",
+        "name": {
+            "cn": "怪物辣椒",
+            "en": "Monster Chili",
+            "jp": "モンスターチリ"
+        }
+    },
+    {
+        "id": 225,
+        "fixedId": 226,
+        "label": "ITEM_0252",
+        "name": {
+            "cn": "宝石乌鱼子",
+            "en": "Jeweled Mullet Roe",
+            "jp": "ジュエルカラスミ"
+        }
+    },
+    {
+        "id": 226,
+        "fixedId": 227,
+        "label": "ITEM_0253",
+        "name": {
+            "cn": "野生植物籽油",
+            "en": "Wild Seed Oil",
+            "jp": "ワイルドシードオイル"
+        }
+    },
+    {
+        "id": 227,
+        "fixedId": 228,
+        "label": "ITEM_0254",
+        "name": {
+            "cn": "桃毛兽王松露",
+            "en": "Truffle Du Conga",
+            "jp": "トリュフ・ド・コンガ"
+        }
+    },
+    {
+        "id": 228,
+        "fixedId": 229,
+        "label": "ITEM_0255",
+        "name": {
+            "cn": "不祥的布",
+            "en": "Sinister Cloth",
+            "jp": "禍々しい布"
+        }
+    },
+    {
+        "id": 229,
+        "fixedId": 230,
+        "label": "ITEM_0256",
+        "name": {
+            "cn": "大角凤蝶",
+            "en": "Great Hornfly",
+            "jp": "オオツノアゲハ"
+        }
+    },
+    {
+        "id": 230,
+        "fixedId": 231,
+        "label": "ITEM_0257",
+        "name": {
+            "cn": "天堑芦荟",
+            "en": "Windward Aloe",
+            "jp": "ヘダテアロエ"
+        }
+    },
+    {
+        "id": 231,
+        "fixedId": 232,
+        "label": "ITEM_0258",
+        "name": {
+            "cn": "优质天堑芦荟",
+            "en": "Fine Windward Aloe",
+            "jp": "上質なヘダテアロエ"
+        }
+    },
+    {
+        "id": 232,
+        "fixedId": 233,
+        "label": "ITEM_0259",
+        "name": {
+            "cn": "天堑芦荟王",
+            "en": "Great Windward Aloe",
+            "jp": "ドスヘダテアロエ"
+        }
+    },
+    {
+        "id": 233,
+        "fixedId": 234,
+        "label": "ITEM_0260",
+        "name": {
+            "cn": "沙胡椒果实",
+            "en": "Sandpepper",
+            "jp": "沙胡椒の実"
+        }
+    },
+    {
+        "id": 234,
+        "fixedId": 235,
+        "label": "ITEM_0261",
+        "name": {
+            "cn": "优质沙胡椒果实",
+            "en": "Fiery Sandpepper",
+            "jp": "上質な沙胡椒の実"
+        }
+    },
+    {
+        "id": 235,
+        "fixedId": 236,
+        "label": "ITEM_0262",
+        "name": {
+            "cn": "苍雷晶碎片",
+            "en": "Fulgurite Shard",
+            "jp": "蒼雷晶のかけら"
+        }
+    },
+    {
+        "id": 236,
+        "fixedId": 237,
+        "label": "ITEM_0263",
+        "name": {
+            "cn": "优质苍雷晶",
+            "en": "Pure Fulgurite",
+            "jp": "上質な蒼雷晶"
+        }
+    },
+    {
+        "id": 237,
+        "fixedId": 238,
+        "label": "ITEM_0264",
+        "name": {
+            "cn": "轰天苍雷晶",
+            "en": "Thundering Fulgurite",
+            "jp": "轟天蒼雷晶"
+        }
+    },
+    {
+        "id": 238,
+        "fixedId": 239,
+        "label": "ITEM_0265",
+        "name": {
+            "cn": "绯琥珀碎片",
+            "en": "Scarlet Amber Shard",
+            "jp": "緋琥珀のかけら"
+        }
+    },
+    {
+        "id": 239,
+        "fixedId": 240,
+        "label": "ITEM_0266",
+        "name": {
+            "cn": "优质绯琥珀",
+            "en": "Fine Scarlet Amber",
+            "jp": "上質な緋琥珀"
+        }
+    },
+    {
+        "id": 240,
+        "fixedId": 241,
+        "label": "ITEM_0267",
+        "name": {
+            "cn": "悠久的大绯琥珀",
+            "en": "Eternal Scarlet Amber",
+            "jp": "悠久の大緋琥珀"
+        }
+    },
+    {
+        "id": 241,
+        "fixedId": 242,
+        "label": "ITEM_0268",
+        "name": {
+            "cn": "女王花的蛊惑粉",
+            "en": "Queensbloom Pollen",
+            "jp": "女王華の蠱惑粉"
+        }
+    },
+    {
+        "id": 242,
+        "fixedId": 243,
+        "label": "ITEM_0269",
+        "name": {
+            "cn": "亮亮的宝物",
+            "en": "Shiny Treasure",
+            "jp": "ツヤツヤのオタカラ"
+        }
+    },
+    {
+        "id": 243,
+        "fixedId": 244,
+        "label": "ITEM_0270",
+        "name": {
+            "cn": "闪闪的宝物",
+            "en": "Sparkly Treasure",
+            "jp": "キラキラのオタカラ"
+        }
+    },
+    {
+        "id": 244,
+        "fixedId": 245,
+        "label": "ITEM_0271",
+        "name": {
+            "cn": "大大的宝物",
+            "en": "Bulky Treasure",
+            "jp": "デカデカのオタカラ"
+        }
+    },
+    {
+        "id": 245,
+        "fixedId": 246,
+        "label": "ITEM_0272",
+        "name": {
+            "cn": "黄金油",
+            "en": "Auric Oil",
+            "jp": "黄金オイル"
+        }
+    },
+    {
+        "id": 246,
+        "fixedId": 247,
+        "label": "ITEM_0273",
+        "name": {
+            "cn": "锑石",
+            "en": "Antimite",
+            "jp": "アンティマ石"
+        }
+    },
+    {
+        "id": 247,
+        "fixedId": 248,
+        "label": "ITEM_0274",
+        "name": {
+            "cn": "优质锑石",
+            "en": "Fine Antimite",
+            "jp": "上質なアンティマ石"
+        }
+    },
+    {
+        "id": 248,
+        "fixedId": 249,
+        "label": "ITEM_0275",
+        "name": {
+            "cn": "锑岩",
+            "en": "Antimite Mass",
+            "jp": "アンティマター"
+        }
+    },
+    {
+        "id": 249,
+        "fixedId": 250,
+        "label": "ITEM_0276",
+        "name": {
+            "cn": "风铗龙的旧壳",
+            "en": "Hirabami Molting",
+            "jp": "風鋏竜の抜け殻"
+        }
+    },
+    {
+        "id": 250,
+        "fixedId": 251,
+        "label": "ITEM_0277",
+        "name": {
+            "cn": "龙鳞装饰壶",
+            "en": "Wyvernscale Vase",
+            "jp": "竜鱗の飾りツボ"
+        }
+    },
+    {
+        "id": 251,
+        "fixedId": 252,
+        "label": "ITEM_0278",
+        "name": {
+            "cn": "逆鳞装饰壶",
+            "en": "Dragonscale Vase",
+            "jp": "逆鱗の飾りツボ"
+        }
+    },
+    {
+        "id": 252,
+        "fixedId": 253,
+        "label": "ITEM_0279",
+        "name": {
+            "cn": "金色龙鳞重饰大壶",
+            "en": "Large Goldenscale Vase",
+            "jp": "金色竜鱗重飾大壺"
+        }
+    },
+    {
+        "id": 253,
+        "fixedId": 254,
+        "label": "ITEM_0280",
+        "name": {
+            "cn": "龙都酸浆",
+            "en": "Wyveria Lantern",
+            "jp": "リュウトホオズキ"
+        }
+    },
+    {
+        "id": 254,
+        "fixedId": 255,
+        "label": "ITEM_0281",
+        "name": {
+            "cn": "成熟龙都酸浆",
+            "en": "Mature Wyveria Lantern",
+            "jp": "超熟リュウトホオズキ"
+        }
+    },
+    {
+        "id": 255,
+        "fixedId": 256,
+        "label": "ITEM_0282",
+        "name": {
+            "cn": "源流隆炉球",
+            "en": "Origin Wylk Gem",
+            "jp": "源流のリュウヌ玉"
+        }
+    },
+    {
+        "id": 256,
+        "fixedId": 257,
+        "label": "ITEM_0283",
+        "name": {
+            "cn": "乳白茧丝",
+            "en": "Milky Cocoon Web",
+            "jp": "乳白の繭糸"
+        }
+    },
+    {
+        "id": 257,
+        "fixedId": 258,
+        "label": "ITEM_0284",
+        "name": {
+            "cn": "隆炉石子",
+            "en": "Wylk Pebble",
+            "jp": "リュウヌ小石"
+        }
+    },
+    {
+        "id": 258,
+        "fixedId": 259,
+        "label": "ITEM_0285",
+        "name": {
+            "cn": "隆炉球石",
+            "en": "Wylk Gem",
+            "jp": "リュウヌ玉石"
+        }
+    },
+    {
+        "id": 259,
+        "fixedId": 260,
+        "label": "ITEM_0286",
+        "name": {
+            "cn": "历久大隆炉球",
+            "en": "Time-honed Wylk Gem",
+            "jp": "暦年の大リュウヌ玉"
+        }
+    },
+    {
+        "id": 260,
+        "fixedId": 261,
+        "label": "ITEM_0287",
+        "name": {
+            "cn": "古老化石骨",
+            "en": "Ancient Fossil",
+            "jp": "いにしえの化石骨"
+        }
+    },
+    {
+        "id": 261,
+        "fixedId": 262,
+        "label": "ITEM_0288",
+        "name": {
+            "cn": "流水壶海鞘",
+            "en": "Drifting Sea Pot",
+            "jp": "ナガレツボボヤ"
+        }
+    },
+    {
+        "id": 262,
+        "fixedId": 263,
+        "label": "ITEM_0289",
+        "name": {
+            "cn": "皇家壶海鞘",
+            "en": "Royal Sea Pot",
+            "jp": "ロイヤルツボボヤ"
+        }
+    },
+    {
+        "id": 263,
+        "fixedId": 264,
+        "label": "ITEM_0290",
+        "name": {
+            "cn": "酒杯藻",
+            "en": "Gobletweed",
+            "jp": "グラスウィード"
+        }
+    },
+    {
+        "id": 264,
+        "fixedId": 265,
+        "label": "ITEM_0291",
+        "name": {
+            "cn": "大酒杯藻",
+            "en": "Chaliceweed",
+            "jp": "グラングラスウィード"
+        }
+    },
+    {
+        "id": 265,
+        "fixedId": 266,
+        "label": "ITEM_0292",
+        "name": {
+            "cn": "一夜花的月华粉",
+            "en": "Nightflower Pollen",
+            "jp": "一夜花の月華粉"
+        }
+    },
+    {
+        "id": 266,
+        "fixedId": 267,
+        "label": "ITEM_0293",
+        "name": {
+            "cn": "蛋白石化石",
+            "en": "Fossilized Opal",
+            "jp": "化石のオパール"
+        }
+    },
+    {
+        "id": 267,
+        "fixedId": 268,
+        "label": "ITEM_0294",
+        "name": {
+            "cn": "艳色蛋白石化石",
+            "en": "Fossilized Fire Opal",
+            "jp": "化石の美色オパール"
+        }
+    },
+    {
+        "id": 268,
+        "fixedId": 269,
+        "label": "ITEM_0295",
+        "name": {
+            "cn": "创世蛋白石",
+            "en": "Genesis Opal",
+            "jp": "ジェネシスオパール"
+        }
+    },
+    {
+        "id": 269,
+        "fixedId": 270,
+        "label": "ITEM_0296",
+        "name": {
+            "cn": "冬龙夏草",
+            "en": "Wyvernsprout",
+            "jp": "冬竜夏草"
+        }
+    },
+    {
+        "id": 270,
+        "fixedId": 271,
+        "label": "ITEM_0297",
+        "name": {
+            "cn": "坚硬竹荚鱼的鳍",
+            "en": "Whetfish Fin",
+            "jp": "キレアジのヒレ"
+        }
+    },
+    {
+        "id": 271,
+        "fixedId": 272,
+        "label": "ITEM_0298",
+        "name": {
+            "cn": "刺身鱼鳞片",
+            "en": "Sushifish Scale",
+            "jp": "サシミウロコ"
+        }
+    },
+    {
+        "id": 272,
+        "fixedId": 273,
+        "label": "ITEM_0299",
+        "name": {
+            "cn": "刺花蜘蛛的甲壳",
+            "en": "Lala Barina Shell",
+            "jp": "刺花蜘蛛の甲殻"
+        }
+    },
+    {
+        "id": 273,
+        "fixedId": 274,
+        "label": "ITEM_0300",
+        "name": {
+            "cn": "刺花蜘蛛的爪",
+            "en": "Lala Barina Claw",
+            "jp": "刺花蜘蛛の爪"
+        }
+    },
+    {
+        "id": 274,
+        "fixedId": 275,
+        "label": "ITEM_0301",
+        "name": {
+            "cn": "刺花蜘蛛的尾棘",
+            "en": "Lala Barina Stinger",
+            "jp": "刺花蜘蛛の尾棘"
+        }
+    },
+    {
+        "id": 275,
+        "fixedId": 276,
+        "label": "ITEM_0302",
+        "name": {
+            "cn": "刺花蜘蛛狩猎证",
+            "en": "Lala Barina Certificate",
+            "jp": "刺花蜘蛛の狩猟証"
+        }
+    },
+    {
+        "id": 276,
+        "fixedId": 277,
+        "label": "ITEM_0303",
+        "name": {
+            "cn": "刺花蜘蛛的绒毛",
+            "en": "Lala Barina Floret",
+            "jp": "刺花蜘蛛の綿毛"
+        }
+    },
+    {
+        "id": 277,
+        "fixedId": 278,
+        "label": "ITEM_0304",
+        "name": {
+            "cn": "投射器音爆弹",
+            "en": "Screamer Pod",
+            "jp": "スリンガー音爆弾"
+        }
+    },
+    {
+        "id": 279,
+        "fixedId": 280,
+        "label": "ITEM_0306",
+        "name": {
+            "cn": "<COLOR FF0000>#Rejected#</COLOR> Item_IT_280",
+            "en": "<COLOR FF0000>#Rejected#</COLOR> Item_IT_280",
+            "jp": "<COLOR FF0000>#Rejected#</COLOR> Item_IT_280"
+        }
+    },
+    {
+        "id": 280,
+        "fixedId": 281,
+        "label": "ITEM_0307",
+        "name": {
+            "cn": "盔速龙黄铜",
+            "en": "Krano Copper",
+            "jp": "クラノコッパー"
+        }
+    },
+    {
+        "id": 281,
+        "fixedId": 282,
+        "label": "ITEM_0308",
+        "name": {
+            "cn": "优质盔速龙黄铜",
+            "en": "Krano Pyrite",
+            "jp": "クラノコパゴット"
+        }
+    },
+    {
+        "id": 282,
+        "fixedId": 283,
+        "label": "ITEM_0309",
+        "name": {
+            "cn": "<COLOR FF0000>#Rejected#</COLOR> Item_IT_283",
+            "en": "<COLOR FF0000>#Rejected#</COLOR> Item_IT_283",
+            "jp": "<COLOR FF0000>#Rejected#</COLOR> Item_IT_283"
+        }
+    },
+    {
+        "id": 283,
+        "fixedId": 284,
+        "label": "ITEM_0310",
+        "name": {
+            "cn": "<COLOR FF0000>#Rejected#</COLOR> Item_IT_284",
+            "en": "<COLOR FF0000>#Rejected#</COLOR> Item_IT_284",
+            "jp": "<COLOR FF0000>#Rejected#</COLOR> Item_IT_284"
+        }
+    },
+    {
+        "id": 284,
+        "fixedId": 285,
+        "label": "ITEM_0311",
+        "name": {
+            "cn": "投射器雷光弹",
+            "en": "Thunder Pod",
+            "jp": "スリンガー雷光弾"
+        }
+    },
+    {
+        "id": 285,
+        "fixedId": 286,
+        "label": "ITEM_0312",
+        "name": {
+            "cn": "投射器冰霜弹",
+            "en": "Frost Pod",
+            "jp": "スリンガー氷霜弾"
+        }
+    },
+    {
+        "id": 286,
+        "fixedId": 287,
+        "label": "ITEM_0313",
+        "name": {
+            "cn": "投射器灭龙弹",
+            "en": "Dragon Pod",
+            "jp": "スリンガー滅龍弾"
+        }
+    },
+    {
+        "id": 287,
+        "fixedId": 288,
+        "label": "ITEM_0314",
+        "name": {
+            "cn": "新鲜蜂蜜",
+            "en": "Fresh Honey",
+            "jp": "採れたてのハチミツ"
+        }
+    },
+    {
+        "id": 288,
+        "fixedId": 289,
+        "label": "ITEM_0315",
+        "name": {
+            "cn": "投射器爆裂冰弹",
+            "en": "Frostburst",
+            "jp": "スリンガーハジケ氷弾"
+        }
+    },
+    {
+        "id": 289,
+        "fixedId": 290,
+        "label": "ITEM_0316",
+        "name": {
+            "cn": "龙击果实",
+            "en": "Dragonstrike Nut",
+            "jp": "リュウゲキの実"
+        }
+    },
+    {
+        "id": 290,
+        "fixedId": 291,
+        "label": "ITEM_0317",
+        "name": {
+            "cn": "扩散果实",
+            "en": "Bomberry",
+            "jp": "カクサンの実"
+        }
+    },
+    {
+        "id": 291,
+        "fixedId": 292,
+        "label": "ITEM_0318",
+        "name": {
+            "cn": "缠蛙狩猎证",
+            "en": "Chatacabra Certificate",
+            "jp": "纏蛙の狩猟証"
+        }
+    },
+    {
+        "id": 292,
+        "fixedId": 293,
+        "label": "ITEM_0319",
+        "name": {
+            "cn": "缠蛙的上等鳞",
+            "en": "Chatacabra Scale+",
+            "jp": "纏蛙の上鱗"
+        }
+    },
+    {
+        "id": 293,
+        "fixedId": 294,
+        "label": "ITEM_0320",
+        "name": {
+            "cn": "缠蛙的大颚",
+            "en": "Chatacabra Jaw+",
+            "jp": "纏蛙の大顎"
+        }
+    },
+    {
+        "id": 294,
+        "fixedId": 295,
+        "label": "ITEM_0321",
+        "name": {
+            "cn": "缠蛙的上等皮",
+            "en": "Chatacabra Hide+",
+            "jp": "纏蛙の上皮"
+        }
+    },
+    {
+        "id": 295,
+        "fixedId": 296,
+        "label": "ITEM_0322",
+        "name": {
+            "cn": "缠蛙的坚缠甲",
+            "en": "Chatacabra Carapace",
+            "jp": "纏蛙の堅纏甲"
+        }
+    },
+    {
+        "id": 296,
+        "fixedId": 297,
+        "label": "ITEM_0323",
+        "name": {
+            "cn": "缠蛙狩猎证 S",
+            "en": "Chatacabra Certificate S",
+            "jp": "纏蛙の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 297,
+        "fixedId": 298,
+        "label": "ITEM_0324",
+        "name": {
+            "cn": "暗器蛸狩猎证 S",
+            "en": "Xu Wu Certificate S",
+            "jp": "暗器蛸の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 298,
+        "fixedId": 299,
+        "label": "ITEM_0325",
+        "name": {
+            "cn": "炎尾龙的引火液",
+            "en": "Quematrice Igniter",
+            "jp": "炎尾竜の引火液"
+        }
+    },
+    {
+        "id": 299,
+        "fixedId": 300,
+        "label": "ITEM_0326",
+        "name": {
+            "cn": "炎尾龙狩猎证",
+            "en": "Quematrice Certificate",
+            "jp": "炎尾竜の狩猟証"
+        }
+    },
+    {
+        "id": 300,
+        "fixedId": 301,
+        "label": "ITEM_0327",
+        "name": {
+            "cn": "炎尾龙的上等鳞",
+            "en": "Quematrice Scale+",
+            "jp": "炎尾竜の上鱗"
+        }
+    },
+    {
+        "id": 301,
+        "fixedId": 302,
+        "label": "ITEM_0328",
+        "name": {
+            "cn": "炎尾龙的上等皮",
+            "en": "Quematrice Hide+",
+            "jp": "炎尾竜の上皮"
+        }
+    },
+    {
+        "id": 302,
+        "fixedId": 303,
+        "label": "ITEM_0329",
+        "name": {
+            "cn": "炎尾龙的浓引火液",
+            "en": "Quematrice Igniter+",
+            "jp": "炎尾竜の引火濃液"
+        }
+    },
+    {
+        "id": 303,
+        "fixedId": 304,
+        "label": "ITEM_0330",
+        "name": {
+            "cn": "炎尾龙的大头冠",
+            "en": "Quematrice Crest+",
+            "jp": "炎尾竜の大トサカ"
+        }
+    },
+    {
+        "id": 304,
+        "fixedId": 305,
+        "label": "ITEM_0331",
+        "name": {
+            "cn": "炎尾龙狩猎证 S",
+            "en": "Quematrice Certificate S",
+            "jp": "炎尾竜の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 305,
+        "fixedId": 306,
+        "label": "ITEM_0332",
+        "name": {
+            "cn": "刺花蜘蛛的上等绒毛",
+            "en": "Lala Barina Floret+",
+            "jp": "刺花蜘蛛の上綿毛"
+        }
+    },
+    {
+        "id": 306,
+        "fixedId": 307,
+        "label": "ITEM_0333",
+        "name": {
+            "cn": "刺花蜘蛛的坚壳",
+            "en": "Lala Barina Carapace",
+            "jp": "刺花蜘蛛の堅殻"
+        }
+    },
+    {
+        "id": 307,
+        "fixedId": 308,
+        "label": "ITEM_0334",
+        "name": {
+            "cn": "刺花蜘蛛的锐爪",
+            "en": "Lala Barina Claw+",
+            "jp": "刺花蜘蛛の鋭爪"
+        }
+    },
+    {
+        "id": 308,
+        "fixedId": 309,
+        "label": "ITEM_0335",
+        "name": {
+            "cn": "刺花蜘蛛的上等尾棘",
+            "en": "Lala Barina Stinger+",
+            "jp": "刺花蜘蛛の上尾棘"
+        }
+    },
+    {
+        "id": 309,
+        "fixedId": 310,
+        "label": "ITEM_0336",
+        "name": {
+            "cn": "刺花蜘蛛狩猎证 S",
+            "en": "Lala Barina Certificate S",
+            "jp": "刺花蜘蛛の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 310,
+        "fixedId": 311,
+        "label": "ITEM_0337",
+        "name": {
+            "cn": "沙海龙狩猎证",
+            "en": "Balahara Certificate",
+            "jp": "沙海竜の狩猟証"
+        }
+    },
+    {
+        "id": 311,
+        "fixedId": 312,
+        "label": "ITEM_0338",
+        "name": {
+            "cn": "沙海龙的上等鳞",
+            "en": "Balahara Scale+",
+            "jp": "沙海竜の上鱗"
+        }
+    },
+    {
+        "id": 312,
+        "fixedId": 313,
+        "label": "ITEM_0339",
+        "name": {
+            "cn": "沙海龙的坚壳",
+            "en": "Balahara Carapace",
+            "jp": "沙海竜の堅殻"
+        }
+    },
+    {
+        "id": 313,
+        "fixedId": 314,
+        "label": "ITEM_0340",
+        "name": {
+            "cn": "沙海龙的尖头壳",
+            "en": "Balahara Skull+",
+            "jp": "沙海竜の尖頭殻"
+        }
+    },
+    {
+        "id": 314,
+        "fixedId": 315,
+        "label": "ITEM_0341",
+        "name": {
+            "cn": "沙海龙狩猎证 S",
+            "en": "Balahara Certificate S",
+            "jp": "沙海竜の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 315,
+        "fixedId": 316,
+        "label": "ITEM_0342",
+        "name": {
+            "cn": "辟兽狩猎证",
+            "en": "Doshaguma Certificate",
+            "jp": "闢獣の狩猟証"
+        }
+    },
+    {
+        "id": 316,
+        "fixedId": 317,
+        "label": "ITEM_0343",
+        "name": {
+            "cn": "辟兽的刚毛",
+            "en": "Doshaguma Fur+",
+            "jp": "闢獣の剛毛"
+        }
+    },
+    {
+        "id": 317,
+        "fixedId": 318,
+        "label": "ITEM_0344",
+        "name": {
+            "cn": "辟兽的上等皮",
+            "en": "Doshaguma Hide+",
+            "jp": "闢獣の上皮"
+        }
+    },
+    {
+        "id": 318,
+        "fixedId": 319,
+        "label": "ITEM_0345",
+        "name": {
+            "cn": "辟兽的锐爪",
+            "en": "Doshaguma Claw+",
+            "jp": "闢獣の鋭爪"
+        }
+    },
+    {
+        "id": 319,
+        "fixedId": 320,
+        "label": "ITEM_0346",
+        "name": {
+            "cn": "辟兽的锐牙",
+            "en": "Doshaguma Fang+",
+            "jp": "闢獣の鋭牙"
+        }
+    },
+    {
+        "id": 320,
+        "fixedId": 321,
+        "label": "ITEM_0347",
+        "name": {
+            "cn": "辟兽狩猎证 S",
+            "en": "Doshaguma Certificate S",
+            "jp": "闢獣の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 321,
+        "fixedId": 322,
+        "label": "ITEM_0348",
+        "name": {
+            "cn": "波衣龙的鳞",
+            "en": "Uth Duna Scale",
+            "jp": "波衣竜の鱗"
+        }
+    },
+    {
+        "id": 322,
+        "fixedId": 323,
+        "label": "ITEM_0349",
+        "name": {
+            "cn": "波衣龙的皮",
+            "en": "Uth Duna Hide",
+            "jp": "波衣竜の皮"
+        }
+    },
+    {
+        "id": 323,
+        "fixedId": 324,
+        "label": "ITEM_0350",
+        "name": {
+            "cn": "波衣龙的纤毛",
+            "en": "Uth Duna Cilia",
+            "jp": "波衣竜の繊毛"
+        }
+    },
+    {
+        "id": 324,
+        "fixedId": 325,
+        "label": "ITEM_0351",
+        "name": {
+            "cn": "波衣龙的触手",
+            "en": "Uth Duna Tentacle",
+            "jp": "波衣竜の触手"
+        }
+    },
+    {
+        "id": 325,
+        "fixedId": 326,
+        "label": "ITEM_0352",
+        "name": {
+            "cn": "波衣龙的爪",
+            "en": "Uth Duna Claw",
+            "jp": "波衣竜の爪"
+        }
+    },
+    {
+        "id": 326,
+        "fixedId": 327,
+        "label": "ITEM_0353",
+        "name": {
+            "cn": "波衣龙的逆鳞",
+            "en": "Uth Duna Plate",
+            "jp": "波衣竜の逆鱗"
+        }
+    },
+    {
+        "id": 327,
+        "fixedId": 328,
+        "label": "ITEM_0354",
+        "name": {
+            "cn": "波衣龙狩猎证",
+            "en": "Uth Duna Certificate",
+            "jp": "波衣竜の狩猟証"
+        }
+    },
+    {
+        "id": 328,
+        "fixedId": 329,
+        "label": "ITEM_0355",
+        "name": {
+            "cn": "波衣龙的上等鳞",
+            "en": "Uth Duna Scale+",
+            "jp": "波衣竜の上鱗"
+        }
+    },
+    {
+        "id": 329,
+        "fixedId": 330,
+        "label": "ITEM_0356",
+        "name": {
+            "cn": "波衣龙的上等皮",
+            "en": "Uth Duna Hide+",
+            "jp": "波衣竜の上皮"
+        }
+    },
+    {
+        "id": 330,
+        "fixedId": 331,
+        "label": "ITEM_0357",
+        "name": {
+            "cn": "波衣龙的上等纤毛",
+            "en": "Uth Duna Cilia+",
+            "jp": "波衣竜の上繊毛"
+        }
+    },
+    {
+        "id": 331,
+        "fixedId": 332,
+        "label": "ITEM_0358",
+        "name": {
+            "cn": "波衣龙的艳触手",
+            "en": "Uth Duna Tentacle+",
+            "jp": "波衣竜の艶触手"
+        }
+    },
+    {
+        "id": 332,
+        "fixedId": 333,
+        "label": "ITEM_0359",
+        "name": {
+            "cn": "波衣龙的锐爪",
+            "en": "Uth Duna Claw+",
+            "jp": "波衣竜の鋭爪"
+        }
+    },
+    {
+        "id": 333,
+        "fixedId": 334,
+        "label": "ITEM_0360",
+        "name": {
+            "cn": "波衣龙的水玉",
+            "en": "Uth Duna Watergem",
+            "jp": "波衣竜の水玉"
+        }
+    },
+    {
+        "id": 334,
+        "fixedId": 335,
+        "label": "ITEM_0361",
+        "name": {
+            "cn": "波衣龙狩猎证 S",
+            "en": "Uth Duna Certificate S",
+            "jp": "波衣竜の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 335,
+        "fixedId": 336,
+        "label": "ITEM_0362",
+        "name": {
+            "cn": "沼喷龙的皮",
+            "en": "Rompopolo Hide",
+            "jp": "沼噴竜の皮"
+        }
+    },
+    {
+        "id": 336,
+        "fixedId": 337,
+        "label": "ITEM_0363",
+        "name": {
+            "cn": "沼喷龙的爪",
+            "en": "Rompopolo Claw",
+            "jp": "沼噴竜の爪"
+        }
+    },
+    {
+        "id": 337,
+        "fixedId": 338,
+        "label": "ITEM_0364",
+        "name": {
+            "cn": "斑斓的毒皮",
+            "en": "Spotted Poison Hide",
+            "jp": "まだらの毒皮"
+        }
+    },
+    {
+        "id": 338,
+        "fixedId": 339,
+        "label": "ITEM_0365",
+        "name": {
+            "cn": "沼喷龙的喙",
+            "en": "Rompopolo Beak",
+            "jp": "沼噴竜のクチバシ"
+        }
+    },
+    {
+        "id": 339,
+        "fixedId": 340,
+        "label": "ITEM_0366",
+        "name": {
+            "cn": "沼喷龙狩猎证",
+            "en": "Rompopolo Certificate",
+            "jp": "沼噴竜の狩猟証"
+        }
+    },
+    {
+        "id": 340,
+        "fixedId": 341,
+        "label": "ITEM_0367",
+        "name": {
+            "cn": "沼喷龙的上等皮",
+            "en": "Rompopolo Hide+",
+            "jp": "沼噴竜の上皮"
+        }
+    },
+    {
+        "id": 341,
+        "fixedId": 342,
+        "label": "ITEM_0368",
+        "name": {
+            "cn": "沼喷龙的锐爪",
+            "en": "Rompopolo Claw+",
+            "jp": "沼噴竜の鋭爪"
+        }
+    },
+    {
+        "id": 342,
+        "fixedId": 343,
+        "label": "ITEM_0369",
+        "name": {
+            "cn": "斑斓的猛毒皮",
+            "en": "Spotted Poison Hide+",
+            "jp": "まだらの猛毒皮"
+        }
+    },
+    {
+        "id": 343,
+        "fixedId": 344,
+        "label": "ITEM_0370",
+        "name": {
+            "cn": "沼喷龙的大喙",
+            "en": "Rompopolo Beak+",
+            "jp": "沼噴竜の大クチバシ"
+        }
+    },
+    {
+        "id": 344,
+        "fixedId": 345,
+        "label": "ITEM_0371",
+        "name": {
+            "cn": "沼喷龙狩猎证 S",
+            "en": "Rompopolo Certificate S",
+            "jp": "沼噴竜の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 345,
+        "fixedId": 346,
+        "label": "ITEM_0372",
+        "name": {
+            "cn": "煌雷龙狩猎证",
+            "en": "Rey Dau Certificate",
+            "jp": "煌雷竜の狩猟証"
+        }
+    },
+    {
+        "id": 346,
+        "fixedId": 347,
+        "label": "ITEM_0373",
+        "name": {
+            "cn": "煌雷龙的上等鳞",
+            "en": "Rey Dau Scale+",
+            "jp": "煌雷竜の上鱗"
+        }
+    },
+    {
+        "id": 347,
+        "fixedId": 348,
+        "label": "ITEM_0374",
+        "name": {
+            "cn": "煌雷龙的坚壳",
+            "en": "Rey Dau Carapace",
+            "jp": "煌雷竜の堅殻"
+        }
+    },
+    {
+        "id": 348,
+        "fixedId": 349,
+        "label": "ITEM_0375",
+        "name": {
+            "cn": "煌雷龙的雷电角",
+            "en": "Rey Dau Bolthorn",
+            "jp": "煌雷竜の雷電角"
+        }
+    },
+    {
+        "id": 349,
+        "fixedId": 350,
+        "label": "ITEM_0376",
+        "name": {
+            "cn": "煌雷龙的苍雷晶爪",
+            "en": "Rey Dau Fulgurtalon",
+            "jp": "煌雷竜の蒼雷晶爪"
+        }
+    },
+    {
+        "id": 350,
+        "fixedId": 351,
+        "label": "ITEM_0377",
+        "name": {
+            "cn": "煌雷龙的雷玉",
+            "en": "Rey Dau Boltgem",
+            "jp": "煌雷竜の雷玉"
+        }
+    },
+    {
+        "id": 351,
+        "fixedId": 352,
+        "label": "ITEM_0378",
+        "name": {
+            "cn": "煌雷龙狩猎证 S",
+            "en": "Rey Dau Certificate S",
+            "jp": "煌雷竜の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 352,
+        "fixedId": 353,
+        "label": "ITEM_0379",
+        "name": {
+            "cn": "风铗龙的鳞",
+            "en": "Hirabami Scale",
+            "jp": "風鋏竜の鱗"
+        }
+    },
+    {
+        "id": 353,
+        "fixedId": 354,
+        "label": "ITEM_0380",
+        "name": {
+            "cn": "风铗龙的皮",
+            "en": "Hirabami Hide",
+            "jp": "風鋏竜の皮"
+        }
+    },
+    {
+        "id": 354,
+        "fixedId": 355,
+        "label": "ITEM_0381",
+        "name": {
+            "cn": "风铗龙的飞膜",
+            "en": "Hirabami Webbing",
+            "jp": "風鋏竜の飛膜"
+        }
+    },
+    {
+        "id": 355,
+        "fixedId": 356,
+        "label": "ITEM_0382",
+        "name": {
+            "cn": "风铗龙的尾爪",
+            "en": "Hirabami Tail Claw",
+            "jp": "風鋏竜の尾爪"
+        }
+    },
+    {
+        "id": 356,
+        "fixedId": 357,
+        "label": "ITEM_0383",
+        "name": {
+            "cn": "风铗龙狩猎证",
+            "en": "Hirabami Certificate",
+            "jp": "風鋏竜の狩猟証"
+        }
+    },
+    {
+        "id": 357,
+        "fixedId": 358,
+        "label": "ITEM_0384",
+        "name": {
+            "cn": "风铗龙的上等鳞",
+            "en": "Hirabami Scale+",
+            "jp": "風鋏竜の上鱗"
+        }
+    },
+    {
+        "id": 358,
+        "fixedId": 359,
+        "label": "ITEM_0385",
+        "name": {
+            "cn": "风铗龙的上等皮",
+            "en": "Hirabami Hide+",
+            "jp": "風鋏竜の上皮"
+        }
+    },
+    {
+        "id": 359,
+        "fixedId": 360,
+        "label": "ITEM_0386",
+        "name": {
+            "cn": "风铗龙的上等飞膜",
+            "en": "Hirabami Webbing+",
+            "jp": "風鋏竜の上飛膜"
+        }
+    },
+    {
+        "id": 360,
+        "fixedId": 361,
+        "label": "ITEM_0387",
+        "name": {
+            "cn": "风铗龙的上等尾爪",
+            "en": "Hirabami Tail Claw+",
+            "jp": "風鋏竜の上尾爪"
+        }
+    },
+    {
+        "id": 361,
+        "fixedId": 362,
+        "label": "ITEM_0388",
+        "name": {
+            "cn": "风铗龙狩猎证 S",
+            "en": "Hirabami Certificate S",
+            "jp": "風鋏竜の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 362,
+        "fixedId": 363,
+        "label": "ITEM_0389",
+        "name": {
+            "cn": "赫猿兽的鳞",
+            "en": "Ajarakan Scale",
+            "jp": "赫猿獣の鱗"
+        }
+    },
+    {
+        "id": 363,
+        "fixedId": 364,
+        "label": "ITEM_0390",
+        "name": {
+            "cn": "赫猿兽的甲壳",
+            "en": "Ajarakan Shell",
+            "jp": "赫猿獣の甲殻"
+        }
+    },
+    {
+        "id": 364,
+        "fixedId": 365,
+        "label": "ITEM_0391",
+        "name": {
+            "cn": "赫猿兽的背甲",
+            "en": "Ajarakan Ridge",
+            "jp": "赫猿獣の背甲"
+        }
+    },
+    {
+        "id": 365,
+        "fixedId": 366,
+        "label": "ITEM_0392",
+        "name": {
+            "cn": "赫猿兽的尾巴",
+            "en": "Ajarakan Tail",
+            "jp": "赫猿獣の尻尾"
+        }
+    },
+    {
+        "id": 366,
+        "fixedId": 367,
+        "label": "ITEM_0393",
+        "name": {
+            "cn": "赫炎结晶",
+            "en": "Ajarakan Jewel",
+            "jp": "赫炎結晶"
+        }
+    },
+    {
+        "id": 367,
+        "fixedId": 368,
+        "label": "ITEM_0394",
+        "name": {
+            "cn": "赫猿兽的骨髓",
+            "en": "Ajarakan Marrow",
+            "jp": "赫猿獣の骨髄"
+        }
+    },
+    {
+        "id": 368,
+        "fixedId": 369,
+        "label": "ITEM_0395",
+        "name": {
+            "cn": "赫猿兽狩猎证",
+            "en": "Ajarakan Certificate",
+            "jp": "赫猿獣の狩猟証"
+        }
+    },
+    {
+        "id": 369,
+        "fixedId": 370,
+        "label": "ITEM_0396",
+        "name": {
+            "cn": "赫猿兽的上等鳞",
+            "en": "Ajarakan Scale+",
+            "jp": "赫猿獣の上鱗"
+        }
+    },
+    {
+        "id": 370,
+        "fixedId": 371,
+        "label": "ITEM_0397",
+        "name": {
+            "cn": "赫猿兽的坚壳",
+            "en": "Ajarakan Carapace",
+            "jp": "赫猿獣の堅殻"
+        }
+    },
+    {
+        "id": 371,
+        "fixedId": 372,
+        "label": "ITEM_0398",
+        "name": {
+            "cn": "赫猿兽的坚甲",
+            "en": "Ajarakan Ridge+",
+            "jp": "赫猿獣の堅甲"
+        }
+    },
+    {
+        "id": 372,
+        "fixedId": 373,
+        "label": "ITEM_0399",
+        "name": {
+            "cn": "大赫炎结晶",
+            "en": "Ajarakan Jewel+",
+            "jp": "大赫炎結晶"
+        }
+    },
+    {
+        "id": 373,
+        "fixedId": 374,
+        "label": "ITEM_0400",
+        "name": {
+            "cn": "赫猿兽的延髓",
+            "en": "Ajarakan Medulla",
+            "jp": "赫猿獣の延髄"
+        }
+    },
+    {
+        "id": 374,
+        "fixedId": 375,
+        "label": "ITEM_0401",
+        "name": {
+            "cn": "赫猿兽狩猎证 S",
+            "en": "Ajarakan Certificate S",
+            "jp": "赫猿獣の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 375,
+        "fixedId": 376,
+        "label": "ITEM_0402",
+        "name": {
+            "cn": "狱焰蛸的皮",
+            "en": "Nu Udra Hide",
+            "jp": "獄焔蛸の皮"
+        }
+    },
+    {
+        "id": 376,
+        "fixedId": 377,
+        "label": "ITEM_0403",
+        "name": {
+            "cn": "狱焰蛸的棘",
+            "en": "Nu Udra Spike",
+            "jp": "獄焔蛸の棘"
+        }
+    },
+    {
+        "id": 377,
+        "fixedId": 378,
+        "label": "ITEM_0404",
+        "name": {
+            "cn": "狱焰蛸的角",
+            "en": "Nu Udra Horn",
+            "jp": "獄焔蛸の角"
+        }
+    },
+    {
+        "id": 378,
+        "fixedId": 379,
+        "label": "ITEM_0405",
+        "name": {
+            "cn": "狱焰蛸的触手",
+            "en": "Nu Udra Tentacle",
+            "jp": "獄焔蛸の触手"
+        }
+    },
+    {
+        "id": 379,
+        "fixedId": 380,
+        "label": "ITEM_0406",
+        "name": {
+            "cn": "狱焰蛸的油膜",
+            "en": "Nu Udra Oilmucus",
+            "jp": "獄焔蛸の油膜"
+        }
+    },
+    {
+        "id": 380,
+        "fixedId": 381,
+        "label": "ITEM_0407",
+        "name": {
+            "cn": "狱焰蛸的髓液",
+            "en": "Nu Udra Cerebrospinal Fluid",
+            "jp": "獄焔蛸の髄液"
+        }
+    },
+    {
+        "id": 381,
+        "fixedId": 382,
+        "label": "ITEM_0408",
+        "name": {
+            "cn": "狱焰蛸狩猎证",
+            "en": "Nu Udra Certificate",
+            "jp": "獄焔蛸の狩猟証"
+        }
+    },
+    {
+        "id": 382,
+        "fixedId": 383,
+        "label": "ITEM_0409",
+        "name": {
+            "cn": "狱焰蛸的上等皮",
+            "en": "Nu Udra Hide+",
+            "jp": "獄焔蛸の上皮"
+        }
+    },
+    {
+        "id": 383,
+        "fixedId": 384,
+        "label": "ITEM_0410",
+        "name": {
+            "cn": "狱焰蛸的上等棘",
+            "en": "Nu Udra Spike+",
+            "jp": "獄焔蛸の上棘"
+        }
+    },
+    {
+        "id": 384,
+        "fixedId": 385,
+        "label": "ITEM_0411",
+        "name": {
+            "cn": "狱焰蛸的尖角",
+            "en": "Nu Udra Horn+",
+            "jp": "獄焔蛸の尖角"
+        }
+    },
+    {
+        "id": 385,
+        "fixedId": 386,
+        "label": "ITEM_0412",
+        "name": {
+            "cn": "狱焰蛸的暴触手",
+            "en": "Nu Udra Tentacle+",
+            "jp": "獄焔蛸の暴触手"
+        }
+    },
+    {
+        "id": 386,
+        "fixedId": 387,
+        "label": "ITEM_0413",
+        "name": {
+            "cn": "狱焰蛸的浓油膜",
+            "en": "Nu Udra Oilmucus+",
+            "jp": "獄焔蛸の濃油膜"
+        }
+    },
+    {
+        "id": 387,
+        "fixedId": 388,
+        "label": "ITEM_0414",
+        "name": {
+            "cn": "狱焰蛸的炎玉",
+            "en": "Nu Udra Flamegem",
+            "jp": "獄焔蛸の炎玉"
+        }
+    },
+    {
+        "id": 388,
+        "fixedId": 389,
+        "label": "ITEM_0415",
+        "name": {
+            "cn": "狱焰蛸狩猎证 S",
+            "en": "Nu Udra Certificate S",
+            "jp": "獄焔蛸の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 389,
+        "fixedId": 390,
+        "label": "ITEM_0416",
+        "name": {
+            "cn": "护辟兽的毛",
+            "en": "Guardian Doshaguma Fur",
+            "jp": "護闢獣の毛"
+        }
+    },
+    {
+        "id": 390,
+        "fixedId": 391,
+        "label": "ITEM_0417",
+        "name": {
+            "cn": "护辟兽的皮",
+            "en": "Guardian Doshaguma Hide",
+            "jp": "護闢獣の皮"
+        }
+    },
+    {
+        "id": 391,
+        "fixedId": 392,
+        "label": "ITEM_0418",
+        "name": {
+            "cn": "护辟兽的爪",
+            "en": "Guardian Doshaguma Claw",
+            "jp": "護闢獣の爪"
+        }
+    },
+    {
+        "id": 392,
+        "fixedId": 393,
+        "label": "ITEM_0419",
+        "name": {
+            "cn": "护辟兽的牙",
+            "en": "Guardian Doshaguma Fang",
+            "jp": "護闢獣の牙"
+        }
+    },
+    {
+        "id": 393,
+        "fixedId": 394,
+        "label": "ITEM_0420",
+        "name": {
+            "cn": "护辟兽狩猎证",
+            "en": "G. Doshaguma Certificate",
+            "jp": "護闢獣の狩猟証"
+        }
+    },
+    {
+        "id": 394,
+        "fixedId": 395,
+        "label": "ITEM_0421",
+        "name": {
+            "cn": "护辟兽的刚毛",
+            "en": "Guardian Doshaguma Fur+",
+            "jp": "護闢獣の剛毛"
+        }
+    },
+    {
+        "id": 395,
+        "fixedId": 396,
+        "label": "ITEM_0422",
+        "name": {
+            "cn": "护辟兽的上等皮",
+            "en": "Guardian Doshaguma Hide+",
+            "jp": "護闢獣の上皮"
+        }
+    },
+    {
+        "id": 396,
+        "fixedId": 397,
+        "label": "ITEM_0423",
+        "name": {
+            "cn": "护辟兽的锐爪",
+            "en": "Guardian Doshaguma Claw+",
+            "jp": "護闢獣の鋭爪"
+        }
+    },
+    {
+        "id": 397,
+        "fixedId": 398,
+        "label": "ITEM_0424",
+        "name": {
+            "cn": "护辟兽的锐牙",
+            "en": "Guardian Doshaguma Fang+",
+            "jp": "護闢獣の鋭牙"
+        }
+    },
+    {
+        "id": 398,
+        "fixedId": 399,
+        "label": "ITEM_0425",
+        "name": {
+            "cn": "护辟兽狩猎证 S",
+            "en": "G. Doshaguma Certificate S",
+            "jp": "護闢獣の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 399,
+        "fixedId": 400,
+        "label": "ITEM_0426",
+        "name": {
+            "cn": "护火龙的鳞",
+            "en": "Guardian Rathalos Scale",
+            "jp": "護火竜の鱗"
+        }
+    },
+    {
+        "id": 400,
+        "fixedId": 401,
+        "label": "ITEM_0427",
+        "name": {
+            "cn": "护火龙的甲壳",
+            "en": "Guardian Rathalos Shell",
+            "jp": "護火竜の甲殻"
+        }
+    },
+    {
+        "id": 401,
+        "fixedId": 402,
+        "label": "ITEM_0428",
+        "name": {
+            "cn": "护火龙的翼膜",
+            "en": "Guardian Rathalos Webbing",
+            "jp": "護火竜の翼膜"
+        }
+    },
+    {
+        "id": 402,
+        "fixedId": 403,
+        "label": "ITEM_0429",
+        "name": {
+            "cn": "护火龙的尾巴",
+            "en": "Guardian Rathalos Tail",
+            "jp": "護火竜の尻尾"
+        }
+    },
+    {
+        "id": 404,
+        "fixedId": 405,
+        "label": "ITEM_0431",
+        "name": {
+            "cn": "护火龙狩猎证",
+            "en": "G. Rathalos Certificate",
+            "jp": "護火竜の狩猟証"
+        }
+    },
+    {
+        "id": 405,
+        "fixedId": 406,
+        "label": "ITEM_0432",
+        "name": {
+            "cn": "护火龙的上等鳞",
+            "en": "Guardian Rathalos Scale+",
+            "jp": "護火竜の上鱗"
+        }
+    },
+    {
+        "id": 406,
+        "fixedId": 407,
+        "label": "ITEM_0433",
+        "name": {
+            "cn": "护火龙的坚壳",
+            "en": "Guardian Rathalos Carapace",
+            "jp": "護火竜の堅殻"
+        }
+    },
+    {
+        "id": 407,
+        "fixedId": 408,
+        "label": "ITEM_0434",
+        "name": {
+            "cn": "护火龙的翼",
+            "en": "Guardian Rathalos Wing",
+            "jp": "護火竜の翼"
+        }
+    },
+    {
+        "id": 408,
+        "fixedId": 409,
+        "label": "ITEM_0435",
+        "name": {
+            "cn": "装备中的衣装",
+            "en": "Equipped Mantles",
+            "jp": "装備中の装衣"
+        }
+    },
+    {
+        "id": 409,
+        "fixedId": 410,
+        "label": "ITEM_0436",
+        "name": {
+            "cn": "护火龙狩猎证 S",
+            "en": "G. Rathalos Certificate S",
+            "jp": "護火竜の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 410,
+        "fixedId": 411,
+        "label": "ITEM_0437",
+        "name": {
+            "cn": "火龙的延髓",
+            "en": "Rath Medulla",
+            "jp": "火竜の延髄"
+        }
+    },
+    {
+        "id": 412,
+        "fixedId": 413,
+        "label": "ITEM_0439",
+        "name": {
+            "cn": "鬼人弹",
+            "en": "Demon Ammo",
+            "jp": "鬼人弾"
+        }
+    },
+    {
+        "id": 413,
+        "fixedId": 414,
+        "label": "ITEM_0440",
+        "name": {
+            "cn": "硬化弹",
+            "en": "Armor Ammo",
+            "jp": "硬化弾"
+        }
+    },
+    {
+        "id": 414,
+        "fixedId": 415,
+        "label": "ITEM_0441",
+        "name": {
+            "cn": "回复弹",
+            "en": "Recover Ammo",
+            "jp": "回復弾"
+        }
+    },
+    {
+        "id": 415,
+        "fixedId": 416,
+        "label": "ITEM_0442",
+        "name": {
+            "cn": "捕获用麻醉弹",
+            "en": "Tranq Ammo",
+            "jp": "捕獲用麻酔弾"
+        }
+    },
+    {
+        "id": 416,
+        "fixedId": 417,
+        "label": "ITEM_0443",
+        "name": {
+            "cn": "减气弹",
+            "en": "Exhaust Ammo",
+            "jp": "減気弾"
+        }
+    },
+    {
+        "id": 417,
+        "fixedId": 418,
+        "label": "ITEM_0444",
+        "name": {
+            "cn": "狂龙结晶碎片",
+            "en": "Frenzy Shard",
+            "jp": "狂竜結晶の欠片"
+        }
+    },
+    {
+        "id": 418,
+        "fixedId": 419,
+        "label": "ITEM_0445",
+        "name": {
+            "cn": "冻峰龙的上等鳞",
+            "en": "Jin Dahaad Scale+",
+            "jp": "凍峰竜の上鱗"
+        }
+    },
+    {
+        "id": 419,
+        "fixedId": 420,
+        "label": "ITEM_0446",
+        "name": {
+            "cn": "冻峰龙的坚壳",
+            "en": "Jin Dahaad Carapace",
+            "jp": "凍峰竜の堅殻"
+        }
+    },
+    {
+        "id": 420,
+        "fixedId": 421,
+        "label": "ITEM_0447",
+        "name": {
+            "cn": "冻峰龙的冻凝壳",
+            "en": "Jin Dahaad Iceplate",
+            "jp": "凍峰竜の凍成殻"
+        }
+    },
+    {
+        "id": 421,
+        "fixedId": 422,
+        "label": "ITEM_0448",
+        "name": {
+            "cn": "冻峰龙的尖爪",
+            "en": "Jin Dahaad Claw+",
+            "jp": "凍峰竜の尖爪"
+        }
+    },
+    {
+        "id": 422,
+        "fixedId": 423,
+        "label": "ITEM_0449",
+        "name": {
+            "cn": "冻峰龙的层角",
+            "en": "Jin Dahaad Horn",
+            "jp": "凍峰竜の層角"
+        }
+    },
+    {
+        "id": 423,
+        "fixedId": 424,
+        "label": "ITEM_0450",
+        "name": {
+            "cn": "冻峰龙的冰玉",
+            "en": "Jin Dahaad Icegem",
+            "jp": "凍峰竜の氷玉"
+        }
+    },
+    {
+        "id": 424,
+        "fixedId": 425,
+        "label": "ITEM_0451",
+        "name": {
+            "cn": "冻峰龙狩猎证 S",
+            "en": "Jin Dahaad Certificate S",
+            "jp": "凍峰竜の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 425,
+        "fixedId": 426,
+        "label": "ITEM_0452",
+        "name": {
+            "cn": "护凶爪龙的鳞",
+            "en": "Guardian Ebony Scale",
+            "jp": "護兇爪竜の鱗"
+        }
+    },
+    {
+        "id": 426,
+        "fixedId": 427,
+        "label": "ITEM_0453",
+        "name": {
+            "cn": "护凶爪龙的硬肌",
+            "en": "Guardian Ebony Sinew",
+            "jp": "護兇爪竜の硬筋"
+        }
+    },
+    {
+        "id": 427,
+        "fixedId": 428,
+        "label": "ITEM_0454",
+        "name": {
+            "cn": "护凶爪龙的爪",
+            "en": "Guardian Ebony Claw",
+            "jp": "護兇爪竜の爪"
+        }
+    },
+    {
+        "id": 428,
+        "fixedId": 429,
+        "label": "ITEM_0455",
+        "name": {
+            "cn": "护凶爪龙的牙",
+            "en": "Guardian Ebony Fang",
+            "jp": "護兇爪竜の牙"
+        }
+    },
+    {
+        "id": 429,
+        "fixedId": 430,
+        "label": "ITEM_0456",
+        "name": {
+            "cn": "护凶爪龙的尾巴",
+            "en": "Guardian Ebony Tail",
+            "jp": "護兇爪竜の尻尾"
+        }
+    },
+    {
+        "id": 430,
+        "fixedId": 431,
+        "label": "ITEM_0457",
+        "name": {
+            "cn": "护凶爪龙的逆鳞",
+            "en": "Guardian Ebony Plate",
+            "jp": "護兇爪竜の逆鱗"
+        }
+    },
+    {
+        "id": 431,
+        "fixedId": 432,
+        "label": "ITEM_0458",
+        "name": {
+            "cn": "护凶爪龙狩猎证",
+            "en": "G. Ebony Odogaron Certificate",
+            "jp": "護兇爪竜の狩猟証"
+        }
+    },
+    {
+        "id": 432,
+        "fixedId": 433,
+        "label": "ITEM_0459",
+        "name": {
+            "cn": "护凶爪龙的上等鳞",
+            "en": "Guardian Ebony Scale+",
+            "jp": "護兇爪竜の上鱗"
+        }
+    },
+    {
+        "id": 433,
+        "fixedId": 434,
+        "label": "ITEM_0460",
+        "name": {
+            "cn": "护凶爪龙的大硬肌",
+            "en": "Guardian Ebony Sinew+",
+            "jp": "護兇爪竜の大硬筋"
+        }
+    },
+    {
+        "id": 434,
+        "fixedId": 435,
+        "label": "ITEM_0461",
+        "name": {
+            "cn": "护凶爪龙的尖爪",
+            "en": "Guardian Ebony Claw+",
+            "jp": "護兇爪竜の尖爪"
+        }
+    },
+    {
+        "id": 435,
+        "fixedId": 436,
+        "label": "ITEM_0462",
+        "name": {
+            "cn": "护凶爪龙的锐牙",
+            "en": "Guardian Ebony Fang+",
+            "jp": "護兇爪竜の鋭牙"
+        }
+    },
+    {
+        "id": 436,
+        "fixedId": 437,
+        "label": "ITEM_0463",
+        "name": {
+            "cn": "护凶爪龙的宝玉",
+            "en": "Guardian Ebony Gem",
+            "jp": "護兇爪竜の宝玉"
+        }
+    },
+    {
+        "id": 437,
+        "fixedId": 438,
+        "label": "ITEM_0464",
+        "name": {
+            "cn": "护凶爪龙狩猎证 S",
+            "en": "G. Ebony Odogaron Certificate S",
+            "jp": "護兇爪竜の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 438,
+        "fixedId": 439,
+        "label": "ITEM_0465",
+        "name": {
+            "cn": "滋养精华",
+            "en": "Nourishing Extract",
+            "jp": "滋養エキス"
+        }
+    },
+    {
+        "id": 439,
+        "fixedId": 440,
+        "label": "ITEM_0466",
+        "name": {
+            "cn": "暗器蛸的皮",
+            "en": "Xu Wu Hide",
+            "jp": "暗器蛸の皮"
+        }
+    },
+    {
+        "id": 440,
+        "fixedId": 441,
+        "label": "ITEM_0467",
+        "name": {
+            "cn": "金色角质",
+            "en": "Golden Corneum",
+            "jp": "金色の角質"
+        }
+    },
+    {
+        "id": 441,
+        "fixedId": 442,
+        "label": "ITEM_0468",
+        "name": {
+            "cn": "暗器蛸的触手",
+            "en": "Xu Wu Tentacle",
+            "jp": "暗器蛸の触手"
+        }
+    },
+    {
+        "id": 442,
+        "fixedId": 443,
+        "label": "ITEM_0469",
+        "name": {
+            "cn": "暗器蛸的爪",
+            "en": "Xu Wu Claw",
+            "jp": "暗器蛸の爪"
+        }
+    },
+    {
+        "id": 443,
+        "fixedId": 444,
+        "label": "ITEM_0470",
+        "name": {
+            "cn": "暗器蛸的牙",
+            "en": "Xu Wu Fang",
+            "jp": "暗器蛸の牙"
+        }
+    },
+    {
+        "id": 444,
+        "fixedId": 445,
+        "label": "ITEM_0471",
+        "name": {
+            "cn": "暗器蛸的髓液",
+            "en": "Xu Wu Cerebrospinal Fluid",
+            "jp": "暗器蛸の髄液"
+        }
+    },
+    {
+        "id": 445,
+        "fixedId": 446,
+        "label": "ITEM_0472",
+        "name": {
+            "cn": "暗器蛸狩猎证",
+            "en": "Xu Wu Certificate",
+            "jp": "暗器蛸の狩猟証"
+        }
+    },
+    {
+        "id": 446,
+        "fixedId": 447,
+        "label": "ITEM_0473",
+        "name": {
+            "cn": "暗器蛸的上等皮",
+            "en": "Xu Wu Hide+",
+            "jp": "暗器蛸の上皮"
+        }
+    },
+    {
+        "id": 447,
+        "fixedId": 448,
+        "label": "ITEM_0474",
+        "name": {
+            "cn": "黄金硬角质",
+            "en": "Golden Corneum+",
+            "jp": "黄金の硬角質"
+        }
+    },
+    {
+        "id": 448,
+        "fixedId": 449,
+        "label": "ITEM_0475",
+        "name": {
+            "cn": "暗器蛸的上等触手",
+            "en": "Xu Wu Tentacle+",
+            "jp": "暗器蛸の上触手"
+        }
+    },
+    {
+        "id": 449,
+        "fixedId": 450,
+        "label": "ITEM_0476",
+        "name": {
+            "cn": "暗器蛸的尖爪",
+            "en": "Xu Wu Claw+",
+            "jp": "暗器蛸の尖爪"
+        }
+    },
+    {
+        "id": 450,
+        "fixedId": 451,
+        "label": "ITEM_0477",
+        "name": {
+            "cn": "暗器蛸的锐牙",
+            "en": "Xu Wu Fang+",
+            "jp": "暗器蛸の鋭牙"
+        }
+    },
+    {
+        "id": 451,
+        "fixedId": 452,
+        "label": "ITEM_0478",
+        "name": {
+            "cn": "暗器蛸的暗玉",
+            "en": "Xu Wu Umbragem",
+            "jp": "暗器蛸の暗玉"
+        }
+    },
+    {
+        "id": 453,
+        "fixedId": 454,
+        "label": "ITEM_0480",
+        "name": {
+            "cn": "护龙的鳞",
+            "en": "Guardian Scale",
+            "jp": "護竜の鱗"
+        }
+    },
+    {
+        "id": 454,
+        "fixedId": 455,
+        "label": "ITEM_0481",
+        "name": {
+            "cn": "护龙的上等鳞",
+            "en": "Guardian Scale+",
+            "jp": "護竜の上鱗"
+        }
+    },
+    {
+        "id": 455,
+        "fixedId": 456,
+        "label": "ITEM_0482",
+        "name": {
+            "cn": "锁刃龙的尾巴",
+            "en": "Arkveld Tail",
+            "jp": "鎖刃竜の尻尾"
+        }
+    },
+    {
+        "id": 456,
+        "fixedId": 457,
+        "label": "ITEM_0483",
+        "name": {
+            "cn": "投射器大异臭弹",
+            "en": "Large Dung Pod",
+            "jp": "スリンガー大こやし弾"
+        }
+    },
+    {
+        "id": 457,
+        "fixedId": 458,
+        "label": "ITEM_0484",
+        "name": {
+            "cn": "补给专用大异臭弹",
+            "en": "EZ Large Dung Pod",
+            "jp": "支給用大こやし弾"
+        }
+    },
+    {
+        "id": 458,
+        "fixedId": 459,
+        "label": "ITEM_0485",
+        "name": {
+            "cn": "锁刃龙的上等鳞",
+            "en": "Arkveld Scale+",
+            "jp": "鎖刃竜の上鱗"
+        }
+    },
+    {
+        "id": 459,
+        "fixedId": 460,
+        "label": "ITEM_0486",
+        "name": {
+            "cn": "锁刃龙的坚铠壳",
+            "en": "Arkveld Armorplate",
+            "jp": "鎖刃竜の堅鎧殻"
+        }
+    },
+    {
+        "id": 461,
+        "fixedId": 462,
+        "label": "ITEM_0488",
+        "name": {
+            "cn": "锁刃龙的白毛",
+            "en": "White Arkveld Pelt",
+            "jp": "鎖刃竜の白毛"
+        }
+    },
+    {
+        "id": 462,
+        "fixedId": 463,
+        "label": "ITEM_0489",
+        "name": {
+            "cn": "无情锁刃甲",
+            "en": "Arkveld Calloushell",
+            "jp": "無慈悲な鎖刃甲"
+        }
+    },
+    {
+        "id": 463,
+        "fixedId": 464,
+        "label": "ITEM_0490",
+        "name": {
+            "cn": "锁刃龙的尖角",
+            "en": "Arkveld Horn+",
+            "jp": "鎖刃竜の尖角"
+        }
+    },
+    {
+        "id": 464,
+        "fixedId": 465,
+        "label": "ITEM_0491",
+        "name": {
+            "cn": "锁刃龙的宝玉",
+            "en": "Arkveld Gem",
+            "jp": "鎖刃竜の宝玉"
+        }
+    },
+    {
+        "id": 465,
+        "fixedId": 466,
+        "label": "ITEM_0492",
+        "name": {
+            "cn": "锁刃龙狩猎证 S",
+            "en": "Arkveld Certificate S",
+            "jp": "鎖刃竜の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 466,
+        "fixedId": 467,
+        "label": "ITEM_0493",
+        "name": {
+            "cn": "投射器重打击弹",
+            "en": "Heavy Blunt Pod",
+            "jp": "スリンガー重打撃弾"
+        }
+    },
+    {
+        "id": 467,
+        "fixedId": 468,
+        "label": "ITEM_0494",
+        "name": {
+            "cn": "投射器重斩裂弹",
+            "en": "Heavy Slicing Pod",
+            "jp": "スリンガー重斬裂弾"
+        }
+    },
+    {
+        "id": 468,
+        "fixedId": 469,
+        "label": "ITEM_0495",
+        "name": {
+            "cn": "投射器重炸裂弹",
+            "en": "Heavy Explosion Pod",
+            "jp": "スリンガー重炸裂弾"
+        }
+    },
+    {
+        "id": 469,
+        "fixedId": 470,
+        "label": "ITEM_0496",
+        "name": {
+            "cn": "普通素材",
+            "en": "Basic Material",
+            "jp": "普通の素材"
+        }
+    },
+    {
+        "id": 470,
+        "fixedId": 471,
+        "label": "ITEM_0497",
+        "name": {
+            "cn": "高价值素材",
+            "en": "Valuable Material",
+            "jp": "価値の高い素材"
+        }
+    },
+    {
+        "id": 471,
+        "fixedId": 472,
+        "label": "ITEM_0498",
+        "name": {
+            "cn": "黯灰金碎屑",
+            "en": "Drearisite Scraps",
+            "jp": "ニビイロの金屑"
+        }
+    },
+    {
+        "id": 472,
+        "fixedId": 473,
+        "label": "ITEM_0499",
+        "name": {
+            "cn": "带战伤的鳞",
+            "en": "Scarred Scale",
+            "jp": "戦傷のある鱗"
+        }
+    },
+    {
+        "id": 473,
+        "fixedId": 474,
+        "label": "ITEM_0500",
+        "name": {
+            "cn": "老旧龙雕币",
+            "en": "Ancient Wyvern Coin",
+            "jp": "古びた竜彫貨"
+        }
+    },
+    {
+        "id": 474,
+        "fixedId": 475,
+        "label": "ITEM_0501",
+        "name": {
+            "cn": "投射器重贯穿弹",
+            "en": "Heavy Piercing Pod",
+            "jp": "スリンガー重貫通弾"
+        }
+    },
+    {
+        "id": 475,
+        "fixedId": 476,
+        "label": "ITEM_0502",
+        "name": {
+            "cn": "<COLOR FF0000>#Rejected#</COLOR> Item_IT_476",
+            "en": "<COLOR FF0000>#Rejected#</COLOR> Item_IT_476",
+            "jp": "<COLOR FF0000>#Rejected#</COLOR> Item_IT_476"
+        }
+    },
+    {
+        "id": 476,
+        "fixedId": 477,
+        "label": "ITEM_0503",
+        "name": {
+            "cn": "冰冷菇",
+            "en": "Chillshroom",
+            "jp": "ヒンヤリダケ"
+        }
+    },
+    {
+        "id": 477,
+        "fixedId": 478,
+        "label": "ITEM_0504",
+        "name": {
+            "cn": "辣椒",
+            "en": "Hot Pepper",
+            "jp": "トウガラシ"
+        }
+    },
+    {
+        "id": 478,
+        "fixedId": 479,
+        "label": "ITEM_0505",
+        "name": {
+            "cn": "老旧武器碎片",
+            "en": "Ancient Weapon Fragment",
+            "jp": "古びた武器片"
+        }
+    },
+    {
+        "id": 479,
+        "fixedId": 480,
+        "label": "ITEM_0506",
+        "name": {
+            "cn": "影蜘蛛的坚钳角",
+            "en": "Nerscylla Shear",
+            "jp": "影蜘蛛の堅鋏角"
+        }
+    },
+    {
+        "id": 480,
+        "fixedId": 481,
+        "label": "ITEM_0507",
+        "name": {
+            "cn": "护雷颚龙的上等鳞",
+            "en": "Guardian Fulgur Scale+",
+            "jp": "護雷顎竜の上鱗"
+        }
+    },
+    {
+        "id": 481,
+        "fixedId": 482,
+        "label": "ITEM_0508",
+        "name": {
+            "cn": "护雷颚龙的上等毛皮",
+            "en": "Guardian Fulgur Pelt+",
+            "jp": "護雷顎竜の上毛皮"
+        }
+    },
+    {
+        "id": 482,
+        "fixedId": 483,
+        "label": "ITEM_0509",
+        "name": {
+            "cn": "护雷颚龙的锐牙",
+            "en": "Guardian Fulgur Fang+",
+            "jp": "護雷顎竜の鋭牙"
+        }
+    },
+    {
+        "id": 483,
+        "fixedId": 484,
+        "label": "ITEM_0510",
+        "name": {
+            "cn": "护雷颚龙的上等鼻骨",
+            "en": "Guardian Fulgur Nosebone+",
+            "jp": "護雷顎竜の上鼻骨"
+        }
+    },
+    {
+        "id": 484,
+        "fixedId": 485,
+        "label": "ITEM_0511",
+        "name": {
+            "cn": "护雷颚龙的尾巴",
+            "en": "Guardian Fulgur Tail",
+            "jp": "護雷顎竜の尻尾"
+        }
+    },
+    {
+        "id": 485,
+        "fixedId": 486,
+        "label": "ITEM_0512",
+        "name": {
+            "cn": "护雷颚龙的宝玉",
+            "en": "Guardian Fulgur Gem",
+            "jp": "護雷顎竜の宝玉"
+        }
+    },
+    {
+        "id": 486,
+        "fixedId": 487,
+        "label": "ITEM_0513",
+        "name": {
+            "cn": "草食种的坚壳",
+            "en": "Herbivore Carapace",
+            "jp": "草食種の堅殻"
+        }
+    },
+    {
+        "id": 487,
+        "fixedId": 488,
+        "label": "ITEM_0514",
+        "name": {
+            "cn": "血盗虫的坚壳",
+            "en": "Bulaqchi Carapace",
+            "jp": "ブブラチカの堅殻"
+        }
+    },
+    {
+        "id": 488,
+        "fixedId": 489,
+        "label": "ITEM_0515",
+        "name": {
+            "cn": "怪物体液",
+            "en": "Monster Fluid",
+            "jp": "モンスターの体液"
+        }
+    },
+    {
+        "id": 489,
+        "fixedId": 490,
+        "label": "ITEM_0516",
+        "name": {
+            "cn": "怪物浓液",
+            "en": "Monster Broth",
+            "jp": "モンスターの濃汁"
+        }
+    },
+    {
+        "id": 490,
+        "fixedId": 491,
+        "label": "ITEM_0517",
+        "name": {
+            "cn": "钳速龙的上等鳞",
+            "en": "Talioth Scale+",
+            "jp": "タリオスの上鱗"
+        }
+    },
+    {
+        "id": 491,
+        "fixedId": 492,
+        "label": "ITEM_0518",
+        "name": {
+            "cn": "翼龙的上等皮",
+            "en": "Wingdrake Hide+",
+            "jp": "翼竜の上皮"
+        }
+    },
+    {
+        "id": 492,
+        "fixedId": 493,
+        "label": "ITEM_0519",
+        "name": {
+            "cn": "锯带龙的鳍",
+            "en": "Piragill Fin",
+            "jp": "ピラギルのヒレ"
+        }
+    },
+    {
+        "id": 493,
+        "fixedId": 494,
+        "label": "ITEM_0520",
+        "name": {
+            "cn": "锯带龙的上等鳍",
+            "en": "Piragill Fin+",
+            "jp": "ピラギルの上ヒレ"
+        }
+    },
+    {
+        "id": 495,
+        "fixedId": 496,
+        "label": "ITEM_0522",
+        "name": {
+            "cn": "盔速龙的头壳",
+            "en": "Kranodath Skull",
+            "jp": "クラノダスの頭殻"
+        }
+    },
+    {
+        "id": 496,
+        "fixedId": 497,
+        "label": "ITEM_0523",
+        "name": {
+            "cn": "盔速龙的坚头壳",
+            "en": "Kranodath Skull+",
+            "jp": "クラノダスの堅頭殻"
+        }
+    },
+    {
+        "id": 497,
+        "fixedId": 498,
+        "label": "ITEM_0524",
+        "name": {
+            "cn": "血眠虫的甲壳",
+            "en": "Comaqchi Shell",
+            "jp": "ネマラチカの甲殻"
+        }
+    },
+    {
+        "id": 498,
+        "fixedId": 499,
+        "label": "ITEM_0525",
+        "name": {
+            "cn": "血眠虫的坚壳",
+            "en": "Comaqchi Carapace",
+            "jp": "ネマラチカの堅殻"
+        }
+    },
+    {
+        "id": 501,
+        "fixedId": 502,
+        "label": "ITEM_0528",
+        "name": {
+            "cn": "护鹭鹰龙的羽毛",
+            "en": "Guardian Seikret Feather",
+            "jp": "護竜セクレトの羽"
+        }
+    },
+    {
+        "id": 502,
+        "fixedId": 503,
+        "label": "ITEM_0529",
+        "name": {
+            "cn": "护鹭鹰龙的上等羽毛",
+            "en": "Guardian Seikret Feather+",
+            "jp": "護竜セクレトの上羽"
+        }
+    },
+    {
+        "id": 503,
+        "fixedId": 504,
+        "label": "ITEM_0530",
+        "name": {
+            "cn": "桃毛兽王的毛",
+            "en": "Congalala Pelt",
+            "jp": "桃毛獣の毛"
+        }
+    },
+    {
+        "id": 504,
+        "fixedId": 505,
+        "label": "ITEM_0531",
+        "name": {
+            "cn": "桃毛兽王的爪",
+            "en": "Congalala Claw",
+            "jp": "桃毛獣の爪"
+        }
+    },
+    {
+        "id": 505,
+        "fixedId": 506,
+        "label": "ITEM_0532",
+        "name": {
+            "cn": "桃毛兽王的牙",
+            "en": "Congalala Fang",
+            "jp": "桃毛獣の牙"
+        }
+    },
+    {
+        "id": 506,
+        "fixedId": 507,
+        "label": "ITEM_0533",
+        "name": {
+            "cn": "极彩色的毛",
+            "en": "Vibrant Pelt",
+            "jp": "極彩色の毛"
+        }
+    },
+    {
+        "id": 507,
+        "fixedId": 508,
+        "label": "ITEM_0534",
+        "name": {
+            "cn": "桃毛兽王狩猎证",
+            "en": "Congalala Certificate",
+            "jp": "桃毛獣の狩猟証"
+        }
+    },
+    {
+        "id": 508,
+        "fixedId": 509,
+        "label": "ITEM_0535",
+        "name": {
+            "cn": "桃毛兽王的刚毛",
+            "en": "Congalala Pelt+",
+            "jp": "桃毛獣の剛毛"
+        }
+    },
+    {
+        "id": 509,
+        "fixedId": 510,
+        "label": "ITEM_0536",
+        "name": {
+            "cn": "桃毛兽王的尖爪",
+            "en": "Congalala Claw+",
+            "jp": "桃毛獣の尖爪"
+        }
+    },
+    {
+        "id": 510,
+        "fixedId": 511,
+        "label": "ITEM_0537",
+        "name": {
+            "cn": "桃毛兽王的锐牙",
+            "en": "Congalala Fang+",
+            "jp": "桃毛獣の鋭牙"
+        }
+    },
+    {
+        "id": 511,
+        "fixedId": 512,
+        "label": "ITEM_0538",
+        "name": {
+            "cn": "极彩色的刚毛",
+            "en": "Vibrant Pelt+",
+            "jp": "極彩色の剛毛"
+        }
+    },
+    {
+        "id": 512,
+        "fixedId": 513,
+        "label": "ITEM_0539",
+        "name": {
+            "cn": "影蜘蛛的甲壳",
+            "en": "Nerscylla Shell",
+            "jp": "影蜘蛛の甲殻"
+        }
+    },
+    {
+        "id": 513,
+        "fixedId": 514,
+        "label": "ITEM_0540",
+        "name": {
+            "cn": "影蜘蛛的钳角",
+            "en": "Nerscylla Chelicera",
+            "jp": "影蜘蛛の鋏角"
+        }
+    },
+    {
+        "id": 514,
+        "fixedId": 515,
+        "label": "ITEM_0541",
+        "name": {
+            "cn": "影蜘蛛的爪",
+            "en": "Nerscylla Claw",
+            "jp": "影蜘蛛の爪"
+        }
+    },
+    {
+        "id": 515,
+        "fixedId": 516,
+        "label": "ITEM_0542",
+        "name": {
+            "cn": "影蜘蛛的棘",
+            "en": "Nerscylla Spike",
+            "jp": "影蜘蛛の棘"
+        }
+    },
+    {
+        "id": 516,
+        "fixedId": 517,
+        "label": "ITEM_0543",
+        "name": {
+            "cn": "影蜘蛛狩猎证",
+            "en": "Nerscylla Certificate",
+            "jp": "影蜘蛛の狩猟証"
+        }
+    },
+    {
+        "id": 517,
+        "fixedId": 518,
+        "label": "ITEM_0544",
+        "name": {
+            "cn": "影蜘蛛的坚壳",
+            "en": "Nerscylla Carapace",
+            "jp": "影蜘蛛の堅殻"
+        }
+    },
+    {
+        "id": 518,
+        "fixedId": 519,
+        "label": "ITEM_0545",
+        "name": {
+            "cn": "影蜘蛛的锐爪",
+            "en": "Nerscylla Claw+",
+            "jp": "影蜘蛛の鋭爪"
+        }
+    },
+    {
+        "id": 519,
+        "fixedId": 520,
+        "label": "ITEM_0546",
+        "name": {
+            "cn": "影蜘蛛的上等棘",
+            "en": "Nerscylla Spike+",
+            "jp": "影蜘蛛の上棘"
+        }
+    },
+    {
+        "id": 520,
+        "fixedId": 521,
+        "label": "ITEM_0547",
+        "name": {
+            "cn": "影蜘蛛狩猎证 S",
+            "en": "Nerscylla Certificate S",
+            "jp": "影蜘蛛の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 521,
+        "fixedId": 522,
+        "label": "ITEM_0548",
+        "name": {
+            "cn": "怪鸟的上等鳞",
+            "en": "Kut-Ku Scale+",
+            "jp": "怪鳥の上鱗"
+        }
+    },
+    {
+        "id": 522,
+        "fixedId": 523,
+        "label": "ITEM_0549",
+        "name": {
+            "cn": "怪鸟的坚壳",
+            "en": "Kut-Ku Carapace",
+            "jp": "怪鳥の堅殻"
+        }
+    },
+    {
+        "id": 523,
+        "fixedId": 524,
+        "label": "ITEM_0550",
+        "name": {
+            "cn": "怪鸟的耳",
+            "en": "Kut-Ku Ear",
+            "jp": "怪鳥の耳"
+        }
+    },
+    {
+        "id": 524,
+        "fixedId": 525,
+        "label": "ITEM_0551",
+        "name": {
+            "cn": "巨大的喙",
+            "en": "Giant Beak",
+            "jp": "巨大なクチバシ"
+        }
+    },
+    {
+        "id": 525,
+        "fixedId": 526,
+        "label": "ITEM_0552",
+        "name": {
+            "cn": "怪鸟的翼",
+            "en": "Kut-Ku Wing",
+            "jp": "怪鳥の翼"
+        }
+    },
+    {
+        "id": 526,
+        "fixedId": 527,
+        "label": "ITEM_0553",
+        "name": {
+            "cn": "怪鸟狩猎证 S",
+            "en": "Yian Kut-Ku Certificate S",
+            "jp": "怪鳥の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 527,
+        "fixedId": 528,
+        "label": "ITEM_0554",
+        "name": {
+            "cn": "橡胶质的皮",
+            "en": "Rubbery Hide",
+            "jp": "ゴム質の皮"
+        }
+    },
+    {
+        "id": 528,
+        "fixedId": 529,
+        "label": "ITEM_0555",
+        "name": {
+            "cn": "橡胶质的上等皮",
+            "en": "Rubbery Hide+",
+            "jp": "ゴム質の上皮"
+        }
+    },
+    {
+        "id": 529,
+        "fixedId": 530,
+        "label": "ITEM_0556",
+        "name": {
+            "cn": "毒怪鸟的翼",
+            "en": "Gypceros Wing",
+            "jp": "毒怪鳥の翼"
+        }
+    },
+    {
+        "id": 530,
+        "fixedId": 531,
+        "label": "ITEM_0557",
+        "name": {
+            "cn": "毒怪鸟的头",
+            "en": "Gypceros Head",
+            "jp": "毒怪鳥の頭"
+        }
+    },
+    {
+        "id": 531,
+        "fixedId": 532,
+        "label": "ITEM_0558",
+        "name": {
+            "cn": "毒怪鸟的尾巴",
+            "en": "Gypceros Tail",
+            "jp": "毒怪鳥の尻尾"
+        }
+    },
+    {
+        "id": 532,
+        "fixedId": 533,
+        "label": "ITEM_0559",
+        "name": {
+            "cn": "毒怪鸟狩猎证 S",
+            "en": "Gypceros Certificate S",
+            "jp": "毒怪鳥の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 533,
+        "fixedId": 534,
+        "label": "ITEM_0560",
+        "name": {
+            "cn": "鸟龙玉",
+            "en": "Bird Wyvern Gem",
+            "jp": "鳥竜玉"
+        }
+    },
+    {
+        "id": 534,
+        "fixedId": 535,
+        "label": "ITEM_0561",
+        "name": {
+            "cn": "狂奔精华",
+            "en": "Dash Extract",
+            "jp": "狂走エキス"
+        }
+    },
+    {
+        "id": 535,
+        "fixedId": 536,
+        "label": "ITEM_0562",
+        "name": {
+            "cn": "雌火龙狩猎证 S",
+            "en": "Rathian Certificate S",
+            "jp": "雌火竜の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 536,
+        "fixedId": 537,
+        "label": "ITEM_0563",
+        "name": {
+            "cn": "雪狮子王的刚毛",
+            "en": "Blangonga Pelt+",
+            "jp": "雪獅子の剛毛"
+        }
+    },
+    {
+        "id": 537,
+        "fixedId": 538,
+        "label": "ITEM_0564",
+        "name": {
+            "cn": "雪狮子王的锐牙",
+            "en": "Blangonga Fang+",
+            "jp": "雪獅子の鋭牙"
+        }
+    },
+    {
+        "id": 538,
+        "fixedId": 539,
+        "label": "ITEM_0565",
+        "name": {
+            "cn": "雪狮子王的胡须",
+            "en": "Blangonga Whisker",
+            "jp": "雪獅子の髭"
+        }
+    },
+    {
+        "id": 539,
+        "fixedId": 540,
+        "label": "ITEM_0566",
+        "name": {
+            "cn": "雪狮子王的尾巴",
+            "en": "Blangonga Tail",
+            "jp": "雪獅子の尻尾"
+        }
+    },
+    {
+        "id": 540,
+        "fixedId": 541,
+        "label": "ITEM_0567",
+        "name": {
+            "cn": "雪狮子王狩猎证 S",
+            "en": "Blangonga Certificate S",
+            "jp": "雪獅子の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 541,
+        "fixedId": 542,
+        "label": "ITEM_0568",
+        "name": {
+            "cn": "铠龙的坚壳",
+            "en": "Gravios Carapace",
+            "jp": "鎧竜の堅殻"
+        }
+    },
+    {
+        "id": 542,
+        "fixedId": 543,
+        "label": "ITEM_0569",
+        "name": {
+            "cn": "铠龙的头壳",
+            "en": "Gravios Skull",
+            "jp": "鎧竜の頭殻"
+        }
+    },
+    {
+        "id": 543,
+        "fixedId": 544,
+        "label": "ITEM_0570",
+        "name": {
+            "cn": "铠龙的坚胸壳",
+            "en": "Gravios Pleura+",
+            "jp": "鎧竜の堅胸殻"
+        }
+    },
+    {
+        "id": 544,
+        "fixedId": 545,
+        "label": "ITEM_0571",
+        "name": {
+            "cn": "铠龙的延髓",
+            "en": "Gravios Medulla",
+            "jp": "鎧竜の延髄"
+        }
+    },
+    {
+        "id": 545,
+        "fixedId": 546,
+        "label": "ITEM_0572",
+        "name": {
+            "cn": "铠龙的翼",
+            "en": "Gravios Wing",
+            "jp": "鎧竜の翼"
+        }
+    },
+    {
+        "id": 546,
+        "fixedId": 547,
+        "label": "ITEM_0573",
+        "name": {
+            "cn": "铠龙狩猎证 S",
+            "en": "Gravios Certificate S",
+            "jp": "鎧竜の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 555,
+        "fixedId": 556,
+        "label": "ITEM_0582",
+        "name": {
+            "cn": "火龙的上等鳞",
+            "en": "Rathalos Scale+",
+            "jp": "火竜の上鱗"
+        }
+    },
+    {
+        "id": 556,
+        "fixedId": 557,
+        "label": "ITEM_0583",
+        "name": {
+            "cn": "火龙的坚壳",
+            "en": "Rathalos Carapace",
+            "jp": "火竜の堅殻"
+        }
+    },
+    {
+        "id": 557,
+        "fixedId": 558,
+        "label": "ITEM_0584",
+        "name": {
+            "cn": "火龙的翼",
+            "en": "Rathalos Wing",
+            "jp": "火竜の翼"
+        }
+    },
+    {
+        "id": 558,
+        "fixedId": 559,
+        "label": "ITEM_0585",
+        "name": {
+            "cn": "火龙的尾巴",
+            "en": "Rathalos Tail",
+            "jp": "火竜の尻尾"
+        }
+    },
+    {
+        "id": 559,
+        "fixedId": 560,
+        "label": "ITEM_0586",
+        "name": {
+            "cn": "火龙的红玉",
+            "en": "Rathalos Ruby",
+            "jp": "火竜の紅玉"
+        }
+    },
+    {
+        "id": 560,
+        "fixedId": 561,
+        "label": "ITEM_0587",
+        "name": {
+            "cn": "火龙狩猎证 S",
+            "en": "Rathalos Certificate S",
+            "jp": "火竜の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 561,
+        "fixedId": 562,
+        "label": "ITEM_0588",
+        "name": {
+            "cn": "黑蚀龙的上等鳞",
+            "en": "Gore Magala Scale+",
+            "jp": "黒蝕竜の上鱗"
+        }
+    },
+    {
+        "id": 562,
+        "fixedId": 563,
+        "label": "ITEM_0589",
+        "name": {
+            "cn": "黑蚀龙的坚壳",
+            "en": "Gore Magala Carapace",
+            "jp": "黒蝕竜の堅殻"
+        }
+    },
+    {
+        "id": 563,
+        "fixedId": 564,
+        "label": "ITEM_0590",
+        "name": {
+            "cn": "黑蚀龙的上等暗翼",
+            "en": "Gore Magala Wing+",
+            "jp": "黒蝕竜の上暗翼"
+        }
+    },
+    {
+        "id": 564,
+        "fixedId": 565,
+        "label": "ITEM_0591",
+        "name": {
+            "cn": "黑蚀龙的锐惨爪",
+            "en": "Gore Magala Ripclaw+",
+            "jp": "黒蝕竜の鋭惨爪"
+        }
+    },
+    {
+        "id": 565,
+        "fixedId": 566,
+        "label": "ITEM_0592",
+        "name": {
+            "cn": "黑蚀龙的尾巴",
+            "en": "Gore Magala Tail",
+            "jp": "黒蝕竜の尻尾"
+        }
+    },
+    {
+        "id": 566,
+        "fixedId": 567,
+        "label": "ITEM_0593",
+        "name": {
+            "cn": "黑蚀龙的尖触角",
+            "en": "Gore Magala Feeler+",
+            "jp": "黒蝕竜の尖触角"
+        }
+    },
+    {
+        "id": 567,
+        "fixedId": 568,
+        "label": "ITEM_0594",
+        "name": {
+            "cn": "黑蚀龙的暗玉",
+            "en": "Gore Magala Nyctgem",
+            "jp": "黒蝕竜の闇玉"
+        }
+    },
+    {
+        "id": 568,
+        "fixedId": 569,
+        "label": "ITEM_0595",
+        "name": {
+            "cn": "黑蚀龙狩猎证 S",
+            "en": "Gore Magala Certificate S",
+            "jp": "黒蝕竜の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 569,
+        "fixedId": 570,
+        "label": "ITEM_0596",
+        "name": {
+            "cn": "狂龙结晶",
+            "en": "Frenzy Crystal",
+            "jp": "狂竜結晶"
+        }
+    },
+    {
+        "id": 570,
+        "fixedId": 571,
+        "label": "ITEM_0597",
+        "name": {
+            "cn": "桃毛兽的毛",
+            "en": "Conga Pelt",
+            "jp": "コンガの毛"
+        }
+    },
+    {
+        "id": 571,
+        "fixedId": 572,
+        "label": "ITEM_0598",
+        "name": {
+            "cn": "桃毛兽的刚毛",
+            "en": "Conga Pelt+",
+            "jp": "コンガの剛毛"
+        }
+    },
+    {
+        "id": 572,
+        "fixedId": 573,
+        "label": "ITEM_0599",
+        "name": {
+            "cn": "巨蜂的甲壳",
+            "en": "Vespoid Shell",
+            "jp": "ランゴスタの甲殻"
+        }
+    },
+    {
+        "id": 573,
+        "fixedId": 574,
+        "label": "ITEM_0600",
+        "name": {
+            "cn": "巨蜂的坚壳",
+            "en": "Vespoid Carapace",
+            "jp": "ランゴスタの堅殻"
+        }
+    },
+    {
+        "id": 574,
+        "fixedId": 575,
+        "label": "ITEM_0601",
+        "name": {
+            "cn": "巨蜂的翅膀",
+            "en": "Vespoid Wing",
+            "jp": "ランゴスタの羽"
+        }
+    },
+    {
+        "id": 575,
+        "fixedId": 576,
+        "label": "ITEM_0602",
+        "name": {
+            "cn": "巨蜂的薄羽",
+            "en": "Vespoid Innerwing",
+            "jp": "ランゴスタの薄羽"
+        }
+    },
+    {
+        "id": 576,
+        "fixedId": 577,
+        "label": "ITEM_0603",
+        "name": {
+            "cn": "雪狮子的刚毛",
+            "en": "Blango Pelt+",
+            "jp": "ブランゴの剛毛"
+        }
+    },
+    {
+        "id": 577,
+        "fixedId": 578,
+        "label": "ITEM_0604",
+        "name": {
+            "cn": "光水晶",
+            "en": "Lightcrystal",
+            "jp": "ライトクリスタル"
+        }
+    },
+    {
+        "id": 578,
+        "fixedId": 579,
+        "label": "ITEM_0605",
+        "name": {
+            "cn": "璀璨水晶",
+            "en": "Novacrystal",
+            "jp": "ノヴァクリスタル"
+        }
+    },
+    {
+        "id": 579,
+        "fixedId": 580,
+        "label": "ITEM_0606",
+        "name": {
+            "cn": "红莲石",
+            "en": "Firestone",
+            "jp": "紅蓮石"
+        }
+    },
+    {
+        "id": 580,
+        "fixedId": 581,
+        "label": "ITEM_0607",
+        "name": {
+            "cn": "狱炎石",
+            "en": "Firecell Stone",
+            "jp": "獄炎石"
+        }
+    },
+    {
+        "id": 581,
+        "fixedId": 582,
+        "label": "ITEM_0608",
+        "name": {
+            "cn": "白鸠石",
+            "en": "Fucium Ore",
+            "jp": "ユニオン鉱石"
+        }
+    },
+    {
+        "id": 582,
+        "fixedId": 583,
+        "label": "ITEM_0609",
+        "name": {
+            "cn": "结冰金属",
+            "en": "Icium",
+            "jp": "アイシスメタル"
+        }
+    },
+    {
+        "id": 583,
+        "fixedId": 584,
+        "label": "ITEM_0610",
+        "name": {
+            "cn": "护雷颚龙狩猎证 S",
+            "en": "Guardian Fulgur Certificate S",
+            "jp": "護雷顎竜の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 584,
+        "fixedId": 585,
+        "label": "ITEM_0611",
+        "name": {
+            "cn": "桃毛兽王狩猎证 S",
+            "en": "Congalala Certificate S",
+            "jp": "桃毛獣の狩猟証Ｓ"
+        }
+    },
+    {
+        "id": 585,
+        "fixedId": 586,
+        "label": "ITEM_0612",
+        "name": {
+            "cn": "漆黑的油骨",
+            "en": "Charred Oilbone",
+            "jp": "黒ずんだ油骨"
+        }
+    },
+    {
+        "id": 586,
+        "fixedId": 587,
+        "label": "ITEM_0613",
+        "name": {
+            "cn": "结冻冰骨",
+            "en": "Frozen Icebone",
+            "jp": "凍てついた氷骨"
+        }
+    },
+    {
+        "id": 587,
+        "fixedId": 588,
+        "label": "ITEM_0614",
+        "name": {
+            "cn": "粗壮护骨",
+            "en": "Tough Guardian Bone",
+            "jp": "たくましい護骨"
+        }
+    },
+    {
+        "id": 588,
+        "fixedId": 589,
+        "label": "ITEM_0615",
+        "name": {
+            "cn": "良质硬骨",
+            "en": "Quality Bone",
+            "jp": "上質な堅骨"
+        }
+    },
+    {
+        "id": 589,
+        "fixedId": 590,
+        "label": "ITEM_0616",
+        "name": {
+            "cn": "破碎结晶",
+            "en": "Crushed Crystal",
+            "jp": "砕けた結晶"
+        }
+    },
+    {
+        "id": 590,
+        "fixedId": 591,
+        "label": "ITEM_0617",
+        "name": {
+            "cn": "白雾色结晶",
+            "en": "Cloudy Crystal",
+            "jp": "白く霞んだ結晶"
+        }
+    },
+    {
+        "id": 591,
+        "fixedId": 592,
+        "label": "ITEM_0618",
+        "name": {
+            "cn": "微光结晶",
+            "en": "Coruscating Crystal",
+            "jp": "仄明るい結晶"
+        }
+    },
+    {
+        "id": 592,
+        "fixedId": 593,
+        "label": "ITEM_0619",
+        "name": {
+            "cn": "火炎袋",
+            "en": "Flame Sac",
+            "jp": "火炎袋"
+        }
+    },
+    {
+        "id": 593,
+        "fixedId": 594,
+        "label": "ITEM_0620",
+        "name": {
+            "cn": "爆炎袋",
+            "en": "Inferno Sac",
+            "jp": "爆炎袋"
+        }
+    },
+    {
+        "id": 594,
+        "fixedId": 595,
+        "label": "ITEM_0621",
+        "name": {
+            "cn": "水袋",
+            "en": "Aqua Sac",
+            "jp": "水袋"
+        }
+    },
+    {
+        "id": 595,
+        "fixedId": 596,
+        "label": "ITEM_0622",
+        "name": {
+            "cn": "大水袋",
+            "en": "Torrent Sac",
+            "jp": "大水袋"
+        }
+    },
+    {
+        "id": 597,
+        "fixedId": 598,
+        "label": "ITEM_0624",
+        "name": {
+            "cn": "电击袋",
+            "en": "Thunder Sac",
+            "jp": "電撃袋"
+        }
+    },
+    {
+        "id": 598,
+        "fixedId": 599,
+        "label": "ITEM_0625",
+        "name": {
+            "cn": "冰结袋",
+            "en": "Frost Sac",
+            "jp": "氷結袋"
+        }
+    },
+    {
+        "id": 599,
+        "fixedId": 600,
+        "label": "ITEM_0626",
+        "name": {
+            "cn": "冻结袋",
+            "en": "Freezer Sac",
+            "jp": "凍結袋"
+        }
+    },
+    {
+        "id": 600,
+        "fixedId": 601,
+        "label": "ITEM_0627",
+        "name": {
+            "cn": "毒袋",
+            "en": "Poison Sac",
+            "jp": "毒袋"
+        }
+    },
+    {
+        "id": 601,
+        "fixedId": 602,
+        "label": "ITEM_0628",
+        "name": {
+            "cn": "猛毒袋",
+            "en": "Toxin Sac",
+            "jp": "猛毒袋"
+        }
+    },
+    {
+        "id": 602,
+        "fixedId": 603,
+        "label": "ITEM_0629",
+        "name": {
+            "cn": "刺花蜘蛛的粘液",
+            "en": "Lala Barina Mucus",
+            "jp": "刺花蜘蛛の粘液"
+        }
+    },
+    {
+        "id": 603,
+        "fixedId": 604,
+        "label": "ITEM_0630",
+        "name": {
+            "cn": "刺花蜘蛛的浓粘液",
+            "en": "Lala Barina Mucus+",
+            "jp": "刺花蜘蛛の濃粘液"
+        }
+    },
+    {
+        "id": 604,
+        "fixedId": 605,
+        "label": "ITEM_0631",
+        "name": {
+            "cn": "睡眠袋",
+            "en": "Sleep Sac",
+            "jp": "睡眠袋"
+        }
+    },
+    {
+        "id": 605,
+        "fixedId": 606,
+        "label": "ITEM_0632",
+        "name": {
+            "cn": "昏睡袋",
+            "en": "Coma Sac",
+            "jp": "昏睡袋"
+        }
+    },
+    {
+        "id": 606,
+        "fixedId": 607,
+        "label": "ITEM_0633",
+        "name": {
+            "cn": "护龙的血",
+            "en": "Guardian Blood",
+            "jp": "護竜の血"
+        }
+    },
+    {
+        "id": 607,
+        "fixedId": 608,
+        "label": "ITEM_0634",
+        "name": {
+            "cn": "护龙的净血",
+            "en": "Guardian Blood+",
+            "jp": "護竜の浄血"
+        }
+    },
+    {
+        "id": 608,
+        "fixedId": 609,
+        "label": "ITEM_0635",
+        "name": {
+            "cn": "大王扶桑花",
+            "en": "Great Hibiscus",
+            "jp": "ドスビスカス"
+        }
+    },
+    {
+        "id": 609,
+        "fixedId": 610,
+        "label": "ITEM_0636",
+        "name": {
+            "cn": "盾突龙的毛织品",
+            "en": "Dalthydon Wool",
+            "jp": "ダルトドンの毛織物"
+        }
+    },
+    {
+        "id": 610,
+        "fixedId": 611,
+        "label": "ITEM_0637",
+        "name": {
+            "cn": "阿孜兹的鞣制皮革",
+            "en": "Azuz Tanned Leather",
+            "jp": "アズズのなめし革"
+        }
+    },
+    {
+        "id": 611,
+        "fixedId": 612,
+        "label": "ITEM_0638",
+        "name": {
+            "cn": "酥加的布料",
+            "en": "Suja Textiles",
+            "jp": "スージャ反物"
+        }
+    },
+    {
+        "id": 612,
+        "fixedId": 613,
+        "label": "ITEM_0639",
+        "name": {
+            "cn": "西尔德棉布",
+            "en": "Sild Cotton",
+            "jp": "シルドコットン"
+        }
+    },
+    {
+        "id": 613,
+        "fixedId": 614,
+        "label": "ITEM_0640",
+        "name": {
+            "cn": "咬鱼的皮",
+            "en": "Gajau Hide",
+            "jp": "咬魚の皮"
+        }
+    },
+    {
+        "id": 614,
+        "fixedId": 615,
+        "label": "ITEM_0641",
+        "name": {
+            "cn": "大王旗鱼的鳍",
+            "en": "Speartuna Fin",
+            "jp": "ダイオウカジキのヒレ"
+        }
+    },
+    {
+        "id": 615,
+        "fixedId": 616,
+        "label": "ITEM_0642",
+        "name": {
+            "cn": "调查团票",
+            "en": "Commission Ticket",
+            "jp": "調査団チケット"
+        }
+    },
+    {
+        "id": 617,
+        "fixedId": 618,
+        "label": "ITEM_0644",
+        "name": {
+            "cn": "花妖猩票",
+            "en": "Mimiphyta Ticket",
+            "jp": "ハナショウチケット"
+        }
+    },
+    {
+        "id": 618,
+        "fixedId": 619,
+        "label": "ITEM_0645",
+        "name": {
+            "cn": "谜之宝珠·剑",
+            "en": "Mystery Orb - Sword",
+            "jp": "なぞの珠・剣"
+        }
+    },
+    {
+        "id": 619,
+        "fixedId": 620,
+        "label": "ITEM_0646",
+        "name": {
+            "cn": "发光宝珠·剑",
+            "en": "Glowing Orb - Sword",
+            "jp": "光る珠・剣"
+        }
+    },
+    {
+        "id": 620,
+        "fixedId": 621,
+        "label": "ITEM_0647",
+        "name": {
+            "cn": "老旧宝珠·剑",
+            "en": "Ancient Orb - Sword",
+            "jp": "古びた珠・剣"
+        }
+    },
+    {
+        "id": 621,
+        "fixedId": 622,
+        "label": "ITEM_0648",
+        "name": {
+            "cn": "铠玉",
+            "en": "Armor Sphere",
+            "jp": "鎧玉"
+        }
+    },
+    {
+        "id": 622,
+        "fixedId": 623,
+        "label": "ITEM_0649",
+        "name": {
+            "cn": "上铠玉",
+            "en": "Armor Sphere+",
+            "jp": "上鎧玉"
+        }
+    },
+    {
+        "id": 623,
+        "fixedId": 624,
+        "label": "ITEM_0650",
+        "name": {
+            "cn": "尖铠玉",
+            "en": "Advanced Armor Sphere",
+            "jp": "尖鎧玉"
+        }
+    },
+    {
+        "id": 624,
+        "fixedId": 625,
+        "label": "ITEM_0651",
+        "name": {
+            "cn": "坚铠玉",
+            "en": "Hard Armor Sphere",
+            "jp": "堅鎧玉"
+        }
+    },
+    {
+        "id": 625,
+        "fixedId": 626,
+        "label": "ITEM_0652",
+        "name": {
+            "cn": "不动衣装",
+            "en": "Rocksteady Mantle",
+            "jp": "不動の装衣"
+        }
+    },
+    {
+        "id": 626,
+        "fixedId": 627,
+        "label": "ITEM_0653",
+        "name": {
+            "cn": "再生衣装",
+            "en": "Mending Mantle",
+            "jp": "再生の装衣"
+        }
+    },
+    {
+        "id": 627,
+        "fixedId": 628,
+        "label": "ITEM_0654",
+        "name": {
+            "cn": "回避衣装",
+            "en": "Evasion Mantle",
+            "jp": "回避の装衣"
+        }
+    },
+    {
+        "id": 628,
+        "fixedId": 629,
+        "label": "ITEM_0655",
+        "name": {
+            "cn": "蚀攻衣装",
+            "en": "Corrupted Mantle",
+            "jp": "蝕攻の装衣"
+        }
+    },
+    {
+        "id": 629,
+        "fixedId": 630,
+        "label": "ITEM_0656",
+        "name": {
+            "cn": "飞龙的蛋",
+            "en": "Wyvern Egg",
+            "jp": "飛竜の卵"
+        }
+    },
+    {
+        "id": 630,
+        "fixedId": 631,
+        "label": "ITEM_0657",
+        "name": {
+            "cn": "烤焦的壁虎",
+            "en": "Charred Lizard",
+            "jp": "ヤモリの黒焼き"
+        }
+    },
+    {
+        "id": 631,
+        "fixedId": 632,
+        "label": "ITEM_0658",
+        "name": {
+            "cn": "狂野肉干",
+            "en": "Wild Jerky",
+            "jp": "ワイルドジャーキー"
+        }
+    },
+    {
+        "id": 633,
+        "fixedId": 634,
+        "label": "ITEM_0660",
+        "name": {
+            "cn": "增强剂",
+            "en": "Catalyst",
+            "jp": "増強剤"
+        }
+    },
+    {
+        "id": 634,
+        "fixedId": 635,
+        "label": "ITEM_0661",
+        "name": {
+            "cn": "炸药",
+            "en": "Gunpowder",
+            "jp": "爆薬"
+        }
+    },
+    {
+        "id": 635,
+        "fixedId": 636,
+        "label": "ITEM_0662",
+        "name": {
+            "cn": "小木桶",
+            "en": "Small Barrel",
+            "jp": "小タル"
+        }
+    },
+    {
+        "id": 636,
+        "fixedId": 637,
+        "label": "ITEM_0663",
+        "name": {
+            "cn": "大木桶",
+            "en": "Large Barrel",
+            "jp": "大タル"
+        }
+    },
+    {
+        "id": 637,
+        "fixedId": 638,
+        "label": "ITEM_0664",
+        "name": {
+            "cn": "蜘蛛网",
+            "en": "Spider Web",
+            "jp": "クモの巣"
+        }
+    },
+    {
+        "id": 638,
+        "fixedId": 639,
+        "label": "ITEM_0665",
+        "name": {
+            "cn": "网子",
+            "en": "Net",
+            "jp": "ネット"
+        }
+    },
+    {
+        "id": 639,
+        "fixedId": 640,
+        "label": "ITEM_0666",
+        "name": {
+            "cn": "火药金鱼鳞片",
+            "en": "Gunpowderfish Scale",
+            "jp": "バクヤクウロコ"
+        }
+    },
+    {
+        "id": 640,
+        "fixedId": 641,
+        "label": "ITEM_0667",
+        "name": {
+            "cn": "破裂龙鱼鳞片",
+            "en": "Burst Arowana Scale",
+            "jp": "ハレツウロコ"
+        }
+    },
+    {
+        "id": 641,
+        "fixedId": 642,
+        "label": "ITEM_0668",
+        "name": {
+            "cn": "爆裂龙鱼鳞片",
+            "en": "Bomb Arowana Scale",
+            "jp": "バクレツウロコ"
+        }
+    },
+    {
+        "id": 642,
+        "fixedId": 643,
+        "label": "ITEM_0669",
+        "name": {
+            "cn": "金色鳞片",
+            "en": "Gilded Scale",
+            "jp": "金色のウロコ"
+        }
+    },
+    {
+        "id": 643,
+        "fixedId": 644,
+        "label": "ITEM_0670",
+        "name": {
+            "cn": "黄金鳞片",
+            "en": "Golden Scale",
+            "jp": "黄金のウロコ"
+        }
+    },
+    {
+        "id": 644,
+        "fixedId": 645,
+        "label": "ITEM_0671",
+        "name": {
+            "cn": "白金鳞片",
+            "en": "Platinum Scale",
+            "jp": "白金のウロコ"
+        }
+    },
+    {
+        "id": 646,
+        "fixedId": 647,
+        "label": "ITEM_0673",
+        "name": {
+            "cn": "钢之炼金票",
+            "en": "Steel Melding Ticket",
+            "jp": "鋼の錬金チケット"
+        }
+    },
+    {
+        "id": 647,
+        "fixedId": 648,
+        "label": "ITEM_0674",
+        "name": {
+            "cn": "银之炼金票",
+            "en": "Silver Melding Ticket",
+            "jp": "銀の錬金チケット"
+        }
+    },
+    {
+        "id": 648,
+        "fixedId": 649,
+        "label": "ITEM_0675",
+        "name": {
+            "cn": "钢之遗物票",
+            "en": "Steel Relic Ticket",
+            "jp": "鋼の遺物チケット"
+        }
+    },
+    {
+        "id": 649,
+        "fixedId": 650,
+        "label": "ITEM_0676",
+        "name": {
+            "cn": "银之遗物票",
+            "en": "Silver Relic Ticket",
+            "jp": "銀の遺物チケット"
+        }
+    },
+    {
+        "id": 650,
+        "fixedId": 651,
+        "label": "ITEM_0677",
+        "name": {
+            "cn": "钢蛋",
+            "en": "Steel Egg",
+            "jp": "鋼のたまご"
+        }
+    },
+    {
+        "id": 651,
+        "fixedId": 652,
+        "label": "ITEM_0678",
+        "name": {
+            "cn": "银蛋",
+            "en": "Silver Egg",
+            "jp": "銀のたまご"
+        }
+    },
+    {
+        "id": 652,
+        "fixedId": 653,
+        "label": "ITEM_0679",
+        "name": {
+            "cn": "金蛋",
+            "en": "Golden Egg",
+            "jp": "金のたまご"
+        }
+    },
+    {
+        "id": 653,
+        "fixedId": 654,
+        "label": "ITEM_0680",
+        "name": {
+            "cn": "重铠玉",
+            "en": "Heavy Armor Sphere",
+            "jp": "重鎧玉"
+        }
+    },
+    {
+        "id": 654,
+        "fixedId": 655,
+        "label": "ITEM_0681",
+        "name": {
+            "cn": "尖龙骨",
+            "en": "Monster Keenbone",
+            "jp": "尖竜骨"
+        }
+    },
+    {
+        "id": 655,
+        "fixedId": 656,
+        "label": "ITEM_0682",
+        "name": {
+            "cn": "坚龙骨",
+            "en": "Monster Hardbone",
+            "jp": "堅竜骨"
+        }
+    },
+    {
+        "id": 656,
+        "fixedId": 657,
+        "label": "ITEM_0683",
+        "name": {
+            "cn": "坚固的骨",
+            "en": "Stoutbone",
+            "jp": "堅牢な骨"
+        }
+    },
+    {
+        "id": 657,
+        "fixedId": 658,
+        "label": "ITEM_0684",
+        "name": {
+            "cn": "坚固的巨骨",
+            "en": "Great Stoutbone",
+            "jp": "堅牢な巨骨"
+        }
+    },
+    {
+        "id": 658,
+        "fixedId": 659,
+        "label": "ITEM_0685",
+        "name": {
+            "cn": "历战狩猎之证Ⅰ",
+            "en": "Hunter Symbol I",
+            "jp": "歴戦狩猟の証Ⅰ"
+        }
+    },
+    {
+        "id": 659,
+        "fixedId": 660,
+        "label": "ITEM_0686",
+        "name": {
+            "cn": "历战狩猎之证Ⅱ",
+            "en": "Hunter Symbol II",
+            "jp": "歴戦狩猟の証Ⅱ"
+        }
+    },
+    {
+        "id": 660,
+        "fixedId": 661,
+        "label": "ITEM_0687",
+        "name": {
+            "cn": "历战狩猎之证Ⅲ",
+            "en": "Hunter Symbol III",
+            "jp": "歴戦狩猟の証Ⅲ"
+        }
+    },
+    {
+        "id": 661,
+        "fixedId": 662,
+        "label": "ITEM_0688",
+        "name": {
+            "cn": "金之炼金票",
+            "en": "Gold Melding Ticket",
+            "jp": "金の錬金チケット"
+        }
+    },
+    {
+        "id": 662,
+        "fixedId": 663,
+        "label": "ITEM_0689",
+        "name": {
+            "cn": "金之遗物票",
+            "en": "Gold Relic Ticket",
+            "jp": "金の遺物チケット"
+        }
+    },
+    {
+        "id": 663,
+        "fixedId": 664,
+        "label": "ITEM_0690",
+        "name": {
+            "cn": "护龙的毛皮",
+            "en": "Guardian Pelt",
+            "jp": "護竜の毛皮"
+        }
+    },
+    {
+        "id": 664,
+        "fixedId": 665,
+        "label": "ITEM_0691",
+        "name": {
+            "cn": "护龙的上等毛皮",
+            "en": "Guardian Pelt+",
+            "jp": "護竜の上毛皮"
+        }
+    },
+    {
+        "id": 665,
+        "fixedId": 666,
+        "label": "ITEM_0692",
+        "name": {
+            "cn": "黯灰金石",
+            "en": "Drearisite",
+            "jp": "ニビイロカネ"
+        }
+    },
+    {
+        "id": 666,
+        "fixedId": 667,
+        "label": "ITEM_0693",
+        "name": {
+            "cn": "斑驳金石",
+            "en": "Specklite",
+            "jp": "マダライロカネ"
+        }
+    },
+    {
+        "id": 667,
+        "fixedId": 668,
+        "label": "ITEM_0694",
+        "name": {
+            "cn": "银色金石",
+            "en": "Argecite",
+            "jp": "ギンイロカネ"
+        }
+    },
+    {
+        "id": 668,
+        "fixedId": 669,
+        "label": "ITEM_0695",
+        "name": {
+            "cn": "七色金石",
+            "en": "Oricalcite",
+            "jp": "ナナイロカネ"
+        }
+    },
+    {
+        "id": 669,
+        "fixedId": 670,
+        "label": "ITEM_0696",
+        "name": {
+            "cn": "通用木制鲦鱼饵",
+            "en": "Common Wood Minnow",
+            "jp": "汎用ウッドミノー"
+        }
+    },
+    {
+        "id": 670,
+        "fixedId": 671,
+        "label": "ITEM_0697",
+        "name": {
+            "cn": "黄金虫头",
+            "en": "Golden Bughead",
+            "jp": "黄金バグヘッド"
+        }
+    },
+    {
+        "id": 671,
+        "fixedId": 672,
+        "label": "ITEM_0698",
+        "name": {
+            "cn": "祖母绿拟饵",
+            "en": "Emerald Jitterbait",
+            "jp": "エメラルドチャター"
+        }
+    },
+    {
+        "id": 672,
+        "fixedId": 673,
+        "label": "ITEM_0699",
+        "name": {
+            "cn": "联装大拟饵",
+            "en": "Tuff Joint Bait",
+            "jp": "ジョイントドスベイト"
+        }
+    },
+    {
+        "id": 673,
+        "fixedId": 674,
+        "label": "ITEM_0700",
+        "name": {
+            "cn": "星屑鱼拟饵",
+            "en": "Duster Rig",
+            "jp": "イクチスリグ"
+        }
+    },
+    {
+        "id": 674,
+        "fixedId": 675,
+        "label": "ITEM_0701",
+        "name": {
+            "cn": "触手拟饵",
+            "en": "Tentacle Jig",
+            "jp": "テンタクルエギ"
+        }
+    },
+    {
+        "id": 675,
+        "fixedId": 676,
+        "label": "ITEM_0702",
+        "name": {
+            "cn": "近战瓶",
+            "en": "Close-range Coating",
+            "jp": "接撃ビン"
+        }
+    },
+    {
+        "id": 676,
+        "fixedId": 677,
+        "label": "ITEM_0703",
+        "name": {
+            "cn": "强击瓶",
+            "en": "Power Coating",
+            "jp": "強撃ビン"
+        }
+    },
+    {
+        "id": 677,
+        "fixedId": 678,
+        "label": "ITEM_0704",
+        "name": {
+            "cn": "贯穿瓶",
+            "en": "Pierce Coating",
+            "jp": "貫通ビン"
+        }
+    },
+    {
+        "id": 678,
+        "fixedId": 679,
+        "label": "ITEM_0705",
+        "name": {
+            "cn": "麻痹瓶",
+            "en": "Paralysis Coating",
+            "jp": "麻痺ビン"
+        }
+    },
+    {
+        "id": 679,
+        "fixedId": 680,
+        "label": "ITEM_0706",
+        "name": {
+            "cn": "毒瓶",
+            "en": "Poison Coating",
+            "jp": "毒ビン"
+        }
+    },
+    {
+        "id": 680,
+        "fixedId": 681,
+        "label": "ITEM_0707",
+        "name": {
+            "cn": "睡眠瓶",
+            "en": "Sleep Coating",
+            "jp": "睡眠ビン"
+        }
+    },
+    {
+        "id": 681,
+        "fixedId": 682,
+        "label": "ITEM_0708",
+        "name": {
+            "cn": "爆破瓶",
+            "en": "Blast Coating",
+            "jp": "爆破ビン"
+        }
+    },
+    {
+        "id": 682,
+        "fixedId": 683,
+        "label": "ITEM_0709",
+        "name": {
+            "cn": "减气瓶",
+            "en": "Exhaust Coating",
+            "jp": "減気ビン"
+        }
+    },
+    {
+        "id": 683,
+        "fixedId": 684,
+        "label": "ITEM_0710",
+        "name": {
+            "cn": "坚硬竹荚鱼的上等鳍",
+            "en": "Whetfish Fin+",
+            "jp": "キレアジの上ヒレ"
+        }
+    },
+    {
+        "id": 684,
+        "fixedId": 685,
+        "label": "ITEM_0711",
+        "name": {
+            "cn": "大刺身鱼鳞片",
+            "en": "Great Sushifish Scale",
+            "jp": "大サシミウロコ"
+        }
+    },
+    {
+        "id": 685,
+        "fixedId": 686,
+        "label": "ITEM_0712",
+        "name": {
+            "cn": "老旧武器碎片·刃",
+            "en": "Old Weapon Shard - Blade",
+            "jp": "古びた武器片・刃"
+        }
+    },
+    {
+        "id": 686,
+        "fixedId": 687,
+        "label": "ITEM_0713",
+        "name": {
+            "cn": "老旧武器碎片·筒",
+            "en": "Old Weapon Shard - Tube",
+            "jp": "古びた武器片・筒"
+        }
+    },
+    {
+        "id": 687,
+        "fixedId": 688,
+        "label": "ITEM_0714",
+        "name": {
+            "cn": "老旧武器碎片·盘",
+            "en": "Old Weapon Shard - Disc",
+            "jp": "古びた武器片・盤"
+        }
+    },
+    {
+        "id": 688,
+        "fixedId": 689,
+        "label": "ITEM_0715",
+        "name": {
+            "cn": "老旧武器碎片·装置",
+            "en": "Old Weapon Shard - Device",
+            "jp": "古びた武器片・装置"
+        }
+    },
+    {
+        "id": 689,
+        "fixedId": 690,
+        "label": "ITEM_0716",
+        "name": {
+            "cn": "<COLOR FF0000>#Rejected#</COLOR> Item_IT_690",
+            "en": "<COLOR FF0000>#Rejected#</COLOR> Item_IT_690",
+            "jp": "<COLOR FF0000>#Rejected#</COLOR> Item_IT_690"
+        }
+    },
+    {
+        "id": 697,
+        "fixedId": 698,
+        "label": "ITEM_0724",
+        "name": {
+            "cn": "雪光金属",
+            "en": "Gracium",
+            "jp": "グラシスメタル"
+        }
+    },
+    {
+        "id": 698,
+        "fixedId": 699,
+        "label": "ITEM_0725",
+        "name": {
+            "cn": "龙血石碎片",
+            "en": "Wyverian Bloodstone Shard",
+            "jp": "竜血石のかけら"
+        }
+    },
+    {
+        "id": 699,
+        "fixedId": 700,
+        "label": "ITEM_0726",
+        "name": {
+            "cn": "小块龙血石",
+            "en": "Wyverian Bloodstone (S)",
+            "jp": "小さな竜血石"
+        }
+    },
+    {
+        "id": 700,
+        "fixedId": 701,
+        "label": "ITEM_0727",
+        "name": {
+            "cn": "龙血石",
+            "en": "Wyverian Bloodstone",
+            "jp": "竜血石"
+        }
+    },
+    {
+        "id": 701,
+        "fixedId": 702,
+        "label": "ITEM_0728",
+        "name": {
+            "cn": "大块龙血石",
+            "en": "Wyverian Bloodstone (L)",
+            "jp": "大きな竜血石"
+        }
+    },
+    {
+        "id": 702,
+        "fixedId": 703,
+        "label": "ITEM_0729",
+        "name": {
+            "cn": "巨大龙血石",
+            "en": "Wyverian Bloodstone Chunk",
+            "jp": "竜血石の塊"
+        }
+    },
+    {
+        "id": 703,
+        "fixedId": 704,
+        "label": "ITEM_0730",
+        "name": {
+            "cn": "沙海龙的黑珍珠",
+            "en": "Balahara Black Pearl",
+            "jp": "沙海竜の黒真珠"
+        }
+    },
+    {
+        "id": 704,
+        "fixedId": 705,
+        "label": "ITEM_0731",
+        "name": {
+            "cn": "护火龙的红玉",
+            "en": "Guardian Rathalos Ruby",
+            "jp": "護火竜の紅玉"
+        }
+    },
+    {
+        "id": 705,
+        "fixedId": 706,
+        "label": "ITEM_0732",
+        "name": {
+            "cn": "护火龙的逆鳞",
+            "en": "Guardian Rathalos Plate",
+            "jp": "護火竜の逆鱗"
+        }
+    },
+    {
+        "id": 706,
+        "fixedId": 707,
+        "label": "ITEM_0733",
+        "name": {
+            "cn": "冻峰龙的尾巴",
+            "en": "Jin Dahaad Tail",
+            "jp": "凍峰竜の尻尾"
+        }
+    },
+    {
+        "id": 707,
+        "fixedId": 708,
+        "label": "ITEM_0734",
+        "name": {
+            "cn": "调查队耳饰票",
+            "en": "Expedition Headgear Ticket",
+            "jp": "調査隊耳飾りチケット"
+        }
+    }
+]
