@@ -91,7 +91,130 @@
         },
         "6": {
             "itemId": 597,
-            "itemName": "",
+            "itemName": "Thunder Sac",
+            "itemNum": 1
+        }
+    },
+    "105": {
+        "0": {
+            "itemId": 801,
+            "itemName": "Blossom Barrel Bomb",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 784,
+            "itemName": "Blossomdance Voucher",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 761,
+            "itemName": "Blossomdance Ticket",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 783,
+            "itemName": "Barrel Bowling Voucher",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 645,
+            "itemName": "Pick-a-meal Voucher",
+            "itemNum": 1
+        }
+    },
+    "106": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "107": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "108": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
             "itemNum": 1
         }
     },
@@ -233,6 +356,179 @@
             "itemNum": 1
         }
     },
+    "152": {
+        "0": {
+            "itemId": 216,
+            "itemName": "Mud Shrimp",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 217,
+            "itemName": "Turbid Shrimp",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 222,
+            "itemName": "Wild Herb",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 223,
+            "itemName": "Eastern Honey",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 225,
+            "itemName": "Jeweled Mullet Roe",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 618,
+            "itemName": "Mystery Orb - Sword",
+            "itemNum": 1
+        },
+        "7": {
+            "itemId": 155,
+            "itemName": "Mystery Orb - Armor",
+            "itemNum": 1
+        }
+    },
+    "153": {
+        "0": {
+            "itemId": 218,
+            "itemName": "Fluffy Egg",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 219,
+            "itemName": "Airy Egg",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 224,
+            "itemName": "Monster Chili",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 226,
+            "itemName": "Wild Seed Oil",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 225,
+            "itemName": "Jeweled Mullet Roe",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 618,
+            "itemName": "Mystery Orb - Sword",
+            "itemNum": 1
+        },
+        "7": {
+            "itemId": 155,
+            "itemName": "Mystery Orb - Armor",
+            "itemNum": 1
+        }
+    },
+    "154": {
+        "0": {
+            "itemId": 220,
+            "itemName": "Sild Garlic",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 221,
+            "itemName": "Specialty Sild Garlic",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 222,
+            "itemName": "Wild Herb",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 226,
+            "itemName": "Wild Seed Oil",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 225,
+            "itemName": "Jeweled Mullet Roe",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "7": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        }
+    },
+    "155": {
+        "0": {
+            "itemId": 212,
+            "itemName": "Kunafa Cheese",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 214,
+            "itemName": "Droolshroom",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 216,
+            "itemName": "Mud Shrimp",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 218,
+            "itemName": "Fluffy Egg",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 220,
+            "itemName": "Sild Garlic",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 624,
+            "itemName": "Hard Armor Sphere",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 159,
+            "itemName": "Rusted Weapon Shard",
+            "itemNum": 1
+        },
+        "7": {
+            "itemId": 645,
+            "itemName": "Pick-a-meal Voucher",
+            "itemNum": 1
+        },
+        "8": {
+            "itemId": 659,
+            "itemName": "Hunter Symbol II",
+            "itemNum": 1
+        }
+    },
     "156": {
         "0": {
             "itemId": 624,
@@ -267,6 +563,70 @@
         "6": {
             "itemId": 658,
             "itemName": "Hunter Symbol I",
+            "itemNum": 1
+        }
+    },
+    "157": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "158": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
             "itemNum": 1
         }
     },
@@ -307,6 +667,38 @@
             "itemNum": 1
         }
     },
+    "160": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
     "161": {
         "0": {
             "itemId": 156,
@@ -336,6 +728,171 @@
         "5": {
             "itemId": 657,
             "itemName": "Great Stoutbone",
+            "itemNum": 1
+        }
+    },
+    "162": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "163": {
+        "0": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "1": {
+            "itemId": 664,
+            "itemName": "Guardian Pelt+",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 438,
+            "itemName": "Nourishing Extract",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 607,
+            "itemName": "Guardian Blood+",
+            "itemNum": 1
+        }
+    },
+    "164": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "165": {
+        "0": {
+            "itemId": 159,
+            "itemName": "Rusted Weapon Shard",
+            "itemNum": 2
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "Hard Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 159,
+            "itemName": "Rusted Weapon Shard",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 159,
+            "itemName": "Rusted Weapon Shard",
+            "itemNum": 3
+        },
+        "4": {
+            "itemId": 620,
+            "itemName": "Ancient Orb - Sword",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 157,
+            "itemName": "Ancient Orb - Armor",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 659,
+            "itemName": "Hunter Symbol II",
+            "itemNum": 1
+        }
+    },
+    "166": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
             "itemNum": 1
         }
     },
@@ -369,6 +926,427 @@
             "itemId": 27,
             "itemName": "Honey",
             "itemNum": 2
+        }
+    },
+    "250": {
+        "0": {
+            "itemId": 776,
+            "itemName": "Chata Coin",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 805,
+            "itemName": "Pinnacle Coin",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 11,
+            "itemName": "Lifepowder",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 4,
+            "itemName": "Max Potion",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 225,
+            "itemName": "Jeweled Mullet Roe",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 645,
+            "itemName": "Pick-a-meal Voucher",
+            "itemNum": 1
+        }
+    },
+    "251": {
+        "0": {
+            "itemId": 777,
+            "itemName": "Rathian Coin",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 805,
+            "itemName": "Pinnacle Coin",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 11,
+            "itemName": "Lifepowder",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 4,
+            "itemName": "Max Potion",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 225,
+            "itemName": "Jeweled Mullet Roe",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 645,
+            "itemName": "Pick-a-meal Voucher",
+            "itemNum": 1
+        }
+    },
+    "252": {
+        "0": {
+            "itemId": 805,
+            "itemName": "Pinnacle Coin",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 622,
+            "itemName": "Armor Sphere+",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 167,
+            "itemName": "Demondrug",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 4,
+            "itemName": "Max Potion",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 223,
+            "itemName": "Eastern Honey",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 645,
+            "itemName": "Pick-a-meal Voucher",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 646,
+            "itemName": "Steel Melding Ticket",
+            "itemNum": 1
+        }
+    },
+    "253": {
+        "0": {
+            "itemId": 779,
+            "itemName": "",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 805,
+            "itemName": "Pinnacle Coin",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 175,
+            "itemName": "Demon Powder",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 125,
+            "itemName": "Might Seed",
+            "itemNum": 3
+        },
+        "5": {
+            "itemId": 226,
+            "itemName": "Wild Seed Oil",
+            "itemNum": 1
+        }
+    },
+    "254": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "255": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "256": {
+        "0": {
+            "itemId": 779,
+            "itemName": "",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 805,
+            "itemName": "Pinnacle Coin",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 175,
+            "itemName": "Demon Powder",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 125,
+            "itemName": "Might Seed",
+            "itemNum": 3
+        },
+        "5": {
+            "itemId": 226,
+            "itemName": "Wild Seed Oil",
+            "itemNum": 1
+        }
+    },
+    "260": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "261": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "262": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "263": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "264": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "265": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
         }
     },
     "301": {
@@ -458,7 +1436,7 @@
         },
         "3": {
             "itemId": 453,
-            "itemName": "",
+            "itemName": "Guardian Scale",
             "itemNum": 1
         },
         "4": {
@@ -490,7 +1468,7 @@
         },
         "3": {
             "itemId": 453,
-            "itemName": "",
+            "itemName": "Guardian Scale",
             "itemNum": 1
         },
         "4": {
@@ -1063,7 +2041,7 @@
         },
         "5": {
             "itemId": 597,
-            "itemName": "",
+            "itemName": "Thunder Sac",
             "itemNum": 1
         }
     },
@@ -1129,6 +2107,134 @@
             "itemId": 438,
             "itemName": "Nourishing Extract",
             "itemNum": 2
+        }
+    },
+    "509": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "510": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "511": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "512": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
         }
     },
     "520": {
@@ -1466,10 +2572,202 @@
             "itemNum": 1
         }
     },
+    "631": {
+        "0": {
+            "itemId": 607,
+            "itemName": "Guardian Blood+",
+            "itemNum": 3
+        },
+        "1": {
+            "itemId": 653,
+            "itemName": "Heavy Armor Sphere",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 624,
+            "itemName": "Hard Armor Sphere",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "Ancient Orb - Sword",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 157,
+            "itemName": "Ancient Orb - Armor",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 478,
+            "itemName": "Ancient Weapon Fragment",
+            "itemNum": 1
+        }
+    },
+    "650": {
+        "0": {
+            "itemId": 756,
+            "itemName": "Rey Dau Certificate γ",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "Hard Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 653,
+            "itemName": "Heavy Armor Sphere",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 620,
+            "itemName": "Ancient Orb - Sword",
+            "itemNum": 2
+        },
+        "4": {
+            "itemId": 157,
+            "itemName": "Ancient Orb - Armor",
+            "itemNum": 2
+        },
+        "5": {
+            "itemId": 478,
+            "itemName": "Ancient Weapon Fragment",
+            "itemNum": 2
+        }
+    },
+    "651": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "652": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "653": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "654": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
     "701": {
         "0": {
             "itemId": 617,
-            "itemName": "",
+            "itemName": "Mimiphyta Ticket",
             "itemNum": 1
         },
         "1": {
@@ -1528,6 +2826,740 @@
             "itemId": 593,
             "itemName": "Inferno Sac",
             "itemNum": 2
+        }
+    },
+    "703": {
+        "0": {
+            "itemId": 789,
+            "itemName": "Amstrigian Ticket",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 618,
+            "itemName": "Mystery Orb - Sword",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 155,
+            "itemName": "Mystery Orb - Armor",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 650,
+            "itemName": "Steel Egg",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 651,
+            "itemName": "Silver Egg",
+            "itemNum": 1
+        }
+    },
+    "704": {
+        "0": {
+            "itemId": 790,
+            "itemName": "Sealed Dragon Cloth",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 664,
+            "itemName": "Guardian Pelt+",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 607,
+            "itemName": "Guardian Blood+",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "4": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 597,
+            "itemName": "Thunder Sac",
+            "itemNum": 2
+        }
+    },
+    "705": {
+        "0": {
+            "itemId": 778,
+            "itemName": "",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 3
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 3
+        },
+        "3": {
+            "itemId": 618,
+            "itemName": "Mystery Orb - Sword",
+            "itemNum": 2
+        },
+        "4": {
+            "itemId": 155,
+            "itemName": "Mystery Orb - Armor",
+            "itemNum": 2
+        },
+        "5": {
+            "itemId": 54,
+            "itemName": "Dragonite Ore",
+            "itemNum": 5
+        },
+        "6": {
+            "itemId": 645,
+            "itemName": "Pick-a-meal Voucher",
+            "itemNum": 1
+        }
+    },
+    "706": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "707": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "708": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "709": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "710": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "711": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "712": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "713": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "714": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "715": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "716": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "750": {
+        "0": {
+            "itemId": 762,
+            "itemName": "Blossom Ticket",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 223,
+            "itemName": "Eastern Honey",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 618,
+            "itemName": "Mystery Orb - Sword",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 155,
+            "itemName": "Mystery Orb - Armor",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 229,
+            "itemName": "Great Hornfly",
+            "itemNum": 1
+        }
+    },
+    "751": {
+        "0": {
+            "itemId": 763,
+            "itemName": "Blossomdance Catalog",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 624,
+            "itemName": "Hard Armor Sphere",
+            "itemNum": 1
+        },
+        "2": {
+            "itemId": 620,
+            "itemName": "Ancient Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 157,
+            "itemName": "Ancient Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 159,
+            "itemName": "Rusted Weapon Shard",
+            "itemNum": 2
+        },
+        "5": {
+            "itemId": 659,
+            "itemName": "Hunter Symbol II",
+            "itemNum": 1
+        },
+        "6": {
+            "itemId": 578,
+            "itemName": "Novacrystal",
+            "itemNum": 1
+        },
+        "7": {
+            "itemId": 61,
+            "itemName": "Dragonbone Relic",
+            "itemNum": 1
+        },
+        "8": {
+            "itemId": 653,
+            "itemName": "Heavy Armor Sphere",
+            "itemNum": 1
+        }
+    },
+    "752": {
+        "0": {
+            "itemId": 765,
+            "itemName": "",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 618,
+            "itemName": "Mystery Orb - Sword",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 155,
+            "itemName": "Mystery Orb - Armor",
+            "itemNum": 2
+        },
+        "4": {
+            "itemId": 534,
+            "itemName": "Dash Extract",
+            "itemNum": 2
+        },
+        "5": {
+            "itemId": 578,
+            "itemName": "Novacrystal",
+            "itemNum": 1
+        }
+    },
+    "753": {
+        "0": {
+            "itemId": 767,
+            "itemName": "",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 3
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 2
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 2
+        },
+        "4": {
+            "itemId": 158,
+            "itemName": "Damaged Weapon Shard",
+            "itemNum": 2
+        },
+        "5": {
+            "itemId": 658,
+            "itemName": "Hunter Symbol I",
+            "itemNum": 1
+        }
+    },
+    "754": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "756": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "757": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
+        }
+    },
+    "758": {
+        "0": {
+            "itemId": 654,
+            "itemName": "Monster Keenbone",
+            "itemNum": 1
+        },
+        "1": {
+            "itemId": 623,
+            "itemName": "Advanced Armor Sphere",
+            "itemNum": 2
+        },
+        "2": {
+            "itemId": 619,
+            "itemName": "Glowing Orb - Sword",
+            "itemNum": 1
+        },
+        "3": {
+            "itemId": 156,
+            "itemName": "Glowing Orb - Armor",
+            "itemNum": 1
+        },
+        "4": {
+            "itemId": 55,
+            "itemName": "Carbalite Ore",
+            "itemNum": 1
+        },
+        "5": {
+            "itemId": 588,
+            "itemName": "Quality Bone",
+            "itemNum": 1
         }
     }
 }
