@@ -1028,5 +1028,55 @@
             "en": "<REF Mission508050_000>",
             "jp": "<REF Mission508050_000>"
         }
+    },
+    {
+        "id": 414,
+        "fixedId": 14231,
+        "label": "MISSION_700015",
+        "name": {
+            "cn": "飘摇之物可是淡红泡狐",
+            "en": "The Entrancing Water Dancer",
+            "jp": "淡紅の泡狐がたゆたうか"
+        }
+    },
+    {
+        "id": 416,
+        "fixedId": 21874,
+        "label": "MISSION_700025",
+        "name": {
+            "cn": "萌芽",
+            "en": "Germination",
+            "jp": "萌芽"
+        }
+    },
+    {
+        "id": 427,
+        "fixedId": 29292,
+        "label": "MISSION_105013",
+        "name": {
+            "cn": "绯色泡沫，如影如幻",
+            "en": "Bubbling Crimson Flowers",
+            "jp": "くれない泡のうたかた華に"
+        }
+    },
+    {
+        "id": 428,
+        "fixedId": 30423,
+        "label": "MISSION_204000",
+        "name": {
+            "cn": "斗技大会：<EMID EM0152_00_0>",
+            "en": "Arena: <EMID EM0152_00_0>",
+            "jp": "闘技大会：<EMID EM0152_00_0>"
+        }
+    },
+    {
+        "id": 429,
+        "fixedId": 5668,
+        "label": "MISSION_204001",
+        "name": {
+            "cn": "斗技大会：<EMID EM0001_00_0>",
+            "en": "Arena: <EMID EM0001_00_0>",
+            "jp": "闘技大会：<EMID EM0001_00_0>"
+        }
     }
 ]
