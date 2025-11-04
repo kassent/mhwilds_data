@@ -1,2102 +1,3089 @@
 [
     {
-        "id": -1,
-        "fixedId": 0,
-        "label": "INVALID",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 0,
         "fixedId": 26,
+        "id": 0,
         "label": "EM0001_00_0",
         "name": {
-            "cn": "雌火龙",
-            "en": "Rathian",
-            "jp": "リオレイア"
+            "ar-sa": "راثيان",
+            "de-de": "Rathian",
+            "en-us": "Rathian",
+            "es-es": "Rathian",
+            "es-la": "Rathian",
+            "fr-fr": "Rathian",
+            "it-it": "Rathian",
+            "ja-jp": "リオレイア",
+            "ko-kr": "리오레이아",
+            "pl-pl": "Rathiana",
+            "pt-br": "Rathian",
+            "ru-ru": "Ратиана",
+            "zh-cn": "雌火龙",
+            "zh-tw": "雌火龍"
         }
     },
     {
-        "id": 1,
         "fixedId": 1965232896,
+        "id": 1,
         "label": "EM0002_00_0",
         "name": {
-            "cn": "火龙",
-            "en": "Rathalos",
-            "jp": "リオレウス"
+            "ar-sa": "راثالوس",
+            "de-de": "Rathalos",
+            "en-us": "Rathalos",
+            "es-es": "Rathalos",
+            "es-la": "Rathalos",
+            "fr-fr": "Rathalos",
+            "it-it": "Rathalos",
+            "ja-jp": "リオレウス",
+            "ko-kr": "리오레우스",
+            "pl-pl": "Rathalos",
+            "pt-br": "Rathalos",
+            "ru-ru": "Раталос",
+            "zh-cn": "火龙",
+            "zh-tw": "火龍"
         }
     },
     {
-        "id": 2,
         "fixedId": 1411933184,
+        "id": 2,
         "label": "EM0002_50_0",
         "name": {
-            "cn": "护火龙",
-            "en": "Guardian Rathalos",
-            "jp": "護竜リオレウス"
+            "ar-sa": "راثالوس حارس",
+            "de-de": "Wächter-Rathalos",
+            "en-us": "Guardian Rathalos",
+            "es-es": "Rathalos Guardián",
+            "es-la": "Rathalos Guardián",
+            "fr-fr": "Rathalos Gardien",
+            "it-it": "Rathalos guardiano",
+            "ja-jp": "護竜リオレウス",
+            "ko-kr": "수호룡 리오레우스",
+            "pl-pl": "Rathalos Strażnik",
+            "pt-br": "Rathalos Guardião",
+            "ru-ru": "Раталос-страж",
+            "zh-cn": "护火龙",
+            "zh-tw": "護火龍"
         }
     },
     {
-        "id": 3,
         "fixedId": -535078400,
+        "id": 3,
         "label": "EM0005_00_0",
         "name": {
-            "cn": "铠龙",
-            "en": "Gravios",
-            "jp": "グラビモス"
+            "ar-sa": "غرافيوس",
+            "de-de": "Gravios",
+            "en-us": "Gravios",
+            "es-es": "Gravios",
+            "es-la": "Gravios",
+            "fr-fr": "Gravios",
+            "it-it": "Gravios",
+            "ja-jp": "グラビモス",
+            "ko-kr": "그라비모스",
+            "pl-pl": "Gravios",
+            "pt-br": "Gravios",
+            "ru-ru": "Гравиос",
+            "zh-cn": "铠龙",
+            "zh-tw": "鎧龍"
         }
     },
     {
-        "id": 4,
         "fixedId": 402056736,
+        "id": 4,
         "label": "EM0008_00_0",
         "name": {
-            "cn": "怪鸟",
-            "en": "Yian Kut-Ku",
-            "jp": "イャンクック"
+            "ar-sa": "يان كوت-كو",
+            "de-de": "Yian Kut-Ku",
+            "en-us": "Yian Kut-Ku",
+            "es-es": "Yian Kut-Ku",
+            "es-la": "Yian Kut-Ku",
+            "fr-fr": "Yian Kut-Ku",
+            "it-it": "Yian Kut-Ku",
+            "ja-jp": "イャンクック",
+            "ko-kr": "얀쿡크",
+            "pl-pl": "Yian Kut-Ku",
+            "pt-br": "Yian Kut-Ku",
+            "ru-ru": "Йан-кут-ку",
+            "zh-cn": "怪鸟",
+            "zh-tw": "怪鳥"
         }
     },
     {
-        "id": 5,
         "fixedId": 1049705664,
+        "id": 5,
         "label": "EM0009_00_0",
         "name": {
-            "cn": "毒怪鸟",
-            "en": "Gypceros",
-            "jp": "ゲリョス"
+            "ar-sa": "جيبسيروس",
+            "de-de": "Gypceros",
+            "en-us": "Gypceros",
+            "es-es": "Gypceros",
+            "es-la": "Gypceros",
+            "fr-fr": "Gypceros",
+            "it-it": "Gypceros",
+            "ja-jp": "ゲリョス",
+            "ko-kr": "게리오스",
+            "pl-pl": "Gypceros",
+            "pt-br": "Gypceros",
+            "ru-ru": "Гипцерос",
+            "zh-cn": "毒怪鸟",
+            "zh-tw": "毒怪鳥"
         }
     },
     {
-        "id": 6,
         "fixedId": -1440201088,
+        "id": 6,
         "label": "EM0021_00_0",
         "name": {
-            "cn": "桃毛兽王",
-            "en": "Congalala",
-            "jp": "ババコンガ"
+            "ar-sa": "كونغالالا",
+            "de-de": "Congalala",
+            "en-us": "Congalala",
+            "es-es": "Congalala",
+            "es-la": "Congalala",
+            "fr-fr": "Congalala",
+            "it-it": "Congalala",
+            "ja-jp": "ババコンガ",
+            "ko-kr": "바바콩가",
+            "pl-pl": "Kongalala",
+            "pt-br": "Congalala",
+            "ru-ru": "Конгалала",
+            "zh-cn": "桃毛兽王",
+            "zh-tw": "桃毛獸王"
         }
     },
     {
-        "id": 7,
         "fixedId": 2129596800,
+        "id": 7,
         "label": "EM0022_00_0",
         "name": {
-            "cn": "雪狮子王",
-            "en": "Blangonga",
-            "jp": "ドドブランゴ"
+            "ar-sa": "بلانجونجا",
+            "de-de": "Blangonga",
+            "en-us": "Blangonga",
+            "es-es": "Blangonga",
+            "es-la": "Blangonga",
+            "fr-fr": "Blangonga",
+            "it-it": "Blangonga",
+            "ja-jp": "ドドブランゴ",
+            "ko-kr": "도도블랑고",
+            "pl-pl": "Blangonga",
+            "pt-br": "Blangonga",
+            "ru-ru": "Блангонга",
+            "zh-cn": "雪狮子王",
+            "zh-tw": "雪獅子王"
         }
     },
     {
-        "id": 8,
         "fixedId": -1083842944,
+        "id": 8,
         "label": "EM0046_00_0",
         "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
+            "ar-sa": "لاغياكروس",
+            "de-de": "Lagiacrus",
+            "en-us": "Lagiacrus",
+            "es-es": "Lagiacrus",
+            "es-la": "Lagiacrus",
+            "fr-fr": "Lagiacrus",
+            "it-it": "Lagiacrus",
+            "ja-jp": "ラギアクルス",
+            "ko-kr": "라기아크루스",
+            "pl-pl": "Lagiacrus",
+            "pt-br": "Lagiacrus",
+            "ru-ru": "Лагиакрус",
+            "zh-cn": "海龙",
+            "zh-tw": "海龍"
         }
     },
     {
-        "id": 9,
         "fixedId": -1363370496,
+        "id": 9,
         "label": "EM0070_00_0",
         "name": {
-            "cn": "影蜘蛛",
-            "en": "Nerscylla",
-            "jp": "ネルスキュラ"
+            "ar-sa": "نيرسكيلا",
+            "de-de": "Nerscylla",
+            "en-us": "Nerscylla",
+            "es-es": "Nerscylla",
+            "es-la": "Nerscylla",
+            "fr-fr": "Nerscylla",
+            "it-it": "Nerscylla",
+            "ja-jp": "ネルスキュラ",
+            "ko-kr": "네르스큐라",
+            "pl-pl": "Nerscylla",
+            "pt-br": "Nerscylla",
+            "ru-ru": "Нерскилла",
+            "zh-cn": "影蜘蛛",
+            "zh-tw": "影蜘蛛"
         }
     },
     {
-        "id": 10,
         "fixedId": -758250816,
+        "id": 10,
         "label": "EM0071_00_0",
         "name": {
-            "cn": "黑蚀龙",
-            "en": "Gore Magala",
-            "jp": "ゴア・マガラ"
+            "ar-sa": "جور ماجالا",
+            "de-de": "Gore Magala",
+            "en-us": "Gore Magala",
+            "es-es": "Gore Magala",
+            "es-la": "Gore Magala",
+            "fr-fr": "Gore Magala",
+            "it-it": "Gore Magala",
+            "ja-jp": "ゴア・マガラ",
+            "ko-kr": "고어 마가라",
+            "pl-pl": "Gore Magala",
+            "pt-br": "Gore Magala",
+            "ru-ru": "Кровавая магала",
+            "zh-cn": "黑蚀龙",
+            "zh-tw": "黑蝕龍"
         }
     },
     {
-        "id": 11,
         "fixedId": 25,
+        "id": 11,
         "label": "EM0077_00_0",
         "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
+            "ar-sa": "سيرجيوس",
+            "de-de": "Seregios",
+            "en-us": "Seregios",
+            "es-es": "Seregios",
+            "es-la": "Seregios",
+            "fr-fr": "Seregios",
+            "it-it": "Seregios",
+            "ja-jp": "セルレギオス",
+            "ko-kr": "셀레기오스",
+            "pl-pl": "Seregios",
+            "pt-br": "Seregios",
+            "ru-ru": "Серегиос",
+            "zh-cn": "千刃龙",
+            "zh-tw": "千刃龍"
         }
     },
     {
-        "id": 12,
-        "fixedId": 13052,
-        "label": "EM0078_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 13,
         "fixedId": 32634,
+        "id": 13,
         "label": "EM0082_00_0",
         "name": {
-            "cn": "泡狐龙",
-            "en": "Mizutsune",
-            "jp": "タマミツネ"
+            "ar-sa": "ميزوتسوني",
+            "de-de": "Mizutsune",
+            "en-us": "Mizutsune",
+            "es-es": "Mizutsune",
+            "es-la": "Mizutsune",
+            "fr-fr": "Mizutsune",
+            "it-it": "Mizutsune",
+            "ja-jp": "タマミツネ",
+            "ko-kr": "타마미츠네",
+            "pl-pl": "Mizutsune",
+            "pt-br": "Mizutsune",
+            "ru-ru": "Мидзуцунэ",
+            "zh-cn": "泡狐龙",
+            "zh-tw": "泡狐龍"
         }
     },
     {
-        "id": 14,
         "fixedId": 107194928,
+        "id": 14,
         "label": "EM0100_51_0",
         "name": {
-            "cn": "护雷颚龙",
-            "en": "Guardian Fulgur Anjanath",
-            "jp": "護竜アンジャナフ亜種"
+            "ar-sa": "أنجاناث رعدي حارس",
+            "de-de": "Wächter-Fulgur-Anjanath",
+            "en-us": "Guardian Fulgur Anjanath",
+            "es-es": "Anjanath Fulgúreo Guardián",
+            "es-la": "Anjanath Fulgúreo Guardián",
+            "fr-fr": "Anjanath tonnerre Gardien",
+            "it-it": "Anjanath tonante guardiano",
+            "ja-jp": "護竜アンジャナフ亜種",
+            "ko-kr": "수호룡 안쟈나프 아종",
+            "pl-pl": "Piorunowy Anjanath Strażnik",
+            "pt-br": "Anjanath Fulgurante Guardião",
+            "ru-ru": "Громовой аньянат-страж",
+            "zh-cn": "护雷颚龙",
+            "zh-tw": "護雷顎龍"
         }
     },
     {
-        "id": 15,
         "fixedId": 1663995904,
+        "id": 15,
         "label": "EM0113_51_0",
         "name": {
-            "cn": "护凶爪龙",
-            "en": "Guardian Ebony Odogaron",
-            "jp": "護竜オドガロン亜種"
+            "ar-sa": "أودوغارون أسمر حارس",
+            "de-de": "Wächter-Vulkan-Odogaron",
+            "en-us": "Guardian Ebony Odogaron",
+            "es-es": "Odogaron Ébano Guardián",
+            "es-la": "Odogaron Ébano Guardián",
+            "fr-fr": "Odogaron désastre Gardien",
+            "it-it": "Odogaron d'ebano guardiano",
+            "ja-jp": "護竜オドガロン亜種",
+            "ko-kr": "수호룡 오도가론 아종",
+            "pl-pl": "Hebanowy Odogaron Strażnik",
+            "pt-br": "Odogaron Negro Guardião",
+            "ru-ru": "Эбеновый одогарон-страж",
+            "zh-cn": "护凶爪龙",
+            "zh-tw": "護兇爪龍"
         }
     },
     {
-        "id": 16,
         "fixedId": 15,
+        "id": 16,
         "label": "EM0150_00_0",
         "name": {
-            "cn": "辟兽",
-            "en": "Doshaguma",
-            "jp": "ドシャグマ"
+            "ar-sa": "دوشاغوما",
+            "de-de": "Doshaguma",
+            "en-us": "Doshaguma",
+            "es-es": "Doshaguma",
+            "es-la": "Doshaguma",
+            "fr-fr": "Doshaguma",
+            "it-it": "Doshaguma",
+            "ja-jp": "ドシャグマ",
+            "ko-kr": "도샤구마",
+            "pl-pl": "Doshaguma",
+            "pt-br": "Doshaguma",
+            "ru-ru": "Дошагума",
+            "zh-cn": "辟兽",
+            "zh-tw": "闢獸"
         }
     },
     {
-        "id": 17,
         "fixedId": -1916429696,
+        "id": 17,
         "label": "EM0150_50_0",
         "name": {
-            "cn": "护辟兽",
-            "en": "Guardian Doshaguma",
-            "jp": "護竜ドシャグマ"
+            "ar-sa": "دوشاغوما حارس",
+            "de-de": "Wächter-Doshaguma",
+            "en-us": "Guardian Doshaguma",
+            "es-es": "Doshaguma Guardián",
+            "es-la": "Doshaguma Guardián",
+            "fr-fr": "Doshaguma Gardien",
+            "it-it": "Doshaguma guardiano",
+            "ja-jp": "護竜ドシャグマ",
+            "ko-kr": "수호룡 도샤구마",
+            "pl-pl": "Doshaguma Strażnik",
+            "pt-br": "Doshaguma Guardião",
+            "ru-ru": "Дошагума-страж",
+            "zh-cn": "护辟兽",
+            "zh-tw": "護闢獸"
         }
     },
     {
-        "id": 18,
         "fixedId": 16,
+        "id": 18,
         "label": "EM0151_00_0",
         "name": {
-            "cn": "沙海龙",
-            "en": "Balahara",
-            "jp": "バーラハーラ"
+            "ar-sa": "بالاهارا",
+            "de-de": "Balahara",
+            "en-us": "Balahara",
+            "es-es": "Balahara",
+            "es-la": "Balahara",
+            "fr-fr": "Balahara",
+            "it-it": "Balahara",
+            "ja-jp": "バーラハーラ",
+            "ko-kr": "발라하라",
+            "pl-pl": "Balahara",
+            "pt-br": "Balahara",
+            "ru-ru": "Балахара",
+            "zh-cn": "沙海龙",
+            "zh-tw": "沙海龍"
         }
     },
     {
-        "id": 19,
         "fixedId": 33,
+        "id": 19,
         "label": "EM0152_00_0",
         "name": {
-            "cn": "缠蛙",
-            "en": "Chatacabra",
-            "jp": "チャタカブラ"
+            "ar-sa": "تشاتاكابرا",
+            "de-de": "Chatacabra",
+            "en-us": "Chatacabra",
+            "es-es": "Chatacabra",
+            "es-la": "Chatacabra",
+            "fr-fr": "Chatacabra",
+            "it-it": "Chatacabra",
+            "ja-jp": "チャタカブラ",
+            "ko-kr": "차타카브라",
+            "pl-pl": "Chatacabra",
+            "pt-br": "Chatacabra",
+            "ru-ru": "Чатакабра",
+            "zh-cn": "缠蛙",
+            "zh-tw": "纏蛙"
         }
     },
     {
-        "id": 20,
         "fixedId": -34937520,
+        "id": 20,
         "label": "EM0153_00_0",
         "name": {
-            "cn": "炎尾龙",
-            "en": "Quematrice",
-            "jp": "ケマトリス"
+            "ar-sa": "كيماتريس",
+            "de-de": "Quematrice",
+            "en-us": "Quematrice",
+            "es-es": "Quematrice",
+            "es-la": "Quematrice",
+            "fr-fr": "Quematrice",
+            "it-it": "Quematrice",
+            "ja-jp": "ケマトリス",
+            "ko-kr": "케마트리스",
+            "pl-pl": "Chematrice",
+            "pt-br": "Quematrice",
+            "ru-ru": "Кематрис",
+            "zh-cn": "炎尾龙",
+            "zh-tw": "炎尾龍"
         }
     },
     {
-        "id": 21,
         "fixedId": -1528962176,
+        "id": 21,
         "label": "EM0154_00_0",
         "name": {
-            "cn": "刺花蜘蛛",
-            "en": "Lala Barina",
-            "jp": "ラバラ・バリナ"
+            "ar-sa": "لالا بارينا",
+            "de-de": "Lala Barina",
+            "en-us": "Lala Barina",
+            "es-es": "Lala Barina",
+            "es-la": "Lala Barina",
+            "fr-fr": "Lala Barina",
+            "it-it": "Lala Barina",
+            "ja-jp": "ラバラ・バリナ",
+            "ko-kr": "라바라 바리나",
+            "pl-pl": "Lala Barina",
+            "pt-br": "Lala Barina",
+            "ru-ru": "Лала барина",
+            "zh-cn": "刺花蜘蛛",
+            "zh-tw": "刺花蜘蛛"
         }
     },
     {
-        "id": 22,
         "fixedId": 567628288,
+        "id": 22,
         "label": "EM0155_00_0",
         "name": {
-            "cn": "沼喷龙",
-            "en": "Rompopolo",
-            "jp": "ププロポル"
+            "ar-sa": "رومبوبولو",
+            "de-de": "Rompopolo",
+            "en-us": "Rompopolo",
+            "es-es": "Rompopolo",
+            "es-la": "Rompopolo",
+            "fr-fr": "Rompopolo",
+            "it-it": "Rompopolo",
+            "ja-jp": "ププロポル",
+            "ko-kr": "푸푸로포루",
+            "pl-pl": "Rompopolo",
+            "pt-br": "Rompopolo",
+            "ru-ru": "Ромпополо",
+            "zh-cn": "沼喷龙",
+            "zh-tw": "沼噴龍"
         }
     },
     {
-        "id": 23,
         "fixedId": -1547364608,
+        "id": 23,
         "label": "EM0156_00_0",
         "name": {
-            "cn": "煌雷龙",
-            "en": "Rey Dau",
-            "jp": "レ・ダウ"
+            "ar-sa": "راي داو",
+            "de-de": "Rey Dau",
+            "en-us": "Rey Dau",
+            "es-es": "Rey Dau",
+            "es-la": "Rey Dau",
+            "fr-fr": "Rey Dau",
+            "it-it": "Rey Dau",
+            "ja-jp": "レ・ダウ",
+            "ko-kr": "레 다우",
+            "pl-pl": "Rey Dau",
+            "pt-br": "Rey Dau",
+            "ru-ru": "Рей дау",
+            "zh-cn": "煌雷龙",
+            "zh-tw": "煌雷龍"
         }
     },
     {
-        "id": 24,
         "fixedId": 1467998976,
+        "id": 24,
         "label": "EM0157_00_0",
         "name": {
-            "cn": "波衣龙",
-            "en": "Uth Duna",
-            "jp": "ウズ・トゥナ"
+            "ar-sa": "أوث دونا",
+            "de-de": "Uth Duna",
+            "en-us": "Uth Duna",
+            "es-es": "Uth Duna",
+            "es-la": "Uth Duna",
+            "fr-fr": "Uth Duna",
+            "it-it": "Uth Duna",
+            "ja-jp": "ウズ・トゥナ",
+            "ko-kr": "우드 투나",
+            "pl-pl": "Uth Duna",
+            "pt-br": "Uth Duna",
+            "ru-ru": "Ут дуна",
+            "zh-cn": "波衣龙",
+            "zh-tw": "波衣龍"
         }
     },
     {
-        "id": 25,
         "fixedId": 1657778432,
+        "id": 25,
         "label": "EM0158_00_0",
         "name": {
-            "cn": "狱焰蛸",
-            "en": "Nu Udra",
-            "jp": "ヌ・エグドラ"
+            "ar-sa": "نو أودرا",
+            "de-de": "Nu Udra",
+            "en-us": "Nu Udra",
+            "es-es": "Nu Udra",
+            "es-la": "Nu Udra",
+            "fr-fr": "Nu Udra",
+            "it-it": "Nu Udra",
+            "ja-jp": "ヌ・エグドラ",
+            "ko-kr": "누 이그드라",
+            "pl-pl": "Nu Udra",
+            "pt-br": "Nu Udra",
+            "ru-ru": "Ну удра",
+            "zh-cn": "狱焰蛸",
+            "zh-tw": "獄焰鱆"
         }
     },
     {
-        "id": 26,
         "fixedId": 777460864,
+        "id": 26,
         "label": "EM0159_00_0",
         "name": {
-            "cn": "赫猿兽",
-            "en": "Ajarakan",
-            "jp": "アジャラカン"
+            "ar-sa": "أجاراكان",
+            "de-de": "Ajarakan",
+            "en-us": "Ajarakan",
+            "es-es": "Ajarakan",
+            "es-la": "Ajarakan",
+            "fr-fr": "Ajarakan",
+            "it-it": "Ajarakan",
+            "ja-jp": "アジャラカン",
+            "ko-kr": "아자라칸",
+            "pl-pl": "Ajarakan",
+            "pt-br": "Ajarakan",
+            "ru-ru": "Ажаракан",
+            "zh-cn": "赫猿兽",
+            "zh-tw": "赫猿獸"
         }
     },
     {
-        "id": 27,
         "fixedId": 746996864,
+        "id": 27,
         "label": "EM0160_00_0",
         "name": {
-            "cn": "锁刃龙",
-            "en": "Arkveld",
-            "jp": "アルシュベルド"
+            "ar-sa": "آركفيلد",
+            "de-de": "Arkveld",
+            "en-us": "Arkveld",
+            "es-es": "Arkveld",
+            "es-la": "Arkveld",
+            "fr-fr": "Arkveld",
+            "it-it": "Arkveld",
+            "ja-jp": "アルシュベルド",
+            "ko-kr": "알슈베르도",
+            "pl-pl": "Arkveld",
+            "pt-br": "Arkveld",
+            "ru-ru": "Арквельд",
+            "zh-cn": "锁刃龙",
+            "zh-tw": "鎖刃龍"
         }
     },
     {
-        "id": 28,
         "fixedId": -283654400,
+        "id": 28,
         "label": "EM0160_50_0",
         "name": {
-            "cn": "护锁刃龙",
-            "en": "Guardian Arkveld",
-            "jp": "護竜アルシュベルド"
+            "ar-sa": "آركفيلد حارس",
+            "de-de": "Wächter-Arkveld",
+            "en-us": "Guardian Arkveld",
+            "es-es": "Arkveld Guardián",
+            "es-la": "Arkveld Guardián",
+            "fr-fr": "Arkveld Gardien",
+            "it-it": "Arkveld guardiano",
+            "ja-jp": "護竜アルシュベルド",
+            "ko-kr": "수호룡 알슈베르도",
+            "pl-pl": "Arkveld Strażnik",
+            "pt-br": "Arkveld Guardião",
+            "ru-ru": "Арквельд-страж",
+            "zh-cn": "护锁刃龙",
+            "zh-tw": "護鎖刃龍"
         }
     },
     {
-        "id": 29,
         "fixedId": 222933952,
+        "id": 29,
         "label": "EM0161_00_0",
         "name": {
-            "cn": "风铗龙",
-            "en": "Hirabami",
-            "jp": "ヒラバミ"
+            "ar-sa": "هيرابامي",
+            "de-de": "Hirabami",
+            "en-us": "Hirabami",
+            "es-es": "Hirabami",
+            "es-la": "Hirabami",
+            "fr-fr": "Hirabami",
+            "it-it": "Hirabami",
+            "ja-jp": "ヒラバミ",
+            "ko-kr": "히라바미",
+            "pl-pl": "Hirabami",
+            "pt-br": "Hirabami",
+            "ru-ru": "Хирабами",
+            "zh-cn": "风铗龙",
+            "zh-tw": "風鋏龍"
         }
     },
     {
-        "id": 30,
         "fixedId": 1553456768,
+        "id": 30,
         "label": "EM0162_00_0",
         "name": {
-            "cn": "冻峰龙",
-            "en": "Jin Dahaad",
-            "jp": "ジン・ダハド"
+            "ar-sa": "جين دهاد",
+            "de-de": "Jin Dahaad",
+            "en-us": "Jin Dahaad",
+            "es-es": "Jin Dahaad",
+            "es-la": "Jin Dahaad",
+            "fr-fr": "Jin Dahaad",
+            "it-it": "Jin Dahaad",
+            "ja-jp": "ジン・ダハド",
+            "ko-kr": "진 다하드",
+            "pl-pl": "Jin Dahaad",
+            "pt-br": "Jin Dahaad",
+            "ru-ru": "Джин дахаад",
+            "zh-cn": "冻峰龙",
+            "zh-tw": "凍峰龍"
         }
     },
     {
-        "id": 31,
         "fixedId": 1401863296,
+        "id": 31,
         "label": "EM0163_00_0",
         "name": {
-            "cn": "暗器蛸",
-            "en": "Xu Wu",
-            "jp": "シーウー"
+            "ar-sa": "شو وو",
+            "de-de": "Xu Wu",
+            "en-us": "Xu Wu",
+            "es-es": "Xu Wu",
+            "es-la": "Xu Wu",
+            "fr-fr": "Xu Wu",
+            "it-it": "Xu Wu",
+            "ja-jp": "シーウー",
+            "ko-kr": "시이우",
+            "pl-pl": "Xu Wu",
+            "pt-br": "Xu Wu",
+            "ru-ru": "Сю ву",
+            "zh-cn": "暗器蛸",
+            "zh-tw": "暗器鱆"
         }
     },
     {
-        "id": 32,
         "fixedId": -2003468672,
+        "id": 32,
         "label": "EM0164_50_0",
         "name": {
-            "cn": "白炽龙",
-            "en": "Zoh Shia",
-            "jp": "ゾ・シア"
+            "ar-sa": "زو شيا",
+            "de-de": "Zoh Shia",
+            "en-us": "Zoh Shia",
+            "es-es": "Zoh Shia",
+            "es-la": "Zoh Shia",
+            "fr-fr": "Zoh Shia",
+            "it-it": "Zoh Shia",
+            "ja-jp": "ゾ・シア",
+            "ko-kr": "조 시아",
+            "pl-pl": "Zoh Shia",
+            "pt-br": "Zoh Shia",
+            "ru-ru": "Зо Шиа",
+            "zh-cn": "白炽龙",
+            "zh-tw": "白熾龍"
         }
     },
     {
-        "id": 33,
         "fixedId": -334290336,
+        "id": 33,
         "label": "EM0165_00_0",
         "name": {
-            "cn": "猫式训练用拳击木桶靶",
-            "en": "High Purrformance Barrel Puncher",
-            "jp": "ネコ式訓練タルパンチャー"
+            "ar-sa": "مثقب براميل عالي الأداء",
+            "de-de": "Miau-Drauf",
+            "en-us": "High Purrformance Barrel Puncher",
+            "es-es": "Garromato de entrenamiento",
+            "es-la": "Miauniquí de alto rendimiento",
+            "fr-fr": "Barilator miaousse costaud",
+            "it-it": "Allenabotte perrrformante",
+            "ja-jp": "ネコ式訓練タルパンチャー",
+            "ko-kr": "고양이 훈련 통 펀처",
+            "pl-pl": "Zaaw. miaunekin treningowy",
+            "pt-br": "Barril Brigão de Alta Performiauce",
+            "ru-ru": "Замурчательный бочкобой",
+            "zh-cn": "猫式训练用拳击木桶靶",
+            "zh-tw": "貓式訓練用拳擊木桶靶"
         }
     },
     {
-        "id": 34,
         "fixedId": 21849,
+        "id": 34,
         "label": "EM0166_00_0",
         "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
+            "ar-sa": "أوميغا بلانيتيس",
+            "de-de": "Omega Planetes",
+            "en-us": "Omega Planetes",
+            "es-es": "Omega Planetes",
+            "es-la": "Omega Planetes",
+            "fr-fr": "Oméga Planetikos",
+            "it-it": "Omega Planetes",
+            "ja-jp": "オメガ・プラネテス",
+            "ko-kr": "오메가 플라네테스",
+            "pl-pl": "Omega Planetes",
+            "pt-br": "Omega Planetes",
+            "ru-ru": "Омега-Планетес",
+            "zh-cn": "游星欧米茄",
+            "zh-tw": "遊星歐米茄"
         }
     },
     {
-        "id": 35,
         "fixedId": 580794112,
+        "id": 35,
         "label": "EM1006_00_0",
         "name": {
-            "cn": "巨蜂",
-            "en": "Vespoid",
-            "jp": "ランゴスタ"
+            "ar-sa": "فيسبويد",
+            "de-de": "Vespoid",
+            "en-us": "Vespoid",
+            "es-es": "Vespoid",
+            "es-la": "Vespoid",
+            "fr-fr": "Vespoid",
+            "it-it": "Vespoid",
+            "ja-jp": "ランゴスタ",
+            "ko-kr": "랑고스타",
+            "pl-pl": "Vespoid",
+            "pt-br": "Vespoidea",
+            "ru-ru": "Осоид",
+            "zh-cn": "巨蜂",
+            "zh-tw": "巨蜂"
         }
     },
     {
-        "id": 36,
         "fixedId": -199376720,
+        "id": 36,
         "label": "EM1022_00_0",
         "name": {
-            "cn": "桃毛兽",
-            "en": "Conga",
-            "jp": "コンガ"
+            "ar-sa": "كونغا",
+            "de-de": "Conga",
+            "en-us": "Conga",
+            "es-es": "Conga",
+            "es-la": "Conga",
+            "fr-fr": "Conga",
+            "it-it": "Conga",
+            "ja-jp": "コンガ",
+            "ko-kr": "콩가",
+            "pl-pl": "Konga",
+            "pt-br": "Conga",
+            "ru-ru": "Конга",
+            "zh-cn": "桃毛兽",
+            "zh-tw": "桃毛獸"
         }
     },
     {
-        "id": 37,
         "fixedId": -1691669248,
+        "id": 37,
         "label": "EM1023_00_0",
         "name": {
-            "cn": "雪狮子",
-            "en": "Blango",
-            "jp": "ブランゴ"
+            "ar-sa": "بلانغو",
+            "de-de": "Blango",
+            "en-us": "Blango",
+            "es-es": "Blango",
+            "es-la": "Blango",
+            "fr-fr": "Blango",
+            "it-it": "Blango",
+            "ja-jp": "ブランゴ",
+            "ko-kr": "블랑고",
+            "pl-pl": "Blango",
+            "pt-br": "Blango",
+            "ru-ru": "Бланго",
+            "zh-cn": "雪狮子",
+            "zh-tw": "雪獅子"
         }
     },
     {
-        "id": 38,
-        "fixedId": -1466235776,
-        "label": "EM1062_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 39,
         "fixedId": 17,
+        "id": 39,
         "label": "EM1150_00_0",
         "name": {
-            "cn": "雷甲龙♂",
-            "en": "Ceratonoth (Male)",
-            "jp": "ケラトノス♂"
+            "ar-sa": "سيراتونوث (ذكر)",
+            "de-de": "Ceratonoth-Männchen",
+            "en-us": "Ceratonoth (Male)",
+            "es-es": "Ceratonoth (macho)",
+            "es-la": "Ceratonoth (macho)",
+            "fr-fr": "Ceratonoth (m)",
+            "it-it": "Ceratonoth [M]",
+            "ja-jp": "ケラトノス♂",
+            "ko-kr": "케라토노스♂",
+            "pl-pl": "Ceratonoth (samiec)",
+            "pt-br": "Ceratonoth (Macho)",
+            "ru-ru": "Цератонот (самец)",
+            "zh-cn": "雷甲龙♂",
+            "zh-tw": "雷甲龍♂"
         }
     },
     {
-        "id": 40,
         "fixedId": 19,
+        "id": 40,
         "label": "EM1150_00_1",
         "name": {
-            "cn": "雷甲龙♀",
-            "en": "Ceratonoth (Female)",
-            "jp": "ケラトノス♀"
+            "ar-sa": "سيراتونوث (أنثى)",
+            "de-de": "Ceratonoth-Weibchen",
+            "en-us": "Ceratonoth (Female)",
+            "es-es": "Ceratonoth (hembra)",
+            "es-la": "Ceratonoth (hembra)",
+            "fr-fr": "Ceratonoth (f)",
+            "it-it": "Ceratonoth [F]",
+            "ja-jp": "ケラトノス♀",
+            "ko-kr": "케라토노스♀",
+            "pl-pl": "Ceratonoth (samica)",
+            "pt-br": "Ceratonoth (Fêmea)",
+            "ru-ru": "Цератонот (самка)",
+            "zh-cn": "雷甲龙♀",
+            "zh-tw": "雷甲龍♀"
         }
     },
     {
-        "id": 41,
         "fixedId": 18,
+        "id": 41,
         "label": "EM1151_00_0",
         "name": {
-            "cn": "盾突龙",
-            "en": "Dalthydon",
-            "jp": "ダルトドン"
+            "ar-sa": "دالثيدون",
+            "de-de": "Dalthydon",
+            "en-us": "Dalthydon",
+            "es-es": "Dalthydon",
+            "es-la": "Dalthydon",
+            "fr-fr": "Dalthydon",
+            "it-it": "Dalthydon",
+            "ja-jp": "ダルトドン",
+            "ko-kr": "달루토돈",
+            "pl-pl": "Dalthydon",
+            "pt-br": "Dalthydon",
+            "ru-ru": "Дальтидон",
+            "zh-cn": "盾突龙",
+            "zh-tw": "盾突龍"
         }
     },
     {
-        "id": 42,
         "fixedId": 1909526144,
+        "id": 42,
         "label": "EM1151_00_1",
         "name": {
-            "cn": "盾突龙（家畜种）",
-            "en": "Dalthydon (Livestock)",
-            "jp": "ダルトドン（家畜種）"
+            "ar-sa": "دالثيدون (ماشية)",
+            "de-de": "Dalthydon (Nutztier)",
+            "en-us": "Dalthydon (Livestock)",
+            "es-es": "Dalthydon (ganado)",
+            "es-la": "Dalthydon (doméstico)",
+            "fr-fr": "Dalthydon (domestique)",
+            "it-it": "Dalthydon (bestiame)",
+            "ja-jp": "ダルトドン（家畜種）",
+            "ko-kr": "달루토돈(가축종)",
+            "pl-pl": "Dalthydon (hodowlany)",
+            "pt-br": "Dalthydon (Rebanho)",
+            "ru-ru": "Дальтидон (скот)",
+            "zh-cn": "盾突龙（家畜种）",
+            "zh-tw": "盾突龍（家畜種）"
         }
     },
     {
-        "id": 43,
         "fixedId": 71428824,
+        "id": 43,
         "label": "EM1152_00_0",
         "name": {
-            "cn": "血盗虫",
-            "en": "Bulaqchi",
-            "jp": "ブブラチカ"
+            "ar-sa": "بولاكتشي",
+            "de-de": "Bulaqchi",
+            "en-us": "Bulaqchi",
+            "es-es": "Bulaqchi",
+            "es-la": "Bulaqchi",
+            "fr-fr": "Bulaqchi",
+            "it-it": "Bulaqchi",
+            "ja-jp": "ブブラチカ",
+            "ko-kr": "브브라치카",
+            "pl-pl": "Bulaqchi",
+            "pt-br": "Bulaqchi",
+            "ru-ru": "Булакчи",
+            "zh-cn": "血盗虫",
+            "zh-tw": "血刺蟲"
         }
     },
     {
-        "id": 44,
         "fixedId": 34,
+        "id": 44,
         "label": "EM1153_00_0",
         "name": {
-            "cn": "钳速龙",
-            "en": "Talioth",
-            "jp": "タリオス"
+            "ar-sa": "تاليوث",
+            "de-de": "Talioth",
+            "en-us": "Talioth",
+            "es-es": "Talioth",
+            "es-la": "Talioth",
+            "fr-fr": "Talioth",
+            "it-it": "Talioth",
+            "ja-jp": "タリオス",
+            "ko-kr": "탈리오스",
+            "pl-pl": "Talioth",
+            "pt-br": "Talioth",
+            "ru-ru": "Талиот",
+            "zh-cn": "钳速龙",
+            "zh-tw": "銳猛龍"
         }
     },
     {
-        "id": 45,
         "fixedId": -1302731776,
+        "id": 45,
         "label": "EM1154_00_0",
         "name": {
-            "cn": "爆翼龙",
-            "en": "Baunos",
-            "jp": "バオノス"
+            "ar-sa": "بانوس",
+            "de-de": "Baunos",
+            "en-us": "Baunos",
+            "es-es": "Baunos",
+            "es-la": "Baunos",
+            "fr-fr": "Baunos",
+            "it-it": "Baunos",
+            "ja-jp": "バオノス",
+            "ko-kr": "바오노스",
+            "pl-pl": "Baunos",
+            "pt-br": "Baunos",
+            "ru-ru": "Баунос",
+            "zh-cn": "爆翼龙",
+            "zh-tw": "音翅龍"
         }
     },
     {
-        "id": 46,
         "fixedId": 1042601600,
+        "id": 46,
         "label": "EM1155_00_0",
         "name": {
-            "cn": "棘吻龙",
-            "en": "Gajios",
-            "jp": "ガジオス"
+            "ar-sa": "غاجيوس",
+            "de-de": "Gajios",
+            "en-us": "Gajios",
+            "es-es": "Gajios",
+            "es-la": "Gajios",
+            "fr-fr": "Gajios",
+            "it-it": "Gajios",
+            "ja-jp": "ガジオス",
+            "ko-kr": "가지오스",
+            "pl-pl": "Gajios",
+            "pt-br": "Gajios",
+            "ru-ru": "Гаджиос",
+            "zh-cn": "棘吻龙",
+            "zh-tw": "鋸吻龍"
         }
     },
     {
-        "id": 47,
         "fixedId": -37537660,
+        "id": 47,
         "label": "EM1156_00_0",
         "name": {
-            "cn": "锯带龙",
-            "en": "Piragill",
-            "jp": "ピラギル"
+            "ar-sa": "بيراغيل",
+            "de-de": "Piragill",
+            "en-us": "Piragill",
+            "es-es": "Piragill",
+            "es-la": "Piragill",
+            "fr-fr": "Piragill",
+            "it-it": "Piragill",
+            "ja-jp": "ピラギル",
+            "ko-kr": "필라길",
+            "pl-pl": "Piragill",
+            "pt-br": "Piragill",
+            "ru-ru": "Пирагилл",
+            "zh-cn": "锯带龙",
+            "zh-tw": "棘鰭龍"
         }
     },
     {
-        "id": 48,
         "fixedId": 1176986112,
+        "id": 48,
         "label": "EM1157_00_0",
         "name": {
-            "cn": "刺枪翼龙",
-            "en": "Harpios",
-            "jp": "ハルプス"
+            "ar-sa": "هاربيوس",
+            "de-de": "Harpios",
+            "en-us": "Harpios",
+            "es-es": "Harpios",
+            "es-la": "Harpios",
+            "fr-fr": "Harpios",
+            "it-it": "Harpios",
+            "ja-jp": "ハルプス",
+            "ko-kr": "하르푸스",
+            "pl-pl": "Harpios",
+            "pt-br": "Harpios",
+            "ru-ru": "Гарпиос",
+            "zh-cn": "刺枪翼龙",
+            "zh-tw": "銛刺龍"
         }
     },
     {
-        "id": 49,
         "fixedId": 1097544832,
+        "id": 49,
         "label": "EM1158_00_0",
         "name": {
-            "cn": "盔速龙",
-            "en": "Kranodath",
-            "jp": "クラノダス"
+            "ar-sa": "كرانوداث",
+            "de-de": "Kranodath",
+            "en-us": "Kranodath",
+            "es-es": "Kranodath",
+            "es-la": "Kranodath",
+            "fr-fr": "Kranodath",
+            "it-it": "Kranodath",
+            "ja-jp": "クラノダス",
+            "ko-kr": "크라노다스",
+            "pl-pl": "Kranodath",
+            "pt-br": "Kranodath",
+            "ru-ru": "Кранодат",
+            "zh-cn": "盔速龙",
+            "zh-tw": "盔猛龍"
         }
     },
     {
-        "id": 50,
         "fixedId": 827389184,
+        "id": 50,
         "label": "EM1159_00_0",
         "name": {
-            "cn": "血眠虫",
-            "en": "Comaqchi",
-            "jp": "ネマラチカ"
+            "ar-sa": "كوماكتشي",
+            "de-de": "Comaqchi",
+            "en-us": "Comaqchi",
+            "es-es": "Comaqchi",
+            "es-la": "Comaqchi",
+            "fr-fr": "Comaqchi",
+            "it-it": "Comaqchi",
+            "ja-jp": "ネマラチカ",
+            "ko-kr": "네마라치카",
+            "pl-pl": "Comaqchi",
+            "pt-br": "Comaqchi",
+            "ru-ru": "Комакчи",
+            "zh-cn": "血眠虫",
+            "zh-tw": "眠刺蟲"
         }
     },
     {
-        "id": 51,
         "fixedId": 236738432,
+        "id": 51,
         "label": "EM1160_00_0",
         "name": {
-            "cn": "胶鲵",
-            "en": "Gelidron",
-            "jp": "ゼレドロン"
+            "ar-sa": "جيليدرون",
+            "de-de": "Gelidron",
+            "en-us": "Gelidron",
+            "es-es": "Gelidron",
+            "es-la": "Gelidron",
+            "fr-fr": "Gelidron",
+            "it-it": "Gelidron",
+            "ja-jp": "ゼレドロン",
+            "ko-kr": "젤레도론",
+            "pl-pl": "Gelidron",
+            "pt-br": "Gelidron",
+            "ru-ru": "Гелидрон",
+            "zh-cn": "胶鲵",
+            "zh-tw": "膠鯢"
         }
     },
     {
-        "id": 52,
         "fixedId": 1460588672,
+        "id": 52,
         "label": "EM1161_00_0",
         "name": {
-            "cn": "电角兽",
-            "en": "Rafma",
-            "jp": "ラフマー"
+            "ar-sa": "رافما",
+            "de-de": "Rafma",
+            "en-us": "Rafma",
+            "es-es": "Rafma",
+            "es-la": "Rafma",
+            "fr-fr": "Rafma",
+            "it-it": "Rafma",
+            "ja-jp": "ラフマー",
+            "ko-kr": "라프마",
+            "pl-pl": "Rafma",
+            "pt-br": "Rafma",
+            "ru-ru": "Рафма",
+            "zh-cn": "电角兽",
+            "zh-tw": "電角獸"
         }
     },
     {
-        "id": 53,
         "fixedId": 277782464,
+        "id": 53,
         "label": "EM1162_00_0",
         "name": {
-            "cn": "箭羽龙",
-            "en": "Porkeplume",
-            "jp": "ポルケピナ"
+            "ar-sa": "بوركيبلوم",
+            "de-de": "Porkeplume",
+            "en-us": "Porkeplume",
+            "es-es": "Porkeplume",
+            "es-la": "Porkeplume",
+            "fr-fr": "Porkeplume",
+            "it-it": "Porkeplume",
+            "ja-jp": "ポルケピナ",
+            "ko-kr": "포케피나",
+            "pl-pl": "Porkeplume",
+            "pt-br": "Porkeplume",
+            "ru-ru": "Поркеплюм",
+            "zh-cn": "箭羽龙",
+            "zh-tw": "箭羽獸"
         }
     },
     {
-        "id": 54,
         "fixedId": 1412682112,
+        "id": 54,
         "label": "EM1163_00_0",
         "name": {
-            "cn": "稚影蜘蛛",
-            "en": "Nerscylla Hatchling",
-            "jp": "ネルスキュラベビー"
+            "ar-sa": "صغير نيرسكيلا",
+            "de-de": "Nerscylla-Junges",
+            "en-us": "Nerscylla Hatchling",
+            "es-es": "Larva de Nerscylla",
+            "es-la": "Cría de Nerscylla",
+            "fr-fr": "Nerscylla (bébé)",
+            "it-it": "Progenie di Nerscylla",
+            "ja-jp": "ネルスキュラベビー",
+            "ko-kr": "네르스큐라 베이비",
+            "pl-pl": "Pisklę Nerscylli",
+            "pt-br": "Filhote de Nerscylla",
+            "ru-ru": "Детёныш нерскиллы",
+            "zh-cn": "稚影蜘蛛",
+            "zh-tw": "稚影蜘蛛"
         }
     },
     {
-        "id": 55,
         "fixedId": -643207680,
+        "id": 55,
         "label": "EM1164_50_0",
         "name": {
-            "cn": "护鹭鹰龙",
-            "en": "Guardian Seikret",
-            "jp": "護竜セクレト"
+            "ar-sa": "سيكريت حارس",
+            "de-de": "Wächter-Saikrii",
+            "en-us": "Guardian Seikret",
+            "es-es": "Seikret Guardián",
+            "es-la": "Seikret Guardián",
+            "fr-fr": "Seikret Gardien",
+            "it-it": "Seikret guardiano",
+            "ja-jp": "護竜セクレト",
+            "ko-kr": "수호룡 세크레트",
+            "pl-pl": "Seikret Strażnik",
+            "pt-br": "Seikret Guardião",
+            "ru-ru": "Сейкрет-страж",
+            "zh-cn": "护鹭鹰龙",
+            "zh-tw": "護鷺鷹龍"
         }
     },
     {
-        "id": 56,
         "fixedId": 20326,
+        "id": 56,
         "label": "EM1165_00_0",
         "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
+            "ar-sa": "آلات أوميغا الصغيرة",
+            "de-de": "Omega Micros",
+            "en-us": "Omega Micros",
+            "es-es": "Omega Micros",
+            "es-la": "Omega Micros",
+            "fr-fr": "Oméga Micros",
+            "it-it": "Omega Micros",
+            "ja-jp": "オメガ・ミクロス",
+            "ko-kr": "오메가 미크로스",
+            "pl-pl": "Omega Micros",
+            "pt-br": "Omega Micros",
+            "ru-ru": "Омега-Микрос",
+            "zh-cn": "微型欧米茄",
+            "zh-tw": "微型歐米茄"
         }
     },
     {
-        "id": 57,
         "fixedId": 30,
+        "id": 57,
         "label": "EM5001_00_0",
         "name": {
-            "cn": "麻痹瓦斯蛙",
-            "en": "Paratoad",
-            "jp": "シビレガスガエル"
+            "ar-sa": "علجوم الشلل",
+            "de-de": "Lähmkröte",
+            "en-us": "Paratoad",
+            "es-es": "Paralisapo",
+            "es-la": "Paralisapo",
+            "fr-fr": "Paralycrapaud",
+            "it-it": "Pararospo",
+            "ja-jp": "シビレガスガエル",
+            "ko-kr": "마비가스 두꺼비",
+            "pl-pl": "Pararopucha",
+            "pt-br": "Paralissapo",
+            "ru-ru": "Парализующая жаба",
+            "zh-cn": "麻痹瓦斯蛙",
+            "zh-tw": "麻痺瓦斯蛙"
         }
     },
     {
-        "id": 58,
         "fixedId": -981589888,
+        "id": 58,
         "label": "EM5001_10_0",
         "name": {
-            "cn": "爆炸瓦斯蛙",
-            "en": "Nitrotoad",
-            "jp": "ニトロガスガエル"
+            "ar-sa": "علجوم نيتروجيني",
+            "de-de": "Nitrokröte",
+            "en-us": "Nitrotoad",
+            "es-es": "Fogosapo",
+            "es-la": "Fogosapo",
+            "fr-fr": "Nitrocrapaud",
+            "it-it": "Nitrorospo",
+            "ja-jp": "ニトロガスガエル",
+            "ko-kr": "니트로가스 두꺼비",
+            "pl-pl": "Nitroropucha",
+            "pt-br": "Nitrossapo",
+            "ru-ru": "Нитрожаба",
+            "zh-cn": "爆炸瓦斯蛙",
+            "zh-tw": "爆炸瓦斯蛙"
         }
     },
     {
-        "id": 59,
         "fixedId": -975176640,
+        "id": 59,
         "label": "EM5001_20_0",
         "name": {
-            "cn": "睡眠瓦斯蛙",
-            "en": "Sleeptoad",
-            "jp": "ネムリガスガエル"
+            "ar-sa": "علجوم النوم",
+            "de-de": "Schlafkröte",
+            "en-us": "Sleeptoad",
+            "es-es": "Somnosapo",
+            "es-la": "Somnosapo",
+            "fr-fr": "Somnicrapaud",
+            "it-it": "Ronforospo",
+            "ja-jp": "ネムリガスガエル",
+            "ko-kr": "수면가스 두꺼비",
+            "pl-pl": "Snoropucha",
+            "pt-br": "Soníssapo",
+            "ru-ru": "Сонная жаба",
+            "zh-cn": "睡眠瓦斯蛙",
+            "zh-tw": "睡眠瓦斯蛙"
         }
     },
     {
-        "id": 60,
         "fixedId": 31,
+        "id": 60,
         "label": "EM5002_00_0",
         "name": {
-            "cn": "回复蜜虫",
-            "en": "Vigorwasp",
-            "jp": "回復ミツムシ"
+            "ar-sa": "نحلة الحيوية",
+            "de-de": "Vitalitätswespe",
+            "en-us": "Vigorwasp",
+            "es-es": "Melífera vitae",
+            "es-la": "Melífera vitae",
+            "fr-fr": "Vitaguêpe",
+            "it-it": "Vigorvespa",
+            "ja-jp": "回復ミツムシ",
+            "ko-kr": "회복 꿀벌레",
+            "pl-pl": "Wigorosa",
+            "pt-br": "Vigorespa",
+            "ru-ru": "Исцеляющая оса",
+            "zh-cn": "回复蜜虫",
+            "zh-tw": "回復蜜蟲"
         }
     },
     {
-        "id": 61,
         "fixedId": -1088342528,
+        "id": 61,
         "label": "EM5002_01_0",
         "name": {
-            "cn": "大回复蜜虫",
-            "en": "Giant Vigorwasp",
-            "jp": "大回復ミツムシ"
+            "ar-sa": "نحلة الحيوية العملاقة",
+            "de-de": "Riesige Vitalitätswespe",
+            "en-us": "Giant Vigorwasp",
+            "es-es": "Melífera vitae gigante",
+            "es-la": "Melífera vitae gigante",
+            "fr-fr": "Grande vitaguêpe",
+            "it-it": "Vigorvespa gigante",
+            "ja-jp": "大回復ミツムシ",
+            "ko-kr": "대회복 꿀벌레",
+            "pl-pl": "Ogromna wigorosa",
+            "pt-br": "Vigorespa Gigante",
+            "ru-ru": "Гигантская исцеляющая оса",
+            "zh-cn": "大回复蜜虫",
+            "zh-tw": "大回復蜜蟲"
         }
     },
     {
-        "id": 62,
         "fixedId": 772997056,
+        "id": 62,
         "label": "EM5002_10_0",
         "name": {
-            "cn": "净化蜜虫",
-            "en": "Purewasp",
-            "jp": "浄化ミツムシ"
+            "ar-sa": "دبور التطهير",
+            "de-de": "Reinigungswespe",
+            "en-us": "Purewasp",
+            "es-es": "Melífera pura",
+            "es-la": "Avispura",
+            "fr-fr": "Curaguêpe",
+            "it-it": "Puravespa",
+            "ja-jp": "浄化ミツムシ",
+            "ko-kr": "정화 꿀벌레",
+            "pl-pl": "Bolica spijka",
+            "pt-br": "Vespurga",
+            "ru-ru": "Очищающая оса",
+            "zh-cn": "净化蜜虫",
+            "zh-tw": "淨化蜜蟲"
         }
     },
     {
-        "id": 63,
         "fixedId": 32,
+        "id": 63,
         "label": "EM5003_00_0",
         "name": {
-            "cn": "闪光翅虫",
-            "en": "Flashflies",
-            "jp": "閃光羽虫"
+            "ar-sa": "ذباب الوامض",
+            "de-de": "Blitzfliegen",
+            "en-us": "Flashflies",
+            "es-es": "Noctilucas",
+            "es-la": "Noctilucas",
+            "fr-fr": "Flashinsectes",
+            "it-it": "Insetti abbaglio",
+            "ja-jp": "閃光羽虫",
+            "ko-kr": "섬광 날개벌레",
+            "pl-pl": "Muchy błyskówki",
+            "pt-br": "Mosclarões",
+            "ru-ru": "Светляки",
+            "zh-cn": "闪光翅虫",
+            "zh-tw": "閃光翅蟲"
         }
     },
     {
-        "id": 64,
         "fixedId": 1867164183,
+        "id": 64,
         "label": "EM5004_00_0",
         "name": {
-            "cn": "粪金龟",
-            "en": "Dung Beetle",
-            "jp": "フンコロガシ"
+            "ar-sa": "خنفساء الروث",
+            "de-de": "Mistkäfer",
+            "en-us": "Dung Beetle",
+            "es-es": "Escarabajo pelotero",
+            "es-la": "Escarabajo pelotero",
+            "fr-fr": "Scarabouse",
+            "it-it": "Stercorario",
+            "ja-jp": "フンコロガシ",
+            "ko-kr": "쇠똥구리",
+            "pl-pl": "Gnojak",
+            "pt-br": "Besouro-esterco",
+            "ru-ru": "Навозный жук",
+            "zh-cn": "粪金龟",
+            "zh-tw": "糞金龜"
         }
     },
     {
-        "id": 65,
         "fixedId": -2110443008,
+        "id": 65,
         "label": "EM5004_10_0",
         "name": {
-            "cn": "爆弹甲虫",
-            "en": "Bomb Beetle",
-            "jp": "バクダンイワコロガシ"
+            "ar-sa": "خنفساء متفجرة",
+            "de-de": "Bombenkäfer",
+            "en-us": "Bomb Beetle",
+            "es-es": "Escarabajo bombardero",
+            "es-la": "Escarabajo bombardero",
+            "fr-fr": "Scarabombe",
+            "it-it": "Scarabombo",
+            "ja-jp": "バクダンイワコロガシ",
+            "ko-kr": "폭탄 바위구리",
+            "pl-pl": "Bombożuk",
+            "pt-br": "Besouro-bomba",
+            "ru-ru": "Жук-бомба",
+            "zh-cn": "爆弹甲虫",
+            "zh-tw": "爆彈甲蟲"
         }
     },
     {
-        "id": 66,
         "fixedId": -1062803392,
+        "id": 66,
         "label": "EM5004_20_0",
         "name": {
-            "cn": "雪球虫",
-            "en": "Rime Beetle",
-            "jp": "ユキダマコガネ"
+            "ar-sa": "خنفساء الصقيع",
+            "de-de": "Reifkäfer",
+            "en-us": "Rime Beetle",
+            "es-es": "Escarabajo nival",
+            "es-la": "Escaralado",
+            "fr-fr": "Scarabée des neiges",
+            "it-it": "Scaraghiaccio",
+            "ja-jp": "ユキダマコガネ",
+            "ko-kr": "눈뭉치풍뎅이",
+            "pl-pl": "Żuk szronowy",
+            "pt-br": "Besouro-geada",
+            "ru-ru": "Снегожук",
+            "zh-cn": "雪球虫",
+            "zh-tw": "雪球蟲"
         }
     },
     {
-        "id": 67,
         "fixedId": -1671666944,
+        "id": 67,
         "label": "EM5005_00_0",
         "name": {
-            "cn": "回复蓑衣虫",
-            "en": "Vigormantle Bug",
-            "jp": "カイフクコロモムシ"
+            "ar-sa": "يرقانة النشاط",
+            "de-de": "Vitalitätsmäntelchen",
+            "en-us": "Vigormantle Bug",
+            "es-es": "Díptero vitalicio",
+            "es-la": "Bicho vigorocapa",
+            "fr-fr": "Vitanille",
+            "it-it": "Insetto vigormantello",
+            "ja-jp": "カイフクコロモムシ",
+            "ko-kr": "회복 껍질벌레",
+            "pl-pl": "Wigorowad",
+            "pt-br": "Inseto Mantovigor",
+            "ru-ru": "Жук-силоносец",
+            "zh-cn": "回复蓑衣虫",
+            "zh-tw": "回復蓑衣蟲"
         }
     },
     {
-        "id": 68,
         "fixedId": -1253723776,
+        "id": 68,
         "label": "EM5005_10_0",
         "name": {
-            "cn": "冰冷蓑衣虫",
-            "en": "Chillmantle Bug",
-            "jp": "ヒンヤリコロモムシ"
+            "ar-sa": "حشرة عباءة البرودة",
+            "de-de": "Frostmäntelchen",
+            "en-us": "Chillmantle Bug",
+            "es-es": "Díptero refrigerio",
+            "es-la": "Bicho escarchado",
+            "fr-fr": "Glacianille",
+            "it-it": "Insetto gelomantello",
+            "ja-jp": "ヒンヤリコロモムシ",
+            "ko-kr": "서늘 껍질벌레",
+            "pl-pl": "Szronka kapturnica",
+            "pt-br": "Inseto Mantogélido",
+            "ru-ru": "Жук-хладоносец",
+            "zh-cn": "冰冷蓑衣虫",
+            "zh-tw": "冰冷蓑衣蟲"
         }
     },
     {
-        "id": 69,
         "fixedId": -1492623616,
+        "id": 69,
         "label": "EM5005_20_0",
         "name": {
-            "cn": "温暖蓑衣虫",
-            "en": "Heatmantle Bug",
-            "jp": "ホカホカコロモムシ"
+            "ar-sa": "حشرة عباءة الحرارة",
+            "de-de": "Hitzemäntelchen",
+            "en-us": "Heatmantle Bug",
+            "es-es": "Díptero calefacto",
+            "es-la": "Bicho flamígero",
+            "fr-fr": "Calonille",
+            "it-it": "Insetto scaldamantello",
+            "ja-jp": "ホカホカコロモムシ",
+            "ko-kr": "따끈 껍질벌레",
+            "pl-pl": "Żaronka kapturnica",
+            "pt-br": "Inseto Mantérmico",
+            "ru-ru": "Жук-жароносец",
+            "zh-cn": "温暖蓑衣虫",
+            "zh-tw": "溫熱蓑衣蟲"
         }
     },
     {
-        "id": 70,
         "fixedId": -1873843456,
+        "id": 70,
         "label": "EM5006_00_0",
         "name": {
-            "cn": "耐力雷虫",
-            "en": "Wiggly Litchi",
-            "jp": "スタミナライチュウ"
+            "ar-sa": "يرقة الدودة",
+            "de-de": "Ausdauer-Insektenlarven",
+            "en-us": "Wiggly Litchi",
+            "es-es": "Lichibichos",
+            "es-la": "Lichibichos",
+            "fr-fr": "Chenille-litchi",
+            "it-it": "Larva resistenza",
+            "ja-jp": "スタミナライチュウ",
+            "ko-kr": "스태미나 유충",
+            "pl-pl": "Wijoliczki",
+            "pt-br": "Lichia Agitada",
+            "ru-ru": "Волнистый личи",
+            "zh-cn": "耐力雷虫",
+            "zh-tw": "耐力雷蟲"
         }
     },
     {
-        "id": 71,
         "fixedId": -583257216,
+        "id": 71,
         "label": "EM5007_00_0",
         "name": {
-            "cn": "照暗蜂",
-            "en": "Dark Hornet",
-            "jp": "ヤミテラシバチ"
+            "ar-sa": "دبور الظلام",
+            "de-de": "Finsterhornisse",
+            "en-us": "Dark Hornet",
+            "es-es": "Avispón oscuro",
+            "es-la": "Avispón oscuro",
+            "fr-fr": "Frelon clair-obscur",
+            "it-it": "Calabrone oscuro",
+            "ja-jp": "ヤミテラシバチ",
+            "ko-kr": "어둠비추미 벌",
+            "pl-pl": "Ciemny szerszeń",
+            "pt-br": "Vespão Umbroso",
+            "ru-ru": "Тёмный шершень",
+            "zh-cn": "照暗蜂",
+            "zh-tw": "照黑蜂"
         }
     },
     {
-        "id": 72,
         "fixedId": 1080620416,
+        "id": 72,
         "label": "EM5008_00_0",
         "name": {
-            "cn": "大雷光虫",
-            "en": "Great Thunderbugs",
-            "jp": "大雷光虫"
+            "ar-sa": "حشرات الصّاعقة الكبيرة",
+            "de-de": "Große Donnerkäfer",
+            "en-us": "Great Thunderbugs",
+            "es-es": "Grandes electrobichos",
+            "es-la": "Gran electrobicho",
+            "fr-fr": "Grands foudrinsectes",
+            "it-it": "Insetti tuono grandi",
+            "ja-jp": "大雷光虫",
+            "ko-kr": "대뇌광충",
+            "pl-pl": "Gromuszki wielkie",
+            "pt-br": "Grande Insetrovão",
+            "ru-ru": "Большие грозовые жуки",
+            "zh-cn": "大雷光虫",
+            "zh-tw": "大雷光蟲"
         }
     },
     {
-        "id": 73,
         "fixedId": -751443392,
+        "id": 73,
         "label": "EM5009_00_0",
         "name": {
-            "cn": "楔虫",
-            "en": "Wedge Beetle",
-            "jp": "楔虫"
+            "ar-sa": "خنفساء الوتد",
+            "de-de": "Keilkäfer",
+            "en-us": "Wedge Beetle",
+            "es-es": "Escarabajo cuña",
+            "es-la": "Escarabajo cuña",
+            "fr-fr": "Scaragrappin",
+            "it-it": "Cuneottero",
+            "ja-jp": "楔虫",
+            "ko-kr": "쐐기벌레",
+            "pl-pl": "Żuk klinowy",
+            "pt-br": "Besouro-cunha",
+            "ru-ru": "Клиновидный жук",
+            "zh-cn": "楔虫",
+            "zh-tw": "楔蟲"
         }
     },
     {
+        "fixedId": 9549,
         "id": 74,
+        "label": "EM5010_00_0",
+        "name": {
+            "ar-sa": "الصبار",
+            "de-de": "Kaktor",
+            "en-us": "Cactuar",
+            "es-es": "Cactilio",
+            "es-la": "Cactilio",
+            "fr-fr": "Pampa",
+            "it-it": "Kyactus",
+            "ja-jp": "サボテンダー",
+            "ko-kr": "사보텐더",
+            "pl-pl": "Kaktuar",
+            "pt-br": "Cactuar",
+            "ru-ru": "Кактуар",
+            "zh-cn": "仙人刺",
+            "zh-tw": "仙人掌"
+        }
+    },
+    {
+        "fixedId": 31768,
+        "id": 75,
+        "label": "EM5011_00_0",
+        "name": {
+            "ar-sa": "نبتة موربول",
+            "de-de": "Morbol-Keimling",
+            "en-us": "Morbol Seedling",
+            "es-es": "Cría de molbol",
+            "es-la": "Cría de morbol",
+            "fr-fr": "Pousse de morbol",
+            "it-it": "Piantina di molboro",
+            "ja-jp": "モルボル・シードリング",
+            "ko-kr": "몰볼 묘목",
+            "pl-pl": "Sadzonka morbola",
+            "pt-br": "Muda de Morbol",
+            "ru-ru": "Саженец морбола",
+            "zh-cn": "魔界花幼苗",
+            "zh-tw": "毛爾波爾幼苗"
+        }
+    },
+    {
         "fixedId": 23,
+        "id": 76,
         "label": "EM5100_00_0",
         "name": {
-            "cn": "雷光虫",
-            "en": "Thunderbug",
-            "jp": "雷光虫"
+            "ar-sa": "حشرة الصّاعقة",
+            "de-de": "Donnerkäfer",
+            "en-us": "Thunderbug",
+            "es-es": "Electrobicho",
+            "es-la": "Electrobicho",
+            "fr-fr": "Foudrinsectes",
+            "it-it": "Insetti tuono",
+            "ja-jp": "雷光虫",
+            "ko-kr": "뇌광충",
+            "pl-pl": "Gromuszek",
+            "pt-br": "Insetrovão",
+            "ru-ru": "Грозовой жук",
+            "zh-cn": "雷光虫",
+            "zh-tw": "雷光蟲"
         }
     },
     {
-        "id": 75,
         "fixedId": 764870976,
+        "id": 77,
         "label": "EM5101_00_0",
         "name": {
-            "cn": "光虫",
-            "en": "Flashbug",
-            "jp": "光蟲"
+            "ar-sa": "حشرة الوميض",
+            "de-de": "Blitzkäfer",
+            "en-us": "Flashbug",
+            "es-es": "Luminsecto",
+            "es-la": "Luminsecto",
+            "fr-fr": "Scaralux",
+            "it-it": "Insetto lampo",
+            "ja-jp": "光蟲",
+            "ko-kr": "광충",
+            "pl-pl": "Błyskowad",
+            "pt-br": "Lampejinseto",
+            "ru-ru": "Светожук",
+            "zh-cn": "光虫",
+            "zh-tw": "光蟲"
         }
     },
     {
-        "id": 76,
         "fixedId": 2064964352,
+        "id": 78,
         "label": "EM5101_10_0",
         "name": {
-            "cn": "不死虫",
-            "en": "Godbug",
-            "jp": "不死虫"
+            "ar-sa": "الحشرة العظيمة",
+            "de-de": "Götterkäfer",
+            "en-us": "Godbug",
+            "es-es": "Bicho divino",
+            "es-la": "Bicho divino",
+            "fr-fr": "Insecte immortel",
+            "it-it": "Insetto divino",
+            "ja-jp": "不死虫",
+            "ko-kr": "불사충",
+            "pl-pl": "Boski owad",
+            "pt-br": "Inseto-deus",
+            "ru-ru": "Божественный жук",
+            "zh-cn": "不死虫",
+            "zh-tw": "不死蟲"
         }
     },
     {
-        "id": 77,
         "fixedId": -493336192,
+        "id": 79,
         "label": "EM5101_20_0",
         "name": {
-            "cn": "苦虫",
-            "en": "Bitterbug",
-            "jp": "にが虫"
+            "ar-sa": "الحشرة اللاذعة",
+            "de-de": "Bitterkäfer",
+            "en-us": "Bitterbug",
+            "es-es": "Bicho amargo",
+            "es-la": "Bicho amargo",
+            "fr-fr": "Amerinsecte",
+            "it-it": "Insetto amaro",
+            "ja-jp": "にが虫",
+            "ko-kr": "씁쓸충",
+            "pl-pl": "Goryczek",
+            "pt-br": "Amarguinseto",
+            "ru-ru": "Горький жук",
+            "zh-cn": "苦虫",
+            "zh-tw": "苦蟲"
         }
     },
     {
-        "id": 78,
         "fixedId": 721605568,
+        "id": 80,
         "label": "EM5102_00_0",
         "name": {
-            "cn": "搬叶蚁",
-            "en": "Leaflugger Ant",
-            "jp": "コノハコビアリ"
+            "ar-sa": "النملة حاملة الأوراق",
+            "de-de": "Blattschlepperameise",
+            "en-us": "Leaflugger Ant",
+            "es-es": "Hormiga portahojas",
+            "es-la": "Hormiga cargahojas",
+            "fr-fr": "Fourmifolia",
+            "it-it": "Formica portafoglie",
+            "ja-jp": "コノハコビアリ",
+            "ko-kr": "나뭇잎 운반개미",
+            "pl-pl": "Mrówka lugier",
+            "pt-br": "Formiga Dobrafolha",
+            "ru-ru": "Муравей-листоносец",
+            "zh-cn": "搬叶蚁",
+            "zh-tw": "森林搬運蟻"
         }
     },
     {
-        "id": 79,
         "fixedId": 28,
+        "id": 81,
         "label": "EM5200_00_0",
         "name": {
-            "cn": "风切龙",
-            "en": "Windrustler",
-            "jp": "カザキリカケリ"
+            "ar-sa": "لص الرياح",
+            "de-de": "Windraschler",
+            "en-us": "Windrustler",
+            "es-es": "Robavientos",
+            "es-la": "Robavientos",
+            "fr-fr": "Filovent",
+            "it-it": "Rubavento",
+            "ja-jp": "カザキリカケリ",
+            "ko-kr": "바람칼달리미",
+            "pl-pl": "Pędziwiatr",
+            "pt-br": "Eolicanto",
+            "ru-ru": "Ветреник",
+            "zh-cn": "风切龙",
+            "zh-tw": "風切龍"
         }
     },
     {
-        "id": 80,
         "fixedId": -1638943488,
+        "id": 82,
         "label": "EM5200_09_0",
         "name": {
-            "cn": "黑风切龙",
-            "en": "Black Windrustler",
-            "jp": "クロカゼカケリ"
+            "ar-sa": "لص الرياح الأسود",
+            "de-de": "Schwarzer Windraschler",
+            "en-us": "Black Windrustler",
+            "es-es": "Robavientos negro",
+            "es-la": "Robavientos negro",
+            "fr-fr": "Filovent noir",
+            "it-it": "Rubavento nero",
+            "ja-jp": "クロカゼカケリ",
+            "ko-kr": "흑풍달리미",
+            "pl-pl": "Pędziwiatr czarny",
+            "pt-br": "Eolicanto Preto",
+            "ru-ru": "Чёрный ветреник",
+            "zh-cn": "黑风切龙",
+            "zh-tw": "黑風切龍"
         }
     },
     {
-        "id": 81,
         "fixedId": 29,
+        "id": 83,
         "label": "EM5201_00_0",
         "name": {
-            "cn": "沙地龙椋鸟",
-            "en": "Nothpecker",
-            "jp": "スナチリュウツツキ"
+            "ar-sa": "نقار نوث",
+            "de-de": "Panzerpicker",
+            "en-us": "Nothpecker",
+            "es-es": "Picaescamas",
+            "es-la": "Picanoth",
+            "fr-fr": "Cérapivert",
+            "it-it": "Grattanoth",
+            "ja-jp": "スナチリュウツツキ",
+            "ko-kr": "모래용등쪼기새",
+            "pl-pl": "Notdziob",
+            "pt-br": "Bica-escamas",
+            "ru-ru": "Цератовка",
+            "zh-cn": "沙地龙椋鸟",
+            "zh-tw": "沙地龍椋鳥"
         }
     },
     {
-        "id": 82,
         "fixedId": 1476969216,
+        "id": 84,
         "label": "EM5202_00_0",
         "name": {
-            "cn": "陆萤虾",
-            "en": "Landlight Shrimp",
-            "jp": "オカホタルエビ"
+            "ar-sa": "قريدس اليابسة المتوهج",
+            "de-de": "Landlicht-Garnele",
+            "en-us": "Landlight Shrimp",
+            "es-es": "Gamba terraluz",
+            "es-la": "Camarón terraluz",
+            "fr-fr": "Crevette terralux",
+            "it-it": "Gambero terrucciola",
+            "ja-jp": "オカホタルエビ",
+            "ko-kr": "언덕반딧불 새우",
+            "pl-pl": "Krewetka ziemioświetlna",
+            "pt-br": "Camarão Terraluz",
+            "ru-ru": "Сухопутный светорачок",
+            "zh-cn": "陆萤虾",
+            "zh-tw": "陸螢蝦"
         }
     },
     {
-        "id": 83,
         "fixedId": -1194126336,
+        "id": 85,
         "label": "EM5202_10_0",
         "name": {
-            "cn": "淡红萤虾",
-            "en": "Pink Landlight Shrimp",
-            "jp": "ウスベニホタルエビ"
+            "ar-sa": "قريدس اليابسة الوردي المتوهج",
+            "de-de": "Rosa Landlicht-Garnele",
+            "en-us": "Pink Landlight Shrimp",
+            "es-es": "Gamba terraluz rosa",
+            "es-la": "Camarón terraluz rosado",
+            "fr-fr": "Crevette terralux rose",
+            "it-it": "Gambero terrucciola rosa",
+            "ja-jp": "ウスベニホタルエビ",
+            "ko-kr": "분홍반딧불 새우",
+            "pl-pl": "Różowa krewetka ziemioświetlna",
+            "pt-br": "Camarão Terraluz Rosa",
+            "ru-ru": "Роз. сухопутный светорачок",
+            "zh-cn": "淡红萤虾",
+            "zh-tw": "淡紅螢蝦"
         }
     },
     {
-        "id": 84,
         "fixedId": -1161991552,
+        "id": 86,
         "label": "EM5203_00_0",
         "name": {
-            "cn": "泡歌鸮",
-            "en": "Amstrigian",
-            "jp": "アワウタイズク"
+            "ar-sa": "طائر أمستريجيان",
+            "de-de": "Amphikauz",
+            "en-us": "Amstrigian",
+            "es-es": "Amstrigiano",
+            "es-la": "Amstrigiano",
+            "fr-fr": "Amstrigien",
+            "it-it": "Strigiorana",
+            "ja-jp": "アワウタイズク",
+            "ko-kr": "거품노래 부엉이",
+            "pl-pl": "Amstryg",
+            "pt-br": "Anstrígio",
+            "ru-ru": "Амстриган",
+            "zh-cn": "泡歌鸮",
+            "zh-tw": "泡沫歌鴞"
         }
     },
     {
-        "id": 85,
         "fixedId": -505135232,
+        "id": 87,
         "label": "EM5203_09_0",
         "name": {
-            "cn": "美声歌鸮",
-            "en": "Hymstrigian",
-            "jp": "ビセイウタイズク"
+            "ar-sa": "هيمستريجيان",
+            "de-de": "Operettenkauz",
+            "en-us": "Hymstrigian",
+            "es-es": "Imstrigiano",
+            "es-la": "Himstrigiano",
+            "fr-fr": "Hymstrigien",
+            "it-it": "Strigiorana canterina",
+            "ja-jp": "ビセイウタイズク",
+            "ko-kr": "예쁜노래 부엉이",
+            "pl-pl": "Hymstryg",
+            "pt-br": "Hinostrígio",
+            "ru-ru": "Химстриган",
+            "zh-cn": "美声歌鸮",
+            "zh-tw": "美聲歌鴞"
         }
     },
     {
-        "id": 86,
         "fixedId": 1375301632,
+        "id": 88,
         "label": "EM5204_00_0",
         "name": {
-            "cn": "蓄领蜥",
-            "en": "Rufflizard",
-            "jp": "ツメコミエリトカゲ"
+            "ar-sa": "سحلية رافلزارد",
+            "de-de": "Schwellkragenechse",
+            "en-us": "Rufflizard",
+            "es-es": "Lagartizo",
+            "es-la": "Lagartizo",
+            "fr-fr": "Gonflézard",
+            "it-it": "Giorgiertola",
+            "ja-jp": "ツメコミエリトカゲ",
+            "ko-kr": "보따리 도마뱀",
+            "pl-pl": "Kryzojaszczur",
+            "pt-br": "Sacolagarto",
+            "ru-ru": "Варанка",
+            "zh-cn": "蓄领蜥",
+            "zh-tw": "重襟蜥蜴"
         }
     },
     {
-        "id": 87,
         "fixedId": -17158564,
+        "id": 89,
         "label": "EM5204_10_0",
         "name": {
-            "cn": "火焰领蜥",
-            "en": "Ember Rufflizard",
-            "jp": "ホムラエリトカゲ"
+            "ar-sa": "سحلية الأدغال القرمزية",
+            "de-de": "Glühkragenechse",
+            "en-us": "Ember Rufflizard",
+            "es-es": "Lagartizo ámbar",
+            "es-la": "Lagartizo ígneo",
+            "fr-fr": "Gonflézard incandescent",
+            "it-it": "Giorgiertola ignea",
+            "ja-jp": "ホムラエリトカゲ",
+            "ko-kr": "불꽃 도마뱀",
+            "pl-pl": "Kryzojaszczur węglikowy",
+            "pt-br": "Sacolagarto Brasa",
+            "ru-ru": "Янтарная варанка",
+            "zh-cn": "火焰领蜥",
+            "zh-tw": "火焰傘蜥"
         }
     },
     {
-        "id": 88,
         "fixedId": 1601847808,
+        "id": 90,
         "label": "EM5204_19_0",
         "name": {
-            "cn": "燐炎领蜥",
-            "en": "Azure Rufflizard",
-            "jp": "リンエンエリトカゲ"
+            "ar-sa": "سحلية الأدغال ذات الطوق",
+            "de-de": "Blaukragenechse",
+            "en-us": "Azure Rufflizard",
+            "es-es": "Lagartizo cerúleo",
+            "es-la": "Lagartizo silvano",
+            "fr-fr": "Gonflézard azur",
+            "it-it": "Giorgiertola azzurra",
+            "ja-jp": "リンエンエリトカゲ",
+            "ko-kr": "도깨비불 도마뱀",
+            "pl-pl": "Kryzojaszczur lazurowy",
+            "pt-br": "Sacolagarto Azul",
+            "ru-ru": "Лазурная варанка",
+            "zh-cn": "燐炎领蜥",
+            "zh-tw": "燐炎傘蜥"
         }
     },
     {
-        "id": 89,
         "fixedId": -540077248,
+        "id": 91,
         "label": "EM5205_00_0",
         "name": {
-            "cn": "清腐虫",
-            "en": "Pallbug",
-            "jp": "ノベムシ"
+            "ar-sa": "حشرة النبّاش",
+            "de-de": "Besentierchen",
+            "en-us": "Pallbug",
+            "es-es": "Purgóptero",
+            "es-la": "Purgoinsecto",
+            "fr-fr": "Charoptère",
+            "it-it": "Insetto spazzino",
+            "ja-jp": "ノベムシ",
+            "ko-kr": "장송벌레",
+            "pl-pl": "Kiryczek",
+            "pt-br": "Inseto Catador",
+            "ru-ru": "Траурная мокрица",
+            "zh-cn": "清腐虫",
+            "zh-tw": "清道夫蟲"
         }
     },
     {
-        "id": 90,
         "fixedId": -1448612864,
+        "id": 92,
         "label": "EM5206_00_0",
         "name": {
-            "cn": "足迹蜥蜴",
-            "en": "Tracktail Lizard",
-            "jp": "アシアトノコシ"
+            "ar-sa": "سحلية ذيل المسار",
+            "de-de": "Spurenschwanzechse",
+            "en-us": "Tracktail Lizard",
+            "es-es": "Lagarto colahuella",
+            "es-la": "Lagarto colarastro",
+            "fr-fr": "Lézard markoda",
+            "it-it": "Lucertola tracciacoda",
+            "ja-jp": "アシアトノコシ",
+            "ko-kr": "발자국남기미",
+            "pl-pl": "Jaszczurka śladowa",
+            "pt-br": "Lagarto Caudarrastro",
+            "ru-ru": "Хвостоследка",
+            "zh-cn": "足迹蜥蜴",
+            "zh-tw": "足跡蜥蜴"
         }
     },
     {
-        "id": 91,
         "fixedId": 1863578496,
+        "id": 93,
         "label": "EM5207_00_0",
         "name": {
-            "cn": "皇帝蚱蜢",
-            "en": "Emperor Hopper",
-            "jp": "皇帝バッタ"
+            "ar-sa": "النطاط الإمبراطور",
+            "de-de": "Kaiser-Hüpfer",
+            "en-us": "Emperor Hopper",
+            "es-es": "Grillo emperador",
+            "es-la": "Grillo emperador",
+            "fr-fr": "Criquet empereur",
+            "it-it": "Cavalletta imperiale",
+            "ja-jp": "皇帝バッタ",
+            "ko-kr": "황제 메뚜기",
+            "pl-pl": "Skoczek cesarski",
+            "pt-br": "Grilo Imperador",
+            "ru-ru": "Императорский прыгун",
+            "zh-cn": "皇帝蚱蜢",
+            "zh-tw": "皇帝蚱蜢"
         }
     },
     {
-        "id": 92,
         "fixedId": -1724432512,
+        "id": 94,
         "label": "EM5207_10_0",
         "name": {
-            "cn": "暴君蚱蜢",
-            "en": "Tyrant Hopper",
-            "jp": "暴君バッタ"
+            "ar-sa": "النطاط المستبد",
+            "de-de": "Tyrannen-Hüpfer",
+            "en-us": "Tyrant Hopper",
+            "es-es": "Grillo corifeo",
+            "es-la": "Grillo corífeo",
+            "fr-fr": "Criquet tyran",
+            "it-it": "Cavalletta tiranno",
+            "ja-jp": "暴君バッタ",
+            "ko-kr": "폭군 메뚜기",
+            "pl-pl": "Skoczek tyrani",
+            "pt-br": "Grilo Tirano",
+            "ru-ru": "Прыгун-тиран",
+            "zh-cn": "暴君蚱蜢",
+            "zh-tw": "暴君蚱蜢"
         }
     },
     {
-        "id": 93,
         "fixedId": -64889380,
+        "id": 95,
         "label": "EM5208_00_0",
         "name": {
-            "cn": "大独角仙",
-            "en": "Hercudrome",
-            "jp": "ドスヘラクレス"
+            "ar-sa": "هيركودروم",
+            "de-de": "Herkudrom",
+            "en-us": "Hercudrome",
+            "es-es": "Hercudrome",
+            "es-la": "Hercudrome",
+            "fr-fr": "Hercudrome",
+            "it-it": "Insetto ercole",
+            "ja-jp": "ドスヘラクレス",
+            "ko-kr": "도스헤라클레스",
+            "pl-pl": "Herkudrom",
+            "pt-br": "Hercúdrome",
+            "ru-ru": "Геркудром",
+            "zh-cn": "大独角仙",
+            "zh-tw": "大獨角仙"
         }
     },
     {
-        "id": 94,
         "fixedId": -465806688,
+        "id": 96,
         "label": "EM5208_10_0",
         "name": {
-            "cn": "金色独角仙",
-            "en": "Gold Hercudrome",
-            "jp": "ゴールデンヘラクレス"
+            "ar-sa": "هيركودروم ذهبية",
+            "de-de": "Gold-Herkudrom",
+            "en-us": "Gold Hercudrome",
+            "es-es": "Hercudrome dorado",
+            "es-la": "Hercudrome dorado",
+            "fr-fr": "Hercudrome d'or",
+            "it-it": "Insetto ercole dorato",
+            "ja-jp": "ゴールデンヘラクレス",
+            "ko-kr": "골든 헤라클레스",
+            "pl-pl": "Herkudrom złocisty",
+            "pt-br": "Hercúdrome Dourado",
+            "ru-ru": "Золотой геркудром",
+            "zh-cn": "金色独角仙",
+            "zh-tw": "金色獨角仙"
         }
     },
     {
-        "id": 95,
         "fixedId": 1908680064,
+        "id": 97,
         "label": "EM5208_20_0",
         "name": {
-            "cn": "虹色大独角仙",
-            "en": "Prism Hercudrome",
-            "jp": "虹色ドスヘラクレス"
+            "ar-sa": "هيركودروم منشورية",
+            "de-de": "Prisma-Herkudrom",
+            "en-us": "Prism Hercudrome",
+            "es-es": "Hercudrome prisma",
+            "es-la": "Hercudrome prisma",
+            "fr-fr": "Hercudrome prismatique",
+            "it-it": "Insetto ercole arcobaleno",
+            "ja-jp": "虹色ドスヘラクレス",
+            "ko-kr": "무지개색 도스헤라클레스",
+            "pl-pl": "Herkudrom pryzmatyczny",
+            "pt-br": "Hercúdrome Multicor",
+            "ru-ru": "Призматический геркудром",
+            "zh-cn": "虹色大独角仙",
+            "zh-tw": "虹色大獨角仙"
         }
     },
     {
-        "id": 96,
         "fixedId": 1638963328,
+        "id": 98,
         "label": "EM5209_00_0",
         "name": {
-            "cn": "四叶蜉蝣",
-            "en": "Quatreflies",
-            "jp": "ヨツバカゲロウ"
+            "ar-sa": "فراشات رباعية",
+            "de-de": "Tristramfliegen",
+            "en-us": "Quatreflies",
+            "es-es": "Moscuatrillos",
+            "es-la": "Cuatrimoscas",
+            "fr-fr": "Trèflémères",
+            "it-it": "Quadrifarfalle",
+            "ja-jp": "ヨツバカゲロウ",
+            "ko-kr": "사엽 하루살이",
+            "pl-pl": "Czterojętki",
+            "pt-br": "Trevoletas",
+            "ru-ru": "Четверницы",
+            "zh-cn": "四叶蜉蝣",
+            "zh-tw": "四葉蜉蝣"
         }
     },
     {
-        "id": 97,
         "fixedId": 1806879616,
+        "id": 99,
         "label": "EM5210_00_0",
         "name": {
-            "cn": "千羽蝶",
-            "en": "Myriads",
-            "jp": "センバチョウ"
+            "ar-sa": "فراشات اللانهائية",
+            "de-de": "Myriaden",
+            "en-us": "Myriads",
+            "es-es": "Miríadas",
+            "es-la": "Miríadas",
+            "fr-fr": "Myriades",
+            "it-it": "Miriadi",
+            "ja-jp": "センバチョウ",
+            "ko-kr": "천군 나비",
+            "pl-pl": "Miriady",
+            "pt-br": "Miríades",
+            "ru-ru": "Несметки",
+            "zh-cn": "千羽蝶",
+            "zh-tw": "千羽蝶"
         }
     },
     {
-        "id": 98,
         "fixedId": -1250248576,
+        "id": 100,
         "label": "EM5210_10_0",
         "name": {
-            "cn": "千羽蝶",
-            "en": "Myriads",
-            "jp": "センバチョウ"
+            "ar-sa": "فراشات اللانهائية",
+            "de-de": "Myriaden",
+            "en-us": "Myriads",
+            "es-es": "Miríadas",
+            "es-la": "Miríadas",
+            "fr-fr": "Myriades",
+            "it-it": "Miriadi",
+            "ja-jp": "センバチョウ",
+            "ko-kr": "천군 나비",
+            "pl-pl": "Miriady",
+            "pt-br": "Miríades",
+            "ru-ru": "Несметки",
+            "zh-cn": "千羽蝶",
+            "zh-tw": "千羽蝶"
         }
     },
     {
-        "id": 99,
         "fixedId": 217383408,
+        "id": 101,
         "label": "EM5211_00_0",
         "name": {
-            "cn": "宝石金龟子",
-            "en": "Jewel Scarab",
-            "jp": "ジュエルコガネ"
+            "ar-sa": "خنفساء الجواهر",
+            "de-de": "Juwelenskarabäus",
+            "en-us": "Jewel Scarab",
+            "es-es": "Escaragemo",
+            "es-la": "Escaragema",
+            "fr-fr": "Scarajoyau",
+            "it-it": "Scaragioiello",
+            "ja-jp": "ジュエルコガネ",
+            "ko-kr": "보석 풍뎅이",
+            "pl-pl": "Skarabeusz Klejnotowy",
+            "pt-br": "Escarajoia",
+            "ru-ru": "Самоцветный жук",
+            "zh-cn": "宝石金龟子",
+            "zh-tw": "寶石金龜"
         }
     },
     {
-        "id": 100,
         "fixedId": -486075200,
+        "id": 102,
         "label": "EM5211_09_0",
         "name": {
-            "cn": "瑰宝金龟子",
-            "en": "Regal Jewel Scarab",
-            "jp": "プレミアジュエルコガネ"
+            "ar-sa": "خنفساء الجواهر الملكية",
+            "de-de": "Fürstenskarabäus",
+            "en-us": "Regal Jewel Scarab",
+            "es-es": "Escaragemo real",
+            "es-la": "Escaragema regia",
+            "fr-fr": "Scarajoyau royal",
+            "it-it": "Scaragioiello reale",
+            "ja-jp": "プレミアジュエルコガネ",
+            "ko-kr": "고급보석 풍뎅이",
+            "pl-pl": "Król. Skarabeusz Klejnotowy",
+            "pt-br": "Escarajoia Real",
+            "ru-ru": "Королевский самоцветный жук",
+            "zh-cn": "瑰宝金龟子",
+            "zh-tw": "瑰寶金龜"
         }
     },
     {
-        "id": 101,
         "fixedId": -375670720,
+        "id": 103,
         "label": "EM5212_00_0",
         "name": {
-            "cn": "霞雾蜘蛛",
-            "en": "Vaporonid",
-            "jp": "カスミジョロウ"
+            "ar-sa": "فابرونويد",
+            "de-de": "Vaporonid",
+            "en-us": "Vaporonid",
+            "es-es": "Vaporónide",
+            "es-la": "Vaporónide",
+            "fr-fr": "Vaporonide",
+            "it-it": "Vaporagno",
+            "ja-jp": "カスミジョロウ",
+            "ko-kr": "안개 무당거미",
+            "pl-pl": "Vaporonid",
+            "pt-br": "Vaporanha",
+            "ru-ru": "Паронид",
+            "zh-cn": "霞雾蜘蛛",
+            "zh-tw": "霞霧女郎"
         }
     },
     {
-        "id": 102,
         "fixedId": -760383296,
+        "id": 104,
         "label": "EM5213_00_0",
         "name": {
-            "cn": "预兆蜻蜓",
-            "en": "Omenfly",
-            "jp": "キザシヤンマ"
+            "ar-sa": "أومينفلاي",
+            "de-de": "Omenfliege",
+            "en-us": "Omenfly",
+            "es-es": "Caballito de cuarzo",
+            "es-la": "Caballito de cuarzo",
+            "fr-fr": "Libellule divinatoire",
+            "it-it": "Libellula premonitrice",
+            "ja-jp": "キザシヤンマ",
+            "ko-kr": "징조 왕잠자리",
+            "pl-pl": "Mucha omenówka",
+            "pt-br": "Moscagouro",
+            "ru-ru": "Предвестник",
+            "zh-cn": "预兆蜻蜓",
+            "zh-tw": "預兆蜻蜓"
         }
     },
     {
-        "id": 103,
         "fixedId": 1057027712,
+        "id": 105,
         "label": "EM5214_00_0",
         "name": {
-            "cn": "花妖猩",
-            "en": "Mimiphyta",
-            "jp": "ハナショウジョウ"
+            "ar-sa": "محاكي النبات",
+            "de-de": "Tarnäffchen",
+            "en-us": "Mimiphyta",
+            "es-es": "Mimifita",
+            "es-la": "Mimiphyta",
+            "fr-fr": "Mimiflore",
+            "it-it": "Mimofita",
+            "ja-jp": "ハナショウジョウ",
+            "ko-kr": "꽃성성이",
+            "pl-pl": "Kwiatówka",
+            "pt-br": "Mimeófita",
+            "ru-ru": "Фитомимик",
+            "zh-cn": "花妖猩",
+            "zh-tw": "花猩猩"
         }
     },
     {
-        "id": 104,
         "fixedId": -614560320,
+        "id": 106,
         "label": "EM5214_10_0",
         "name": {
-            "cn": "凝目鼠",
-            "en": "Gawkie",
-            "jp": "ジロジロ"
+            "ar-sa": "غوكي",
+            "de-de": "Gaffer",
+            "en-us": "Gawkie",
+            "es-es": "Gawkie",
+            "es-la": "Gawkie",
+            "fr-fr": "Zieuteur",
+            "it-it": "Curiosoni",
+            "ja-jp": "ジロジロ",
+            "ko-kr": "빠니빠니",
+            "pl-pl": "Gapik",
+            "pt-br": "Encarão",
+            "ru-ru": "Зевака",
+            "zh-cn": "凝目鼠",
+            "zh-tw": "凝視鼠"
         }
     },
     {
-        "id": 105,
         "fixedId": -1127333376,
+        "id": 107,
         "label": "EM5215_00_0",
         "name": {
-            "cn": "绯水攀鲈",
-            "en": "Scarlet Joyperch",
-            "jp": "ヒミズキノボリウオ"
+            "ar-sa": "سمكة البهجة القرمزية",
+            "de-de": "Karmin-Wonnebarsch",
+            "en-us": "Scarlet Joyperch",
+            "es-es": "Góbido escarlata",
+            "es-la": "Perca escarlata",
+            "fr-fr": "Perche rampante",
+            "it-it": "Pesce rampicante",
+            "ja-jp": "ヒミズキノボリウオ",
+            "ko-kr": "등화수목어",
+            "pl-pl": "Wspinacz szkarłatny",
+            "pt-br": "Caçote Escarlate",
+            "ru-ru": "Рыба-древолаз",
+            "zh-cn": "绯水攀鲈",
+            "zh-tw": "緋水攀鱸"
         }
     },
     {
-        "id": 106,
         "fixedId": 69184920,
+        "id": 108,
         "label": "EM5215_10_0",
         "name": {
-            "cn": "闪灯鱼",
-            "en": "Blink Angler",
-            "jp": "マタタキウオ"
+            "ar-sa": "السمك الأحمر الياباني",
+            "de-de": "Blinzelangler",
+            "en-us": "Blink Angler",
+            "es-es": "Rape centelleante",
+            "es-la": "Rape centelleante",
+            "fr-fr": "Poisson cillant",
+            "it-it": "Ranalampante pescatrice",
+            "ja-jp": "マタタキウオ",
+            "ko-kr": "깜박어",
+            "pl-pl": "Wędkarz migoczący",
+            "pt-br": "Pesca-pisca",
+            "ru-ru": "Удильщик-мигун",
+            "zh-cn": "闪灯鱼",
+            "zh-tw": "眨眼魚"
         }
     },
     {
-        "id": 107,
         "fixedId": 1933860608,
+        "id": 109,
         "label": "EM5216_00_0",
         "name": {
-            "cn": "森盏蟹",
-            "en": "Florashell Crab",
-            "jp": "モリサカズキガニ"
+            "ar-sa": "سلطعون الصدفة النباتية",
+            "de-de": "Pflanzschalenkrabbe",
+            "en-us": "Florashell Crab",
+            "es-es": "Centollo boscoso",
+            "es-la": "Cangrejo caparaflor",
+            "fr-fr": "Floracrabe",
+            "it-it": "Granchio floraguscio",
+            "ja-jp": "モリサカズキガニ",
+            "ko-kr": "숲 술잔게",
+            "pl-pl": "Krab kwiatopancerek",
+            "pt-br": "Caranguejo Cascaflor",
+            "ru-ru": "Пышнопанцирный краб",
+            "zh-cn": "森盏蟹",
+            "zh-tw": "森杯蟹"
         }
     },
     {
-        "id": 108,
         "fixedId": -2032211072,
+        "id": 110,
         "label": "EM5216_09_0",
         "name": {
-            "cn": "古盏蟹",
-            "en": "Curioshell Crab",
-            "jp": "コットウサカズキガニ"
+            "ar-sa": "سلطعون الصدفة العتيقة",
+            "de-de": "Prunkschalenkrabbe",
+            "en-us": "Curioshell Crab",
+            "es-es": "Centollo curioso",
+            "es-la": "Cangrejo caparacurio",
+            "fr-fr": "Curiocrabe",
+            "it-it": "Granchio raroguscio",
+            "ja-jp": "コットウサカズキガニ",
+            "ko-kr": "골동 술잔게",
+            "pl-pl": "Krab ciekawopancerek",
+            "pt-br": "Caranguejo Cascurio",
+            "ru-ru": "Редкопанцирный краб",
+            "zh-cn": "古盏蟹",
+            "zh-tw": "古杯蟹"
         }
     },
     {
-        "id": 109,
         "fixedId": 552456192,
+        "id": 111,
         "label": "EM5216_10_0",
         "name": {
-            "cn": "沼盏蟹",
-            "en": "Crudeshell Crab",
-            "jp": "ヌマサカズキガニ"
+            "ar-sa": "سلطعون الصدفة النفطية",
+            "de-de": "Ölschalenkrabbe",
+            "en-us": "Crudeshell Crab",
+            "es-es": "Centollo fangoso",
+            "es-la": "Cangrejo oleoso",
+            "fr-fr": "Pétrocrabe",
+            "it-it": "Granchio olioguscio",
+            "ja-jp": "ヌマサカズキガニ",
+            "ko-kr": "늪 술잔게",
+            "pl-pl": "Krab ropopancerek",
+            "pt-br": "Caranguejo Cascóleo",
+            "ru-ru": "Грубопанцирный краб",
+            "zh-cn": "沼盏蟹",
+            "zh-tw": "沼杯蟹"
         }
     },
     {
-        "id": 110,
         "fixedId": -1853494272,
+        "id": 112,
         "label": "EM5217_00_0",
         "name": {
-            "cn": "隐遁壁虎",
-            "en": "Smokeshroud Gekko",
-            "jp": "クラマシゲッコー"
+            "ar-sa": "السحلية المتخفية",
+            "de-de": "Rauchschleiergekko",
+            "en-us": "Smokeshroud Gekko",
+            "es-es": "Gekko nebuloso",
+            "es-la": "Geco humeante",
+            "fr-fr": "Fumigecko",
+            "it-it": "Gekko sfuggente",
+            "ja-jp": "クラマシゲッコー",
+            "ko-kr": "은둔 도마뱀붙이",
+            "pl-pl": "Gekon dymnoszaty",
+            "pt-br": "Gekko Fumacento",
+            "ru-ru": "Дымный геккон",
+            "zh-cn": "隐遁壁虎",
+            "zh-tw": "隱遁壁虎"
         }
     },
     {
-        "id": 111,
         "fixedId": 1706714112,
+        "id": 113,
         "label": "EM5217_10_0",
         "name": {
-            "cn": "黑暗壁虎",
-            "en": "Gloom Gekko",
-            "jp": "クラヤミゲッコー"
+            "ar-sa": "غيكو الظلام",
+            "de-de": "Abendrotgekko",
+            "en-us": "Gloom Gekko",
+            "es-es": "Gekko crepuscular",
+            "es-la": "Geco crepuscular",
+            "fr-fr": "Gecko nocturne",
+            "it-it": "Gekko tenebroso",
+            "ja-jp": "クラヤミゲッコー",
+            "ko-kr": "어둠 도마뱀붙이",
+            "pl-pl": "Gekon mroczny",
+            "pt-br": "Gekko Trevoso",
+            "ru-ru": "Мрачный геккон",
+            "zh-cn": "黑暗壁虎",
+            "zh-tw": "黑暗蜥蜴"
         }
     },
     {
-        "id": 112,
         "fixedId": 475642368,
+        "id": 114,
         "label": "EM5218_00_0",
         "name": {
-            "cn": "端丽翼鸟",
-            "en": "Dapperwing",
-            "jp": "オメカシプテルス"
+            "ar-sa": "الجناح المرجاني",
+            "de-de": "Zierflügler",
+            "en-us": "Dapperwing",
+            "es-es": "Dignialado",
+            "es-la": "Dignialado",
+            "fr-fr": "Bellaile",
+            "it-it": "Alaelegante",
+            "ja-jp": "オメカシプテルス",
+            "ko-kr": "멋쟁이 프테루스",
+            "pl-pl": "Galantoskrzydły",
+            "pt-br": "Charmasa",
+            "ru-ru": "Пёстрокрыл",
+            "zh-cn": "端丽翼鸟",
+            "zh-tw": "端麗翼鳥"
         }
     },
     {
-        "id": 113,
         "fixedId": -1260730624,
+        "id": 115,
         "label": "EM5218_09_0",
         "name": {
-            "cn": "绚烂翼鸟",
-            "en": "Dazzlewing",
-            "jp": "ケンランプテルス"
+            "ar-sa": "الجناح الساحر",
+            "de-de": "Schillerflügler",
+            "en-us": "Dazzlewing",
+            "es-es": "Fulgalado",
+            "es-la": "Encandialado",
+            "fr-fr": "Splendaile",
+            "it-it": "Alalucente",
+            "ja-jp": "ケンランプテルス",
+            "ko-kr": "현란 프테루스",
+            "pl-pl": "Błyskoskrzydły",
+            "pt-br": "Fascinasa",
+            "ru-ru": "Блескокрыл",
+            "zh-cn": "绚烂翼鸟",
+            "zh-tw": "絢爛翼鳥"
         }
     },
     {
-        "id": 114,
         "fixedId": -1379630080,
+        "id": 116,
         "label": "EM5219_00_0",
         "name": {
-            "cn": "沙野流星",
-            "en": "Sandstar",
-            "jp": "スナノリュウセイ"
+            "ar-sa": "شهاب رملي",
+            "de-de": "Sandwusel",
+            "en-us": "Sandstar",
+            "es-es": "Arena fugaz",
+            "es-la": "Meteoro arenoso",
+            "fr-fr": "Étoile des sables",
+            "it-it": "Cometa delle dune",
+            "ja-jp": "スナノリュウセイ",
+            "ko-kr": "사막별똥별",
+            "pl-pl": "Piasgwiazda",
+            "pt-br": "Estrelareia",
+            "ru-ru": "Звезда-песчанка",
+            "zh-cn": "沙野流星",
+            "zh-tw": "沙之流星"
         }
     },
     {
-        "id": 115,
         "fixedId": -416610912,
+        "id": 117,
         "label": "EM5220_00_0",
         "name": {
-            "cn": "鳞片蝙蝠",
-            "en": "Scalebat",
-            "jp": "ウロコウモリ"
+            "ar-sa": "سكايلبات",
+            "de-de": "Grottenfledermaus",
+            "en-us": "Scalebat",
+            "es-es": "Murcielagarto",
+            "es-la": "Murcielagarto",
+            "fr-fr": "Chauve-souris à écailles",
+            "it-it": "Scagliastrello",
+            "ja-jp": "ウロコウモリ",
+            "ko-kr": "비늘 박쥐",
+            "pl-pl": "Nietoperz łuskowy",
+            "pt-br": "Morcescama",
+            "ru-ru": "Чешуйчатая летучая мышь",
+            "zh-cn": "鳞片蝙蝠",
+            "zh-tw": "鱗片蝙蝠"
         }
     },
     {
-        "id": 116,
         "fixedId": 539435712,
+        "id": 118,
         "label": "EM5221_00_0",
         "name": {
-            "cn": "望花水母",
-            "en": "Sparklerjelly",
-            "jp": "ハナミアゲ"
+            "ar-sa": "الترس الهلامي",
+            "de-de": "Feuerwerksqualle",
+            "en-us": "Sparklerjelly",
+            "es-es": "Bengaladusa",
+            "es-la": "Bengaladusa",
+            "fr-fr": "Flaméduse",
+            "it-it": "Medusa filante",
+            "ja-jp": "ハナミアゲ",
+            "ko-kr": "불꽃올리미",
+            "pl-pl": "Błyszczkoplazm",
+            "pt-br": "Gelabrilha",
+            "ru-ru": "Желёстка",
+            "zh-cn": "望花水母",
+            "zh-tw": "煙火水母"
         }
     },
     {
-        "id": 117,
         "fixedId": -2091282048,
+        "id": 119,
         "label": "EM5221_09_0",
         "name": {
-            "cn": "大望花水母",
-            "en": "Peony Sparklerjelly",
-            "jp": "タイリンハナミアゲ"
+            "ar-sa": "الترس الهلامي الدائري",
+            "de-de": "Bunte Feuerwerksqualle",
+            "en-us": "Peony Sparklerjelly",
+            "es-es": "Bengaladusa flor",
+            "es-la": "Bengaladusa flor",
+            "fr-fr": "Grande flaméduse",
+            "it-it": "Medusa filante floreale",
+            "ja-jp": "タイリンハナミアゲ",
+            "ko-kr": "큰불꽃올리미",
+            "pl-pl": "Błyszczkoplazm piwoniowy",
+            "pt-br": "Peônia Gelabrilha",
+            "ru-ru": "Розовая желёстка",
+            "zh-cn": "大望花水母",
+            "zh-tw": "大輪煙火水母"
         }
     },
     {
-        "id": 118,
         "fixedId": 1190007680,
+        "id": 120,
         "label": "EM5222_00_0",
         "name": {
-            "cn": "稚狱蛸",
-            "en": "Nu Yaya",
-            "jp": "ヌ・ヤヤ"
+            "ar-sa": "نو يايا",
+            "de-de": "Nu Yaya",
+            "en-us": "Nu Yaya",
+            "es-es": "Nu Yaya",
+            "es-la": "Nu Yaya",
+            "fr-fr": "Nu Yaya",
+            "it-it": "Nu Yaya",
+            "ja-jp": "ヌ・ヤヤ",
+            "ko-kr": "누 야야",
+            "pl-pl": "Nu Yaya",
+            "pt-br": "Nu Yaya",
+            "ru-ru": "Ну йайа",
+            "zh-cn": "稚狱蛸",
+            "zh-tw": "努亞亞"
         }
     },
     {
-        "id": 119,
         "fixedId": 238325424,
+        "id": 121,
         "label": "EM5222_10_0",
         "name": {
-            "cn": "虚幼",
-            "en": "Xu Yo",
-            "jp": "シウシウ"
+            "ar-sa": "شو يو",
+            "de-de": "Xu Yo",
+            "en-us": "Xu Yo",
+            "es-es": "Xu Yo",
+            "es-la": "Xu Yo",
+            "fr-fr": "Xu Yo",
+            "it-it": "Xu Yo",
+            "ja-jp": "シウシウ",
+            "ko-kr": "시우시우",
+            "pl-pl": "Xu Yo",
+            "pt-br": "Xu Yo",
+            "ru-ru": "Сю юй",
+            "zh-cn": "虚幼",
+            "zh-tw": "虛幼"
         }
     },
     {
-        "id": 120,
         "fixedId": 1248729344,
+        "id": 122,
         "label": "EM5223_00_0",
         "name": {
-            "cn": "空涡虫",
-            "en": "Solanaria",
-            "jp": "ソラナリア"
+            "ar-sa": "سولاناريا",
+            "de-de": "Solanaria",
+            "en-us": "Solanaria",
+            "es-es": "Solanaria",
+            "es-la": "Solanaria",
+            "fr-fr": "Solanaria",
+            "it-it": "Solanaria",
+            "ja-jp": "ソラナリア",
+            "ko-kr": "소라나리아",
+            "pl-pl": "Solanaria",
+            "pt-br": "Solanaria",
+            "ru-ru": "Соланария",
+            "zh-cn": "空涡虫",
+            "zh-tw": "空渦蟲"
         }
     },
     {
-        "id": 121,
         "fixedId": 885925056,
+        "id": 123,
         "label": "EM5224_00_0",
         "name": {
-            "cn": "虚无动",
-            "en": "Pillopod",
-            "jp": "キョムトン"
+            "ar-sa": "بيلوبود",
+            "de-de": "Kilowattschnecke",
+            "en-us": "Pillopod",
+            "es-es": "Cojinópodo",
+            "es-la": "Almobicho",
+            "fr-fr": "Plalimace",
+            "it-it": "Cuscipode",
+            "ja-jp": "キョムトン",
+            "ko-kr": "쿄무톤",
+            "pl-pl": "Poduszkopłetwy",
+            "pt-br": "Almofápode",
+            "ru-ru": "Шаробрюх",
+            "zh-cn": "虚无动",
+            "zh-tw": "虛無通"
         }
     },
     {
-        "id": 122,
         "fixedId": 1173547264,
+        "id": 124,
         "label": "EM5224_09_0",
         "name": {
-            "cn": "大虚无动",
-            "en": "Gillopod",
-            "jp": "ギョムドン"
+            "ar-sa": "غيلوبود",
+            "de-de": "Megawattschnecke",
+            "en-us": "Gillopod",
+            "es-es": "Tojinópodo",
+            "es-la": "Calmobicho",
+            "fr-fr": "Glalimace",
+            "it-it": "Gillopode",
+            "ja-jp": "ギョムドン",
+            "ko-kr": "교무돈",
+            "pl-pl": "Skrzelopłetwy",
+            "pt-br": "Elmofápode",
+            "ru-ru": "Пухлобрюх",
+            "zh-cn": "大虚无动",
+            "zh-tw": "虛無咚"
         }
     },
     {
-        "id": 123,
         "fixedId": 1176633088,
+        "id": 125,
         "label": "EM5225_00_0",
         "name": {
-            "cn": "花瓣虫",
-            "en": "Petalfly",
-            "jp": "ハナヒラムシ"
+            "ar-sa": "خنفساء العسل",
+            "de-de": "Blütenfliege",
+            "en-us": "Petalfly",
+            "es-es": "Bichipétalo",
+            "es-la": "Bichipétalo",
+            "fr-fr": "Pétaluciole",
+            "it-it": "Insetto petalo",
+            "ja-jp": "ハナヒラムシ",
+            "ko-kr": "꽃잎벌레",
+            "pl-pl": "Płatolot",
+            "pt-br": "Lipétala",
+            "ru-ru": "Цветочная муха",
+            "zh-cn": "花瓣虫",
+            "zh-tw": "花開蟲"
         }
     },
     {
-        "id": 124,
         "fixedId": 77811080,
+        "id": 126,
         "label": "EM5226_00_0",
         "name": {
-            "cn": "柔毛秧鸡",
-            "en": "Downy Crake",
-            "jp": "フワフワクイナ"
+            "ar-sa": "كريك ناعم",
+            "de-de": "Flauschhuhn",
+            "en-us": "Downy Crake",
+            "es-es": "Carrao algodón",
+            "es-la": "Carrao algodón",
+            "fr-fr": "Marouette douce",
+            "it-it": "Rallus mollis",
+            "ja-jp": "フワフワクイナ",
+            "ko-kr": "폭신폭신 뜸부기",
+            "pl-pl": "Derkacz puchaty",
+            "pt-br": "Saracura Plumosa",
+            "ru-ru": "Пуховый коростель",
+            "zh-cn": "柔毛秧鸡",
+            "zh-tw": "柔毛秧雞"
         }
     },
     {
-        "id": 125,
-        "fixedId": 24777,
-        "label": "EM5227_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 126,
         "fixedId": 599509312,
+        "id": 128,
         "label": "EM5300_00_0",
         "name": {
-            "cn": "星屑鱼",
-            "en": "Starduster",
-            "jp": "ホシクズイクチス"
+            "ar-sa": "ذرات النجوم",
+            "de-de": "Sternenstäuber",
+            "en-us": "Starduster",
+            "es-es": "Plumestelar",
+            "es-la": "Plumestelar",
+            "fr-fr": "Stellardine",
+            "it-it": "Polverestella",
+            "ja-jp": "ホシクズイクチス",
+            "ko-kr": "별무리 물고기",
+            "pl-pl": "Gwiezdnik",
+            "pt-br": "Estreleiro",
+            "ru-ru": "Звездянка",
+            "zh-cn": "星屑鱼",
+            "zh-tw": "星屑魚"
         }
     },
     {
-        "id": 127,
         "fixedId": -968922496,
+        "id": 129,
         "label": "EM5300_10_0",
         "name": {
-            "cn": "星屑鱼",
-            "en": "Starduster",
-            "jp": "ホシクズイクチス"
+            "ar-sa": "ذرات النجوم",
+            "de-de": "Sternenstäuber",
+            "en-us": "Starduster",
+            "es-es": "Plumestelar",
+            "es-la": "Plumestelar",
+            "fr-fr": "Stellardine",
+            "it-it": "Polverestella",
+            "ja-jp": "ホシクズイクチス",
+            "ko-kr": "별무리 물고기",
+            "pl-pl": "Gwiezdnik",
+            "pt-br": "Estreleiro",
+            "ru-ru": "Звездянка",
+            "zh-cn": "星屑鱼",
+            "zh-tw": "星屑魚"
         }
     },
     {
-        "id": 128,
         "fixedId": -785943680,
+        "id": 130,
         "label": "EM5301_00_0",
         "name": {
-            "cn": "橄榄弓鳍鱼",
-            "en": "Virid Bowfin",
-            "jp": "カンランアミア"
+            "ar-sa": "بافين زاهرة",
+            "de-de": "Grüner Schlammfisch",
+            "en-us": "Virid Bowfin",
+            "es-es": "Amia esmeralda",
+            "es-la": "Amia espléndida",
+            "fr-fr": "Amie émeraude",
+            "it-it": "Amia verde",
+            "ja-jp": "カンランアミア",
+            "ko-kr": "감람 아미아",
+            "pl-pl": "Amia szmaragdowa",
+            "pt-br": "Amia Virídea",
+            "ru-ru": "Изумрудный лукопёр",
+            "zh-cn": "橄榄弓鳍鱼",
+            "zh-tw": "橄欖弓鰭魚"
         }
     },
     {
-        "id": 129,
         "fixedId": -966490944,
+        "id": 131,
         "label": "EM5302_00_0",
         "name": {
-            "cn": "坚硬竹荚鱼",
-            "en": "Whetfish",
-            "jp": "キレアジ"
+            "ar-sa": "سمكة وِت",
+            "de-de": "Wetzfisch",
+            "en-us": "Whetfish",
+            "es-es": "Caballa cuchillo",
+            "es-la": "Caballa cuchillo",
+            "fr-fr": "Poissaiguiseur",
+            "it-it": "Sgombro-coltello",
+            "ja-jp": "キレアジ",
+            "ko-kr": "예리어",
+            "pl-pl": "Ostrzalnik",
+            "pt-br": "Peixe-amola",
+            "ru-ru": "Точильная рыба",
+            "zh-cn": "坚硬竹荚鱼",
+            "zh-tw": "堅硬竹筴魚"
         }
     },
     {
-        "id": 130,
         "fixedId": 1392292096,
+        "id": 132,
         "label": "EM5303_00_0",
         "name": {
-            "cn": "刺身鱼",
-            "en": "Sushifish",
-            "jp": "サシミウオ"
+            "ar-sa": "سمكة سوشي",
+            "de-de": "Sushifisch",
+            "en-us": "Sushifish",
+            "es-es": "Pez sushi",
+            "es-la": "Pez sushi",
+            "fr-fr": "Sushipoisson",
+            "it-it": "Pesce-sushi",
+            "ja-jp": "サシミウオ",
+            "ko-kr": "회어",
+            "pl-pl": "Ryba sushi",
+            "pt-br": "Peixushi",
+            "ru-ru": "Рыба-суши",
+            "zh-cn": "刺身鱼",
+            "zh-tw": "刺身魚"
         }
     },
     {
-        "id": 131,
         "fixedId": -562596928,
+        "id": 133,
         "label": "EM5304_00_0",
         "name": {
-            "cn": "贪吃金枪鱼",
-            "en": "Gastronome Tuna",
-            "jp": "大食いマグロ"
+            "ar-sa": "تونة ذواقة",
+            "de-de": "Gourmet-Thun",
+            "en-us": "Gastronome Tuna",
+            "es-es": "Atún glotón",
+            "es-la": "Atún glotón",
+            "fr-fr": "Thon glouton",
+            "it-it": "Tonno ghiottone",
+            "ja-jp": "大食いマグロ",
+            "ko-kr": "먹보다랑어",
+            "pl-pl": "Tuńczyk gastronom",
+            "pt-br": "Atum Gastrônomo",
+            "ru-ru": "Ненасытный тунец",
+            "zh-cn": "贪吃金枪鱼",
+            "zh-tw": "貪吃鮪魚"
         }
     },
     {
-        "id": 132,
         "fixedId": -1256137216,
+        "id": 134,
         "label": "EM5305_00_0",
         "name": {
-            "cn": "咬鱼",
-            "en": "Gajau",
-            "jp": "ガライーバ"
+            "ar-sa": "جاجاو",
+            "de-de": "Gajau",
+            "en-us": "Gajau",
+            "es-es": "Gajau",
+            "es-la": "Gajau",
+            "fr-fr": "Gajau",
+            "it-it": "Gajau",
+            "ja-jp": "ガライーバ",
+            "ko-kr": "가쟈우",
+            "pl-pl": "Gajau",
+            "pt-br": "Gajau",
+            "ru-ru": "Гаджау",
+            "zh-cn": "咬鱼",
+            "zh-tw": "咬魚"
         }
     },
     {
-        "id": 133,
         "fixedId": 917574976,
+        "id": 135,
         "label": "EM5306_00_0",
         "name": {
-            "cn": "小金鱼",
-            "en": "Goldenfry",
-            "jp": "小金魚"
+            "ar-sa": "سمكة قشور ذهبية",
+            "de-de": "Goldenschwimmer",
+            "en-us": "Goldenfry",
+            "es-es": "Pececito dorado",
+            "es-la": "Pececito dorado",
+            "fr-fr": "Poisson rouge",
+            "it-it": "Pesciolino dorato",
+            "ja-jp": "小金魚",
+            "ko-kr": "미니금붕어",
+            "pl-pl": "Złotopłotka",
+            "pt-br": "Peixote-dourado",
+            "ru-ru": "Позолоченная рыбка",
+            "zh-cn": "小金鱼",
+            "zh-tw": "小金魚"
         }
     },
     {
-        "id": 134,
         "fixedId": 1029639936,
+        "id": 136,
         "label": "EM5307_00_0",
         "name": {
-            "cn": "黄金鱼",
-            "en": "Goldenfish",
-            "jp": "黄金魚"
+            "ar-sa": "السمكة الذهبية",
+            "de-de": "Goldenfisch",
+            "en-us": "Goldenfish",
+            "es-es": "Pez dorado",
+            "es-la": "Pez dorado",
+            "fr-fr": "Poisson d'or",
+            "it-it": "Pesce dorato",
+            "ja-jp": "黄金魚",
+            "ko-kr": "황금어",
+            "pl-pl": "Złota rybka",
+            "pt-br": "Peixe-dourado",
+            "ru-ru": "Золотая рыбка",
+            "zh-cn": "黄金鱼",
+            "zh-tw": "黃金魚"
         }
     },
     {
-        "id": 135,
         "fixedId": 662524864,
+        "id": 137,
         "label": "EM5308_00_0",
         "name": {
-            "cn": "白金鱼",
-            "en": "Platinumfish",
-            "jp": "白金魚"
+            "ar-sa": "سمكة بلاتينية",
+            "de-de": "Platinfisch",
+            "en-us": "Platinumfish",
+            "es-es": "Pez de platino",
+            "es-la": "Pez de platino",
+            "fr-fr": "Poisson platine",
+            "it-it": "Pesce platinato",
+            "ja-jp": "白金魚",
+            "ko-kr": "백금어",
+            "pl-pl": "Platynowa rybka",
+            "pt-br": "Peixe-platinado",
+            "ru-ru": "Платиновая рыбка",
+            "zh-cn": "白金鱼",
+            "zh-tw": "白金魚"
         }
     },
     {
-        "id": 136,
         "fixedId": 944179520,
+        "id": 138,
         "label": "EM5309_00_0",
         "name": {
-            "cn": "破裂龙鱼",
-            "en": "Burst Arowana",
-            "jp": "ハレツアロワナ"
+            "ar-sa": "أروانا متفجرة",
+            "de-de": "Berst-Arowana",
+            "en-us": "Burst Arowana",
+            "es-es": "Arrowana reventona",
+            "es-la": "Arowana reventona",
+            "fr-fr": "Arowana explosif",
+            "it-it": "Arowana scoppio",
+            "ja-jp": "ハレツアロワナ",
+            "ko-kr": "파열아로와나",
+            "pl-pl": "Wybucharowana",
+            "pt-br": "Aruanã Explosivo",
+            "ru-ru": "Взрывная аравана",
+            "zh-cn": "破裂龙鱼",
+            "zh-tw": "破裂龍魚"
         }
     },
     {
-        "id": 137,
         "fixedId": -241692832,
+        "id": 139,
         "label": "EM5310_00_0",
         "name": {
-            "cn": "爆裂龙鱼",
-            "en": "Bomb Arowana",
-            "jp": "バクレツアロワナ"
+            "ar-sa": "أروانا مفجِرة",
+            "de-de": "Bomben-Arowana",
+            "en-us": "Bomb Arowana",
+            "es-es": "Arrowana bomba",
+            "es-la": "Arowana bomba",
+            "fr-fr": "Arowana bombe",
+            "it-it": "Arowana bomba",
+            "ja-jp": "バクレツアロワナ",
+            "ko-kr": "폭렬아로와나",
+            "pl-pl": "Bombarowana",
+            "pt-br": "Aruanã-bomba",
+            "ru-ru": "Аравана-бомба",
+            "zh-cn": "爆裂龙鱼",
+            "zh-tw": "爆裂龍魚"
         }
     },
     {
-        "id": 138,
         "fixedId": 713365312,
+        "id": 140,
         "label": "EM5311_00_0",
         "name": {
-            "cn": "火药金鱼",
-            "en": "Gunpowderfish",
-            "jp": "バクヤクデメキン"
+            "ar-sa": "سمكة بارود",
+            "de-de": "Schießpulverfisch",
+            "en-us": "Gunpowderfish",
+            "es-es": "Pez pólvora",
+            "es-la": "Pez pólvora",
+            "fr-fr": "Poisson-poudre",
+            "it-it": "Pesce pirico",
+            "ja-jp": "バクヤクデメキン",
+            "ko-kr": "폭약금붕어",
+            "pl-pl": "Ryba prochowa",
+            "pt-br": "Peixe-pólvora",
+            "ru-ru": "Пороховая рыба",
+            "zh-cn": "火药金鱼",
+            "zh-tw": "火藥金魚"
         }
     },
     {
-        "id": 139,
         "fixedId": 1380810112,
+        "id": 141,
         "label": "EM5312_00_0",
         "name": {
-            "cn": "大王旗鱼",
-            "en": "Speartuna",
-            "jp": "ダイオウカジキ"
+            "ar-sa": "تونة رمحية",
+            "de-de": "Speerthun",
+            "en-us": "Speartuna",
+            "es-es": "Pez arpón",
+            "es-la": "Pez arpón",
+            "fr-fr": "Makaire royal",
+            "it-it": "Marlin",
+            "ja-jp": "ダイオウカジキ",
+            "ko-kr": "대왕청새치",
+            "pl-pl": "Dziduńczyk",
+            "pt-br": "Lançatum",
+            "ru-ru": "Тунец-меч",
+            "zh-cn": "大王旗鱼",
+            "zh-tw": "大王旗魚"
         }
     },
     {
-        "id": 140,
         "fixedId": 866419904,
+        "id": 142,
         "label": "EM5313_00_0",
         "name": {
-            "cn": "化石腔棘鱼",
-            "en": "Petricanths",
-            "jp": "カセキカンス"
+            "ar-sa": "بيتريكانس",
+            "de-de": "Petricanth",
+            "en-us": "Petricanths",
+            "es-es": "Petricanto",
+            "es-la": "Petricanto",
+            "fr-fr": "Petricanthrope",
+            "it-it": "Petricante",
+            "ja-jp": "カセキカンス",
+            "ko-kr": "화석칸스",
+            "pl-pl": "Petrykant",
+            "pt-br": "Petricanto",
+            "ru-ru": "Петрикант",
+            "zh-cn": "化石腔棘鱼",
+            "zh-tw": "化石湯釜"
         }
     },
     {
-        "id": 141,
         "fixedId": -332783296,
+        "id": 143,
         "label": "EM5314_00_0",
         "name": {
-            "cn": "玻璃异形鱼",
-            "en": "Glass Parexus",
-            "jp": "グラスパレクス"
+            "ar-sa": "سمكة باريكساس الزجاجية",
+            "de-de": "Glas-Parexus",
+            "en-us": "Glass Parexus",
+            "es-es": "Parexus de cristal",
+            "es-la": "Parexus de cristal",
+            "fr-fr": "Parexus de verre",
+            "it-it": "Parexus vitreo",
+            "ja-jp": "グラスパレクス",
+            "ko-kr": "글래스파렉스",
+            "pl-pl": "Szklany parexus",
+            "pt-br": "Parexus Vítreo",
+            "ru-ru": "Стеклянный парексус",
+            "zh-cn": "玻璃异形鱼",
+            "zh-tw": "玻璃異形魚"
         }
     },
     {
-        "id": 142,
         "fixedId": 1094277632,
+        "id": 144,
         "label": "EM5315_00_0",
         "name": {
-            "cn": "入道乌贼",
-            "en": "Goliath Squid",
-            "jp": "ニュウドウイカ"
+            "ar-sa": "حبّار جولياث",
+            "de-de": "Goliath-Tintenfisch",
+            "en-us": "Goliath Squid",
+            "es-es": "Calamar goliat",
+            "es-la": "Calamar goliat",
+            "fr-fr": "Calmar titan",
+            "it-it": "Calamaro gigante",
+            "ja-jp": "ニュウドウイカ",
+            "ko-kr": "입도 오징어",
+            "pl-pl": "Kałamarnica goliat",
+            "pt-br": "Lula Colosso",
+            "ru-ru": "Кальмар-голиаф",
+            "zh-cn": "入道乌贼",
+            "zh-tw": "入道烏賊"
         }
     },
     {
-        "id": 143,
         "fixedId": -935735872,
+        "id": 145,
         "label": "EM5316_00_0",
         "name": {
-            "cn": "大珍鲈",
-            "en": "Great Trevally",
-            "jp": "ドストレバリーパーチ"
+            "ar-sa": "سمك الشيم الدموي",
+            "de-de": "Großmakrele",
+            "en-us": "Great Trevally",
+            "es-es": "Jurel matón",
+            "es-la": "Jurel luchador",
+            "fr-fr": "Grande perche",
+            "it-it": "Carango balordo",
+            "ja-jp": "ドストレバリーパーチ",
+            "ko-kr": "도스트레발리퍼치",
+            "pl-pl": "Karanks wielki",
+            "pt-br": "Xaréu Gigante",
+            "ru-ru": "Большой каранкс",
+            "zh-cn": "大珍鲈",
+            "zh-tw": "大鰺鱸"
         }
     },
     {
-        "id": 144,
         "fixedId": -383147392,
+        "id": 146,
         "label": "EM5317_00_0",
         "name": {
-            "cn": "盾章菊螺",
-            "en": "Escunite",
-            "jp": "エスカナイト"
+            "ar-sa": "إسكانيت",
+            "de-de": "Wapponit",
+            "en-us": "Escunite",
+            "es-es": "Escanita",
+            "es-la": "Escanita",
+            "fr-fr": "Escunite",
+            "it-it": "Escanito",
+            "ja-jp": "エスカナイト",
+            "ko-kr": "에스카나이트",
+            "pl-pl": "Eskanit",
+            "pt-br": "Escunita",
+            "ru-ru": "Эсканит",
+            "zh-cn": "盾章菊螺",
+            "zh-tw": "盾牌石螺"
         }
     },
     {
-        "id": 145,
         "fixedId": -1317564416,
+        "id": 147,
         "label": "EM5317_09_0",
         "name": {
-            "cn": "瑰丽盾章菊螺",
-            "en": "Grand Escunite",
-            "jp": "グランドエスカナイト"
+            "ar-sa": "إسكونيت كبير",
+            "de-de": "Großer Wapponit",
+            "en-us": "Grand Escunite",
+            "es-es": "Gran escanita",
+            "es-la": "Gran escanita",
+            "fr-fr": "Grande escunite",
+            "it-it": "Grande escanito",
+            "ja-jp": "グランドエスカナイト",
+            "ko-kr": "그랜드 에스카나이트",
+            "pl-pl": "Eskanit wielki",
+            "pt-br": "Grande Escunita",
+            "ru-ru": "Большой эсканит",
+            "zh-cn": "瑰丽盾章菊螺",
+            "zh-tw": "瑰麗盾牌石螺"
         }
     },
     {
-        "id": 146,
         "fixedId": -1598404352,
+        "id": 148,
         "label": "EM5318_00_0",
         "name": {
-            "cn": "带卵弓鳍鱼",
-            "en": "Gravid Bowfin",
-            "jp": "コモチアミア"
+            "ar-sa": "بافين حُبلَى",
+            "de-de": "Trächtiger Schlammfisch",
+            "en-us": "Gravid Bowfin",
+            "es-es": "Amia preñada",
+            "es-la": "Amia preñada",
+            "fr-fr": "Amie gravide",
+            "it-it": "Amia gravida",
+            "ja-jp": "コモチアミア",
+            "ko-kr": "알배기 아미아",
+            "pl-pl": "Amia brzemienna",
+            "pt-br": "Amia Grávida",
+            "ru-ru": "Икряной лукопёр",
+            "zh-cn": "带卵弓鳍鱼",
+            "zh-tw": "帶卵弓鰭魚"
         }
     },
     {
-        "id": 147,
         "fixedId": -667253824,
+        "id": 149,
         "label": "EM5319_00_0",
         "name": {
-            "cn": "盲鲈",
-            "en": "Blind Perch",
-            "jp": "ブラインドパーチ"
-        }
-    },
-    {
-        "id": 148,
-        "fixedId": 27789,
-        "label": "EM0003_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 149,
-        "fixedId": 2836,
-        "label": "EM0004_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 150,
-        "fixedId": 32196,
-        "label": "EM0007_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 151,
-        "fixedId": 15529,
-        "label": "EM0011_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 152,
-        "fixedId": 5185,
-        "label": "EM0018_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 153,
-        "fixedId": 8501,
-        "label": "EM0019_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 154,
-        "fixedId": 5240,
-        "label": "EM0020_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 155,
-        "fixedId": 3350,
-        "label": "EM0023_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 156,
-        "fixedId": 27175,
-        "label": "EM0024_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 157,
-        "fixedId": 14908,
-        "label": "EM0025_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 158,
-        "fixedId": 22066,
-        "label": "EM0026_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 159,
-        "fixedId": 18117,
-        "label": "EM0027_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 160,
-        "fixedId": 13180,
-        "label": "EM0032_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 161,
-        "fixedId": 3673,
-        "label": "EM0036_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 162,
-        "fixedId": 7423,
-        "label": "EM0037_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 163,
-        "fixedId": 16972,
-        "label": "EM0042_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 164,
-        "fixedId": 22174,
-        "label": "EM0043_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 165,
-        "fixedId": 23366,
-        "label": "EM0044_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 166,
-        "fixedId": 15658,
-        "label": "EM0045_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 167,
-        "fixedId": 177,
-        "label": "EM0047_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 168,
-        "fixedId": 20261,
-        "label": "EM0054_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 169,
-        "fixedId": 16629,
-        "label": "EM0057_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 170,
-        "fixedId": 21597,
-        "label": "EM0059_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 171,
-        "fixedId": 29384,
-        "label": "EM0060_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 172,
-        "fixedId": 22496,
-        "label": "EM0061_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 173,
-        "fixedId": 24076,
-        "label": "EM0062_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 174,
-        "fixedId": 882,
-        "label": "EM0063_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 175,
-        "fixedId": 19536,
-        "label": "EM0080_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 176,
-        "fixedId": 14424,
-        "label": "EM0081_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 177,
-        "fixedId": 31556,
-        "label": "EM0089_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 178,
-        "fixedId": 2290,
-        "label": "EM0090_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 179,
-        "fixedId": 12516,
-        "label": "EM0091_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 180,
-        "fixedId": 16506,
-        "label": "EM0092_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 181,
-        "fixedId": 29221,
-        "label": "EM0093_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 182,
-        "fixedId": 5593,
-        "label": "EM0094_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 183,
-        "fixedId": 25401,
-        "label": "EM0095_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 184,
-        "fixedId": 17175,
-        "label": "EM0096_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 185,
-        "fixedId": 19070,
-        "label": "EM0097_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 186,
-        "fixedId": 19802,
-        "label": "EM0098_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 187,
-        "fixedId": 13353,
-        "label": "EM0100_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 188,
-        "fixedId": 23732,
-        "label": "EM0101_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 189,
-        "fixedId": 20112,
-        "label": "EM0102_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 190,
-        "fixedId": 18945,
-        "label": "EM0103_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 191,
-        "fixedId": 24647,
-        "label": "EM0107_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 192,
-        "fixedId": 7847,
-        "label": "EM0108_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 193,
-        "fixedId": 3161,
-        "label": "EM0109_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 194,
-        "fixedId": 7890,
-        "label": "EM0110_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 195,
-        "fixedId": 18822,
-        "label": "EM0111_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 196,
-        "fixedId": 20820,
-        "label": "EM0112_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 197,
-        "fixedId": 763,
-        "label": "EM0113_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 198,
-        "fixedId": 22880,
-        "label": "EM0114_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 199,
-        "fixedId": 21320,
-        "label": "EM0115_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 200,
-        "fixedId": 8649,
-        "label": "EM0116_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 201,
-        "fixedId": 10650,
-        "label": "EM0118_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 202,
-        "fixedId": 3535,
-        "label": "EM0120_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 203,
-        "fixedId": 13356,
-        "label": "EM0122_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 204,
-        "fixedId": 25352,
-        "label": "EM0123_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 205,
-        "fixedId": 30988,
-        "label": "EM0124_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 206,
-        "fixedId": 9613,
-        "label": "EM0125_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 207,
-        "fixedId": 645,
-        "label": "EM0136_00_0",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
-        }
-    },
-    {
-        "id": 208,
-        "fixedId": 1,
-        "label": "MAX",
-        "name": {
-            "cn": "",
-            "en": "",
-            "jp": ""
+            "ar-sa": "أسماك الفرخ العمياء",
+            "de-de": "Blindbarsch",
+            "en-us": "Blind Perch",
+            "es-es": "Perca ciega",
+            "es-la": "Percha ciega",
+            "fr-fr": "Perche aveugle",
+            "it-it": "Persico cieco",
+            "ja-jp": "ブラインドパーチ",
+            "ko-kr": "블라인드 퍼치",
+            "pl-pl": "Okoń ślepy",
+            "pt-br": "Perca Cega",
+            "ru-ru": "Слепой окунь",
+            "zh-cn": "盲鲈",
+            "zh-tw": "盲鱸"
         }
     }
 ]
