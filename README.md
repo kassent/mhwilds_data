@@ -15,6 +15,10 @@ This repository serves as a reference for:
 - Researchers studying game data structures
 - Players looking for specific game element IDs
 
+## Data Source
+
+The data in this repository is extracted from various user data files in the game. The dump script (`itemdump.lua`) is provided as a reference for how the data was extracted.
+
 ## Data Format
 
 The data is stored in JSON format, making it easy to parse and use in various applications.

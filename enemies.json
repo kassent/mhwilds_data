@@ -252,6 +252,27 @@
         }
     },
     {
+        "fixedId": 13052,
+        "id": 12,
+        "label": "EM0078_00_0",
+        "name": {
+            "ar-sa": "غوغمازيوس",
+            "de-de": "Gogmazios",
+            "en-us": "Gogmazios",
+            "es-es": "Gogmazios",
+            "es-la": "Gogmazios",
+            "fr-fr": "Gogmazios",
+            "it-it": "Gogmazios",
+            "ja-jp": "ゴグマジオス",
+            "ko-kr": "고그마지오스",
+            "pl-pl": "Gogmazios",
+            "pt-br": "Gogmazios",
+            "ru-ru": "Гогмазиос",
+            "zh-cn": "巨戟龙",
+            "zh-tw": "巨戟龍"
+        }
+    },
+    {
         "fixedId": 32634,
         "id": 13,
         "label": "EM0082_00_0",
@@ -865,7 +886,7 @@
         "id": 43,
         "label": "EM1152_00_0",
         "name": {
-            "ar-sa": "بولاكتشي",
+            "ar-sa": "بولاقشي",
             "de-de": "Bulaqchi",
             "en-us": "Bulaqchi",
             "es-es": "Bulaqchi",
@@ -1474,7 +1495,7 @@
         "id": 72,
         "label": "EM5008_00_0",
         "name": {
-            "ar-sa": "حشرات الصّاعقة الكبيرة",
+            "ar-sa": "الحشرات الصّاعقة الكبيرة",
             "de-de": "Große Donnerkäfer",
             "en-us": "Great Thunderbugs",
             "es-es": "Grandes electrobichos",
@@ -2608,7 +2629,7 @@
         "id": 126,
         "label": "EM5226_00_0",
         "name": {
-            "ar-sa": "كريك ناعم",
+            "ar-sa": "كريك منفوش",
             "de-de": "Flauschhuhn",
             "en-us": "Downy Crake",
             "es-es": "Carrao algodón",

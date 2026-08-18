@@ -2272,7 +2272,7 @@
         "id": 121,
         "label": "ITEM_0148",
         "name": {
-            "ar-sa": "قنبلة إز الضوئية",
+            "ar-sa": "القنبلة الضوئية EZ",
             "de-de": "Simple Blitzkapsel",
             "en-us": "EZ Flash Bomb",
             "es-es": "Bomba de luz (apoyo)",
@@ -4530,7 +4530,7 @@
             "ko-kr": "여왕꽃의 매혹가루",
             "pl-pl": "Pyłek kwiatu królowej",
             "pt-br": "Pólen de Florarrégia",
-            "ru-ru": "Чары королевы цветов",
+            "ru-ru": "Пыльца королевы цветов",
             "zh-cn": "女王花的蛊惑粉",
             "zh-tw": "女王花的蠱惑粉"
         }
@@ -14637,6 +14637,216 @@
         }
     },
     {
+        "fixedId": 747,
+        "id": 745,
+        "label": "ITEM_0772",
+        "name": {
+            "ar-sa": "شهادة غوغمازيوس S",
+            "de-de": "Gogmazios-Zertifikat S",
+            "en-us": "Gogmazios Certificate S",
+            "es-es": "Certificado de Gogmazios S",
+            "es-la": "Certificado de Gogmazios S",
+            "fr-fr": "Certificat Gogmazios S",
+            "it-it": "Gogmazios: certificato S",
+            "ja-jp": "巨戟龍の狩猟証Ｓ",
+            "ko-kr": "거극룡 사냥증 S",
+            "pl-pl": "Certyfikat Gogmaziosa S",
+            "pt-br": "Certificado de Gogmazios S",
+            "ru-ru": "Сертификат S: гогмазиос",
+            "zh-cn": "巨戟龙狩猎证 S",
+            "zh-tw": "巨戟龍狩獵證S"
+        }
+    },
+    {
+        "fixedId": 748,
+        "id": 746,
+        "label": "ITEM_0773",
+        "name": {
+            "ar-sa": "متراس غوغمازيوس",
+            "de-de": "Gogmazios-Bollwerk",
+            "en-us": "Gogmazios Rampart",
+            "es-es": "Muralla de Gogmazios",
+            "es-la": "Muralla de Gogmazios",
+            "fr-fr": "Rempart Gogmazios",
+            "it-it": "Gogmazios: bastione",
+            "ja-jp": "巨戟龍の塁鱗",
+            "ko-kr": "거극룡의 요새비늘",
+            "pl-pl": "Bastion Gogmaziosa",
+            "pt-br": "Baluarte de Gogmazios",
+            "ru-ru": "Бастион гогмазиоса",
+            "zh-cn": "巨戟龙的垒鳞",
+            "zh-tw": "巨戟龍的壘鱗"
+        }
+    },
+    {
+        "fixedId": 749,
+        "id": 747,
+        "label": "ITEM_0774",
+        "name": {
+            "ar-sa": "حصن غوغمازيوس",
+            "de-de": "Gogmazios-Fort",
+            "en-us": "Gogmazios Fortalice",
+            "es-es": "Fortaleza de Gogmazios",
+            "es-la": "Fortaleza de Gogmazios",
+            "fr-fr": "Fortin Gogmazios",
+            "it-it": "Gogmazios: fortezza",
+            "ja-jp": "巨戟龍の砦殻",
+            "ko-kr": "거극룡의 요새갑각",
+            "pl-pl": "Fortalicja Gogmaziosa",
+            "pt-br": "Forte de Gogmazios",
+            "ru-ru": "Оплот гогмазиоса",
+            "zh-cn": "巨戟龙的砦壳",
+            "zh-tw": "巨戟龍的砦殼"
+        }
+    },
+    {
+        "fixedId": 750,
+        "id": 748,
+        "label": "ITEM_0775",
+        "name": {
+            "ar-sa": "مُمزِّق غوغمازيوس",
+            "de-de": "Gogmazios-Reißer",
+            "en-us": "Gogmazios Lacerator",
+            "es-es": "Azote de Gogmazios",
+            "es-la": "Azote de Gogmazios",
+            "fr-fr": "Fléau Gogmazios",
+            "it-it": "Gogmazios: sfregio",
+            "ja-jp": "巨戟龍の大刃",
+            "ko-kr": "거극룡의 거대날",
+            "pl-pl": "Rozpruwacz Gogmaziosa",
+            "pt-br": "Lacerador de Gogmazios",
+            "ru-ru": "Измельчитель гогмазиоса",
+            "zh-cn": "巨戟龙的巨刃",
+            "zh-tw": "巨戟龍的大刃"
+        }
+    },
+    {
+        "fixedId": 751,
+        "id": 749,
+        "label": "ITEM_0776",
+        "name": {
+            "ar-sa": "قواطع غوغمازيوس",
+            "de-de": "Gogmazios-Raspeln",
+            "en-us": "Gogmazios Shredders",
+            "es-es": "Trituradoras de Gogmazios",
+            "es-la": "Trituradoras de Gogmazios",
+            "fr-fr": "Griffes Gogmazios",
+            "it-it": "Gogmazios: trinciatori",
+            "ja-jp": "巨戟龍の大爪",
+            "ko-kr": "거극룡의 큰 발톱",
+            "pl-pl": "Szatkownice Gogmaziosa",
+            "pt-br": "Trituradoras de Gogmazios",
+            "ru-ru": "Потрошители гогмазиоса",
+            "zh-cn": "巨戟龙的巨爪",
+            "zh-tw": "巨戟龍的大爪"
+        }
+    },
+    {
+        "fixedId": 752,
+        "id": 750,
+        "label": "ITEM_0777",
+        "name": {
+            "ar-sa": "جناح غوغمازيوس المنسوج",
+            "de-de": "Gogmazios-Faserflügel",
+            "en-us": "Gogmazios Fiberwing",
+            "es-es": "Fibra de ala de Gogmazios",
+            "es-la": "Fibra de ala de Gogmazios",
+            "fr-fr": "Membrane Gogmazios",
+            "it-it": "Gogmazios: ala fibra",
+            "ja-jp": "巨戟龍の筋繊翼",
+            "ko-kr": "거극룡의 근섬유날개",
+            "pl-pl": "Włók. skrzydło Gogmaziosa",
+            "pt-br": "Fibrasa de Gogmazios",
+            "ru-ru": "Волокрыло гогмазиоса",
+            "zh-cn": "巨戟龙的筋纤翼",
+            "zh-tw": "巨戟龍的筋纖翼"
+        }
+    },
+    {
+        "fixedId": 753,
+        "id": 751,
+        "label": "ITEM_0778",
+        "name": {
+            "ar-sa": "ذيل غوغمازيوس الشوكي",
+            "de-de": "Gogmazios-Dornenschweif",
+            "en-us": "Gogmazios Thorntail",
+            "es-es": "Cola espinosa de Gogmazios",
+            "es-la": "Cola espinosa de Gogmazios",
+            "fr-fr": "Piqueue Gogmazios",
+            "it-it": "Gogmazios: punticoda",
+            "ja-jp": "巨戟龍の刺鋲尾",
+            "ko-kr": "거극룡의 가시꼬리",
+            "pl-pl": "Kolczasty ogon Gogmaziosa",
+            "pt-br": "Espinhocauda de Gogmazios",
+            "ru-ru": "Шипохвост гогмазиоса",
+            "zh-cn": "巨戟龙的刺钉尾",
+            "zh-tw": "巨戟龍的刺釘尾"
+        }
+    },
+    {
+        "fixedId": 754,
+        "id": 752,
+        "label": "ITEM_0779",
+        "name": {
+            "ar-sa": "جوهرة التنين المدمَّرة بالحروب",
+            "de-de": "Kriegsdrachenstein",
+            "en-us": "Wartorn Dragongem",
+            "es-es": "Gema dracónica bélica",
+            "es-la": "Gema de dragón bélica",
+            "fr-fr": "Gemme-dragon ravagée",
+            "it-it": "Gemmadrago bellicosa",
+            "ja-jp": "戦火の龍玉",
+            "ko-kr": "전화의 용옥",
+            "pl-pl": "Smoczy klejnot pożogi",
+            "pt-br": "Dracogema Bélica",
+            "ru-ru": "Истерзанный драконий камень",
+            "zh-cn": "战火的龙玉",
+            "zh-tw": "戰火的龍玉"
+        }
+    },
+    {
+        "fixedId": 755,
+        "id": 753,
+        "label": "ITEM_0780",
+        "name": {
+            "ar-sa": "زيت عظام التنانين الكثيف",
+            "de-de": "Schweres Drachenknochenöl",
+            "en-us": "Heavy Drakesbone Oil",
+            "es-es": "Aceite de hueso pesado",
+            "es-la": "Aceite de hueso pesado",
+            "fr-fr": "Huile de dragon épaisse",
+            "it-it": "Petrolio drag. addensato",
+            "ja-jp": "超重質龍骨油",
+            "ko-kr": "초중질용골기름",
+            "pl-pl": "Ciężki olej smoczej kości",
+            "pt-br": "Óleo Dracósseo Pesado",
+            "ru-ru": "Тяжёлое драконье масло",
+            "zh-cn": "超重质龙骨油",
+            "zh-tw": "超重質龍骨油"
+        }
+    },
+    {
+        "fixedId": 756,
+        "id": 754,
+        "label": "ITEM_0781",
+        "name": {
+            "ar-sa": "السلاح المتحول",
+            "de-de": "Mutiertes Waffenteil",
+            "en-us": "Mutated Armament",
+            "es-es": "Armamento mutado",
+            "es-la": "Armamento mutado",
+            "fr-fr": "Armement transformé",
+            "it-it": "Frammento mutato",
+            "ja-jp": "変異した兵装物",
+            "ko-kr": "변이한 병기",
+            "pl-pl": "Zmutowane uzbrojenie",
+            "pt-br": "Armamento Mutado",
+            "ru-ru": "Мутировавшее оружие",
+            "zh-cn": "变异武装物",
+            "zh-tw": "變異武裝"
+        }
+    },
+    {
         "fixedId": 758,
         "id": 756,
         "label": "ITEM_0783",
@@ -14697,6 +14907,48 @@
             "ru-ru": "Сертификат γ: ну удра",
             "zh-cn": "狱焰蛸狩猎证γ",
             "zh-tw": "獄焰鱆狩獵證γ"
+        }
+    },
+    {
+        "fixedId": 761,
+        "id": 759,
+        "label": "ITEM_0786",
+        "name": {
+            "ar-sa": "شهادة جين دهاد γ",
+            "de-de": "Jin-Dahaad-Zertifikat γ",
+            "en-us": "Jin Dahaad Certificate γ",
+            "es-es": "Certificado Jin Dahaad γ",
+            "es-la": "Certificado de Jin Dahaad γ",
+            "fr-fr": "Certificat Jin Dahaad γ",
+            "it-it": "Jin Dahaad: certificato γ",
+            "ja-jp": "凍峰竜の狩猟証γ",
+            "ko-kr": "동봉룡 사냥증 γ",
+            "pl-pl": "Certyfikat Jin Dahaada γ",
+            "pt-br": "Certificado de Jin Dahaad γ",
+            "ru-ru": "Сертификат γ: джин дахаад",
+            "zh-cn": "冻峰龙狩猎证γ",
+            "zh-tw": "凍峰龍狩獵證γ"
+        }
+    },
+    {
+        "fixedId": 762,
+        "id": 760,
+        "label": "ITEM_0787",
+        "name": {
+            "ar-sa": "شهادة آركفيلد γ",
+            "de-de": "Arkveld-Zertifikat γ",
+            "en-us": "Arkveld Certificate γ",
+            "es-es": "Certificado Arkveld γ",
+            "es-la": "Certificado de Arkveld γ",
+            "fr-fr": "Certificat Arkveld γ",
+            "it-it": "Arkveld: certificato γ",
+            "ja-jp": "鎖刃竜の狩猟証γ",
+            "ko-kr": "쇄인룡 사냥증 γ",
+            "pl-pl": "Certyfikat Arkvelda γ",
+            "pt-br": "Certificado de Arkveld γ",
+            "ru-ru": "Сертификат γ: арквельд",
+            "zh-cn": "锁刃龙狩猎证γ",
+            "zh-tw": "鎖刃龍狩獵證γ"
         }
     },
     {
@@ -14907,6 +15159,69 @@
             "ru-ru": "Каталог Чар снов",
             "zh-cn": "梦灯样册",
             "zh-tw": "夢燈目錄"
+        }
+    },
+    {
+        "fixedId": 774,
+        "id": 772,
+        "label": "ITEM_0799",
+        "name": {
+            "ar-sa": "تذكرة ترنيمة النور",
+            "de-de": "Lichterglanz-Ticket",
+            "en-us": "Lumenhymn Ticket",
+            "es-es": "Vale del iluminario",
+            "es-la": "Cupón de Iluminario",
+            "fr-fr": "Ticket Chant des lumières",
+            "it-it": "Biglietto Luminalia",
+            "ja-jp": "祭事チケット【祝謡】",
+            "ko-kr": "축제 티켓【축요】",
+            "pl-pl": "Kwit Hymnu Jasności",
+            "pt-br": "Bilhete do Ilumicanto",
+            "ru-ru": "Билет Гимна света",
+            "zh-cn": "祭典票券【祝谣】",
+            "zh-tw": "慶典票【祝謠】"
+        }
+    },
+    {
+        "fixedId": 775,
+        "id": 773,
+        "label": "ITEM_0800",
+        "name": {
+            "ar-sa": "تذكرة زي الحفل",
+            "de-de": "Galaanzug-Ticket",
+            "en-us": "Gala Suit Ticket",
+            "es-es": "Vale de traje de gala",
+            "es-la": "Cupón de traje de gala",
+            "fr-fr": "Ticket Tenue de gala",
+            "it-it": "Biglietto gran galà",
+            "ja-jp": "フルドレスチケット",
+            "ko-kr": "풀드레스 티켓",
+            "pl-pl": "Kwit stroju galowego",
+            "pt-br": "Bilhete do Traje de Gala",
+            "ru-ru": "Билет концертн. костюма",
+            "zh-cn": "盛装票",
+            "zh-tw": "盛裝票"
+        }
+    },
+    {
+        "fixedId": 776,
+        "id": 774,
+        "label": "ITEM_0801",
+        "name": {
+            "ar-sa": "كتالوج ترنيمة النور",
+            "de-de": "Lichterglanz-Katalog",
+            "en-us": "Lumenhymn Catalog",
+            "es-es": "Catálogo del iluminario",
+            "es-la": "Catálogo de Iluminario",
+            "fr-fr": "Catalogue Chant des lumières",
+            "it-it": "Catalogo Luminalia",
+            "ja-jp": "祝謡のカタログ",
+            "ko-kr": "축요 카탈로그",
+            "pl-pl": "Katalog Hymnu Jasności",
+            "pt-br": "Catálogo do Ilumicanto",
+            "ru-ru": "Каталог Гимна света",
+            "zh-cn": "祝谣样册",
+            "zh-tw": "祝謠目錄"
         }
     },
     {
@@ -15128,7 +15443,7 @@
             "de-de": "Traumzauber-Gutschein",
             "en-us": "Dreamspell Voucher",
             "es-es": "Cupón del sueñiencanto",
-            "es-la": "Cupón de Sueñiencanto",
+            "es-la": "Cupón del Sueñiencanto",
             "fr-fr": "Coupon Veillée des rêves",
             "it-it": "Buono Ognissogni",
             "ja-jp": "夢灯のお食事券",
@@ -15138,6 +15453,48 @@
             "ru-ru": "Талон Чар снов",
             "zh-cn": "梦灯餐券",
             "zh-tw": "夢燈餐券"
+        }
+    },
+    {
+        "fixedId": 789,
+        "id": 787,
+        "label": "ITEM_0814",
+        "name": {
+            "ar-sa": "قسيمة ترنيمة النور",
+            "de-de": "Lichterglanz-Gutschein",
+            "en-us": "Lumenhymn Voucher",
+            "es-es": "Cupón del iluminario",
+            "es-la": "Cupón del Iluminario",
+            "fr-fr": "Coupon Chant des lumières",
+            "it-it": "Buono Luminalia",
+            "ja-jp": "祝謡のお食事券",
+            "ko-kr": "축요 식사권",
+            "pl-pl": "Talon Hymnu Jasności",
+            "pt-br": "Vale-refeição do Ilumicanto",
+            "ru-ru": "Талон Гимна света",
+            "zh-cn": "祝谣餐券",
+            "zh-tw": "祝謠餐券"
+        }
+    },
+    {
+        "fixedId": 790,
+        "id": 788,
+        "label": "ITEM_0815",
+        "name": {
+            "ar-sa": "نموذج طلبية ICHIRAN",
+            "de-de": "ICHIRAN-Bestellformular",
+            "en-us": "ICHIRAN Order Form",
+            "es-es": "Hoja de pedido de ICHIRAN",
+            "es-la": "Hoja de pedido de ICHIRAN",
+            "fr-fr": "Bon de commande ICHIRAN",
+            "it-it": "Modulo d'ordine ICHIRAN",
+            "ja-jp": "【一蘭】オーダー用紙",
+            "ko-kr": "【이치란】주문 용지",
+            "pl-pl": "Formularz zamówienia ICHIRAN",
+            "pt-br": "Ficha de Pedido ICHIRAN",
+            "ru-ru": "Бланк заказа ICHIRAN",
+            "zh-cn": "【一蘭】点餐单",
+            "zh-tw": "【一蘭】點餐用紙"
         }
     },
     {
@@ -15309,6 +15666,69 @@
         }
     },
     {
+        "fixedId": 800,
+        "id": 798,
+        "label": "ITEM_0825",
+        "name": {
+            "ar-sa": "تذكرة أوريون",
+            "de-de": "Orion-Ticket",
+            "en-us": "Orion Ticket",
+            "es-es": "Vale de Orión",
+            "es-la": "Cupón de Orión",
+            "fr-fr": "Ticket Orion",
+            "it-it": "Biglietto Orione",
+            "ja-jp": "オリオンチケット",
+            "ko-kr": "오리온 티켓",
+            "pl-pl": "Kwit Oriona",
+            "pt-br": "Bilhete de Órion",
+            "ru-ru": "Билет Ориона",
+            "zh-cn": "猎户星票",
+            "zh-tw": "獵戶星票"
+        }
+    },
+    {
+        "fixedId": 801,
+        "id": 799,
+        "label": "ITEM_0826",
+        "name": {
+            "ar-sa": "وودوود مفتون",
+            "de-de": "Wudwud-Schluckschmück",
+            "en-us": "Wudwud Likey-like",
+            "es-es": "Cosita chula Wudwud",
+            "es-la": "Guiño de Wudwud",
+            "fr-fr": "Précis-précieux Wudwud",
+            "it-it": "Replica Wudwud",
+            "ja-jp": "モリバーのオキニイリ",
+            "ko-kr": "모리바의 애장품",
+            "pl-pl": "Ulubionek Leśniaka",
+            "pt-br": "Interessantesa de Wudwud",
+            "ru-ru": "Любимка вудвуда",
+            "zh-cn": "森狸人的珍藏",
+            "zh-tw": "莫利巴的珍愛"
+        }
+    },
+    {
+        "fixedId": 802,
+        "id": 800,
+        "label": "ITEM_0827",
+        "name": {
+            "ar-sa": "ملصق المطلوب فيلاين",
+            "de-de": "Felyne-Steckbrief",
+            "en-us": "Felyne Wanted Poster",
+            "es-es": "Póster de \"Se busca\" Felyne",
+            "es-la": "Póster de \"Se busca\" camarada",
+            "fr-fr": "Avis de recherche Felyne",
+            "it-it": "Poster ricercato F",
+            "ja-jp": "イタズラネコの人相書",
+            "ko-kr": "짓궂은 고양이 인상 기록",
+            "pl-pl": "Feliński list gończy",
+            "pt-br": "Cartaz de Felyno Procurado",
+            "ru-ru": "Плакат «Разыскивается котт»",
+            "zh-cn": "捣蛋猫的通缉令",
+            "zh-tw": "惡作劇貓的通緝令"
+        }
+    },
+    {
         "fixedId": 803,
         "id": 801,
         "label": "ITEM_0828",
@@ -15369,6 +15789,27 @@
             "ru-ru": "Призрачная бочковая бомба",
             "zh-cn": "大桶爆弹【灵魂】",
             "zh-tw": "大爆彈桶【靈魂】"
+        }
+    },
+    {
+        "fixedId": 806,
+        "id": 804,
+        "label": "ITEM_0831",
+        "name": {
+            "ar-sa": "برميل وودوود متفجر",
+            "de-de": "Wudwud-Fassbombe",
+            "en-us": "Wudwud Barrel Bomb",
+            "es-es": "Bomba de barril Wudwud",
+            "es-la": "Bombarril Wudwud",
+            "fr-fr": "Bombe baril Wudwud",
+            "it-it": "Bomba-botte Wudwud",
+            "ja-jp": "大タル爆弾【モリバー】",
+            "ko-kr": "대형나무통폭탄【모리바】",
+            "pl-pl": "Leśniakowa bomba beczkowa",
+            "pt-br": "Bomba Barril Wudwud",
+            "ru-ru": "Вудвудская бочковая бомба",
+            "zh-cn": "大桶爆弹【森狸人】",
+            "zh-tw": "大爆彈桶【莫利巴】"
         }
     },
     {
@@ -15624,6 +16065,27 @@
         }
     },
     {
+        "fixedId": 820,
+        "id": 818,
+        "label": "ITEM_0845",
+        "name": {
+            "ar-sa": "بندقية صغيرة مضادة لـ وايفرن",
+            "de-de": "Anti-Wyvern-Kleingeschütz",
+            "en-us": "Compact Anti-Wyvern Gun",
+            "es-es": "Cañón antidragón compacto",
+            "es-la": "Pistola compacta antiwyvern",
+            "fr-fr": "Canon compact anti-wyverne",
+            "it-it": "Cannone comp. anti-wyvern",
+            "ja-jp": "小型破竜筒",
+            "ko-kr": "소형 파룡통",
+            "pl-pl": "Mała broń antywiwernowa",
+            "pt-br": "Arma Compacta Antisserpe",
+            "ru-ru": "Компактная антививерновая пушка",
+            "zh-cn": "小型破龙筒",
+            "zh-tw": "小型破龍筒"
+        }
+    },
+    {
         "fixedId": 821,
         "id": 819,
         "label": "ITEM_0846",
@@ -15666,6 +16128,27 @@
         }
     },
     {
+        "fixedId": 823,
+        "id": 821,
+        "label": "ITEM_0848",
+        "name": {
+            "ar-sa": "تميمة عتيقة",
+            "de-de": "Altes Amulett",
+            "en-us": "Timeworn Charm",
+            "es-es": "Amuleto desgastado",
+            "es-la": "Amuleto viejo",
+            "fr-fr": "Talisman abîmé",
+            "it-it": "Amuleto consunto",
+            "ja-jp": "古びたお守り",
+            "ko-kr": "낡은 부적",
+            "pl-pl": "Przestarzały amulet",
+            "pt-br": "Amuleto Erodido",
+            "ru-ru": "Ветхий оберег",
+            "zh-cn": "陈旧护符",
+            "zh-tw": "老舊護身符"
+        }
+    },
+    {
         "fixedId": 824,
         "id": 822,
         "label": "ITEM_0849",
@@ -15684,6 +16167,258 @@
             "ru-ru": "Серебр. билет талисманов",
             "zh-cn": "银之护身符票",
             "zh-tw": "銀之護身符票"
+        }
+    },
+    {
+        "fixedId": 825,
+        "id": 823,
+        "label": "ITEM_0850",
+        "name": {
+            "ar-sa": "تذكرة التعويذة الذهبية",
+            "de-de": "Goldtalisman-Ticket",
+            "en-us": "Gold Talisman Ticket",
+            "es-es": "Vale de talismán de oro",
+            "es-la": "Cupón de talismán de oro",
+            "fr-fr": "Ticket Talisman d'or",
+            "it-it": "Buono amuleto oro",
+            "ja-jp": "金のお守りチケット",
+            "ko-kr": "금 부적 티켓",
+            "pl-pl": "Złoty kwit talizmanu",
+            "pt-br": "Bilhete de Talismã de Ouro",
+            "ru-ru": "Золотой билет талисманов",
+            "zh-cn": "金之护身符票",
+            "zh-tw": "金之護身符票"
+        }
+    },
+    {
+        "fixedId": 826,
+        "id": 824,
+        "label": "ITEM_0851",
+        "name": {
+            "ar-sa": "شارة صُقلت في المعارك",
+            "de-de": "Kampferprobten-Symbol",
+            "en-us": "Battle-tempered Emblem",
+            "es-es": "Emblema curtido en combate",
+            "es-la": "Emblema curtido en combate",
+            "fr-fr": "Emblème Forgé dans le combat",
+            "it-it": "Emblema temprato",
+            "ja-jp": "歴戦錬磨の証",
+            "ko-kr": "역전 연마의 증표",
+            "pl-pl": "Symbol hartu walki",
+            "pt-br": "Emblema Aguerrido",
+            "ru-ru": "Закалённая эмблема",
+            "zh-cn": "身经百战之证",
+            "zh-tw": "身歷百戰之證"
+        }
+    },
+    {
+        "fixedId": 827,
+        "id": 825,
+        "label": "ITEM_0852",
+        "name": {
+            "ar-sa": "مخبأ سري",
+            "de-de": "Geheimbeutel",
+            "en-us": "Secret Stash",
+            "es-es": "Bolsa secreta",
+            "es-la": "Bolsa secreta",
+            "fr-fr": "Poche secrète",
+            "it-it": "Scorta segreta",
+            "ja-jp": "秘密のポーチ",
+            "ko-kr": "비밀 주머니",
+            "pl-pl": "Sekretna skrytka",
+            "pt-br": "Depósito Secreto",
+            "ru-ru": "Тайник",
+            "zh-cn": "秘密袋",
+            "zh-tw": "秘密包包"
+        }
+    },
+    {
+        "fixedId": 828,
+        "id": 826,
+        "label": "ITEM_0853",
+        "name": {
+            "ar-sa": "بلوط مستدير",
+            "de-de": "Runde Eichel",
+            "en-us": "Round Acorn",
+            "es-es": "Bellota redonda",
+            "es-la": "Bellota redonda",
+            "fr-fr": "Gland rond",
+            "it-it": "Ghianda tonda",
+            "ja-jp": "まんまるドングリ",
+            "ko-kr": "동글동글 도토리",
+            "pl-pl": "Okrągły żołądź",
+            "pt-br": "Bolota Redonda",
+            "ru-ru": "Круглый жёлудь",
+            "zh-cn": "圆滚滚橡子",
+            "zh-tw": "圓滾滾橡實"
+        }
+    },
+    {
+        "fixedId": 829,
+        "id": 827,
+        "label": "ITEM_0854",
+        "name": {
+            "ar-sa": "طابع بصمة المخلب",
+            "de-de": "Tatzenabdruckmarke",
+            "en-us": "Pawprint Stamp",
+            "es-es": "Sello huella",
+            "es-la": "Sello de huella",
+            "fr-fr": "Pattes-de-chat",
+            "it-it": "Bollo a impronta",
+            "ja-jp": "肉球のスタンプ",
+            "ko-kr": "발바닥 스탬프",
+            "pl-pl": "Stempel łapy",
+            "pt-br": "Carimbo de Pata",
+            "ru-ru": "Отпечаток лапы",
+            "zh-cn": "肉球印章",
+            "zh-tw": "肉球印章"
+        }
+    },
+    {
+        "fixedId": 830,
+        "id": 828,
+        "label": "ITEM_0855",
+        "name": {
+            "ar-sa": "جوهرة نجمية لازوردية",
+            "de-de": "Azurstern-Juwel",
+            "en-us": "Azure Stargem",
+            "es-es": "Gema estrella celeste",
+            "es-la": "Gema estrella celeste",
+            "fr-fr": "Gemme d'astre bleu",
+            "it-it": "Gemma astro celeste",
+            "ja-jp": "蒼星の宝玉",
+            "ko-kr": "파란별의 보옥",
+            "pl-pl": "Klejnot Lazurowej Gwiazdy",
+            "pt-br": "Joia Estelar Lazúli",
+            "ru-ru": "Лазурный звёздный камень",
+            "zh-cn": "苍星宝玉",
+            "zh-tw": "蒼星寶玉"
+        }
+    },
+    {
+        "fixedId": 832,
+        "id": 830,
+        "label": "ITEM_0857",
+        "name": {
+            "ar-sa": "هيكل الحشرة",
+            "de-de": "Insektenhülse",
+            "en-us": "Insect Husk",
+            "es-es": "Cascarón de insecto",
+            "es-la": "Cáscara de insecto",
+            "fr-fr": "Carapace d'insecte",
+            "it-it": "Guscio d'insetto",
+            "ja-jp": "虫の死骸",
+            "ko-kr": "죽은 곤충",
+            "pl-pl": "Owadzi pancerz",
+            "pt-br": "Couraça de Inseto",
+            "ru-ru": "Оболочка насекомого",
+            "zh-cn": "虫的尸骸",
+            "zh-tw": "蟲的屍體"
+        }
+    },
+    {
+        "fixedId": 833,
+        "id": 831,
+        "label": "ITEM_0858",
+        "name": {
+            "ar-sa": "ياقوت فرو فيلاين",
+            "de-de": "Felyne-Pelzrubin",
+            "en-us": "Felyne Fur Ruby",
+            "es-es": "Rubí piel de Felyne",
+            "es-la": "Rubí piel de Felyne",
+            "fr-fr": "Fourrure Felyne rubis",
+            "it-it": "Felyne: rubino",
+            "ja-jp": "ネコ毛の紅玉",
+            "ko-kr": "고양이털 홍옥",
+            "pl-pl": "Włochaty rubin",
+            "pt-br": "Rubi de Pelo Felyno",
+            "ru-ru": "Рубин из шерсти котта",
+            "zh-cn": "猫毛红玉",
+            "zh-tw": "貓毛紅玉"
+        }
+    },
+    {
+        "fixedId": 834,
+        "id": 832,
+        "label": "ITEM_0859",
+        "name": {
+            "ar-sa": "شارة فيلاين المَلكي",
+            "de-de": "Königsfelynenemblem",
+            "en-us": "Royal Felyne Emblem",
+            "es-es": "Emblema de Felyne regio",
+            "es-la": "Emblema de Felyne nobiliario",
+            "fr-fr": "Emblème de Felyne royal",
+            "it-it": "Emblema del Felyne reale",
+            "ja-jp": "ロイヤルアイルーの証",
+            "ko-kr": "로열 아이루의 증표",
+            "pl-pl": "Symbol królewskiego felina",
+            "pt-br": "Emblema de Felyno Real",
+            "ru-ru": "Эмблема королевского палико",
+            "zh-cn": "皇家艾露猫之证",
+            "zh-tw": "皇家艾路之證"
+        }
+    },
+    {
+        "fixedId": 836,
+        "id": 834,
+        "label": "ITEM_0861",
+        "name": {
+            "ar-sa": "مخطوطة سيد الحرفيين",
+            "de-de": "Meisterschmied-Entwurf",
+            "en-us": "Master Craftsman's Blueprint",
+            "es-es": "Planos del maestro artesano",
+            "es-la": "Planos del maestro artesano",
+            "fr-fr": "Plan du maître artisan",
+            "it-it": "Progetto del mastro artigiano",
+            "ja-jp": "名匠の設計図",
+            "ko-kr": "명장의 설계도",
+            "pl-pl": "Projekt mistrza rzemiosła",
+            "pt-br": "Projeto do Artesão Mestre",
+            "ru-ru": "Чертёж мастера",
+            "zh-cn": "名匠的设计图",
+            "zh-tw": "名匠設計圖"
+        }
+    },
+    {
+        "fixedId": 837,
+        "id": 835,
+        "label": "ITEM_0862",
+        "name": {
+            "ar-sa": "رسمة رومبوبولو",
+            "de-de": "Rompopolo-Skizze",
+            "en-us": "Rompopolo Sketch",
+            "es-es": "Dibujo de Rompopolo",
+            "es-la": "Boceto de Rompopolo",
+            "fr-fr": "Croquis Rompopolo",
+            "it-it": "Bozza di Rompopolo",
+            "ja-jp": "ププロポルのスケッチ",
+            "ko-kr": "푸푸로포루 스케치",
+            "pl-pl": "Szkic Rompopola",
+            "pt-br": "Esboço de Rompopolo",
+            "ru-ru": "Набросок ромпополо",
+            "zh-cn": "沼喷龙素描",
+            "zh-tw": "沼噴龍畫像"
+        }
+    },
+    {
+        "fixedId": 838,
+        "id": 836,
+        "label": "ITEM_0863",
+        "name": {
+            "ar-sa": "بيضة وحش",
+            "de-de": "Monstie-Ei",
+            "en-us": "Monstie Egg",
+            "es-es": "Huevo de Monstie",
+            "es-la": "Huevos de Monstie",
+            "fr-fr": "Œuf de Monstie",
+            "it-it": "Uovo di Monstie",
+            "ja-jp": "オトモンのタマゴ",
+            "ko-kr": "동료몬의 알",
+            "pl-pl": "Jajo potworka",
+            "pt-br": "Ovo de Monstie",
+            "ru-ru": "Яйцо монстрика",
+            "zh-cn": "随行兽的蛋",
+            "zh-tw": "隨行獸的蛋"
         }
     }
 ]
